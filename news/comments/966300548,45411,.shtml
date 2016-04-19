@@ -1,0 +1,47 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:1-->
+<title>OliverWEB - Discussing: New System Specs</title>
+</head>
+
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#0000FF">New System Specs</font> </b><font face="arial" size="1">Monday, August 14, 2000</font><br><font size="2" face="arial">Hehehe... okay, built my new computer (most of you know already... but I like talking about it =). Specs:<ul><li>Athlon Thunderbird 750 @ 963MHz =)<li>Asus A7V r1.01 motherboard<li>Mushkin 128MB PC133 RAM<li>Asus V7700 Deluxe GeForce2 TV in/out<li>IBM 15GB 7200RPM HD<li>Creative Sound Blaster Live! Value</ul>Heheheheheheheeeee!!!! I'm having fun... I'm such a nerd. =)<br>-<a href="mailto:oliver@oliverweb.com">Oliver</a></p></font>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 677231-966733244 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - <font color="#00FF00">Oliver</font></font> <font face=arial size=1>Saturday, August 19, 2000</font><br>
+      <font face=arial size=1><a href=mailto:oliver@oliverweb.com>oliver@oliverweb.com</a> (<font size="1" face="Arial">IP Hidden</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email oliver@oliverweb.com end_email start_name Oliver end_name end_fields--><!--ktalk start_comment-->It's at 840MHz now... figured that was enough for now without extreme cooling. =)<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 677231-966733244 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="966300548,45411,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->

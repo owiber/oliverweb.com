@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>
+OliverWEB - Pictures
+</title></head>
+<!--#include virtual="../../ssi/top.shtml"-->
+<center><h2><font color=blue>Pics!</font></h2><p>
+<!--#include virtual="../contents.txt"-->
+
+<img src=oliviasarah.jpg width=300 height=214><br>
+The camera war between Olivia & Sarah...<p>
+
+<img src=ochs.jpg width=300 height=214><br>
+Ochs thinks he's got a camera. Amanda... eh... no comment. ;)<p>
+
+<img src=amanda.jpg width=300 height=239><br>
+Amanda: "I can fly! I can fly!"<p>
+
+<img src=sarahamanda.jpg width=300 height=223><br>
+Mesmerized by the lights.<p>
+
+<!--#include virtual="../contents.txt"-->
+<!--#include virtual="../../ssi/bottom.shtml"-->

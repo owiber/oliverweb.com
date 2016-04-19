@@ -1,0 +1,61 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:2-->
+<title>OliverWEB - Discussing: YAY ME!!</title>
+</head>
+
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">YAY ME!!</font> </b><font face="arial" size="1">Friday, October 19, 2001</font><br><font size="2" face="arial">Just to let everyone know...<br><br><center><font color="#000fF0"<b><i>I just earned Margarita Beads!!</i></b></font></center><br><br>oh yeah... I rule.<br><b>-<a href="mailto:minix1f@aol.com">Minix</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 153869-1003636870 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>2</b> - Minix</font> <font face=arial size=1>Saturday, October 20, 2001</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">24.27.54.78</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Minix end_name end_fields--><!--ktalk start_comment-->We were all flubbing up words last night, and I had said that... then decided to post, and wrote the same thing just to be dumb =)<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 153869-1003636870 --><!--ktalk start_item 168365-1003634260 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - Sarah</font> <font face=arial size=1>Saturday, October 20, 2001</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">65.230.255.94</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Sarah end_name end_fields--><!--ktalk start_comment-->Um.... are you attempting to say Mardi Gras? <!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 168365-1003634260 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="1003554964,5810,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->

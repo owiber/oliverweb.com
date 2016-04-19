@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>
+OliverWEB - Pictures
+</title></head>
+<!--#include virtual="../../ssi/top.shtml"-->
+<center><h2><font color=blue>Pics!</font></h2><p>
+<!--#include virtual="../contents.txt"-->
+
+ <img border="1" src="amigos.jpg" width="400" height="257"><br>
+New Year's Day at like 10AM.<p>
+
+<img border="1" src="chad.jpg" width="400" height="322"><br>
+Chad: &quot;Hehe, dude I have an incredible wedgie!&quot;<p><img border="1" src="co.jpg" width="400" height="258"><br>
+You can just imagine the things that can be going through Chad's head... =)<br>
+Chad: &quot;hehe... fire... fire... hehe... fire fire...&quot;<br>
+Oliver: &quot;Man... that's... bright.&quot;<p>
+
+<img border="1" src="minix.jpg" width="400" height="244"><br>
+Minix: &quot;Like my room, ya'll?&quot;<p>
+
+<!--#include virtual="../contents.txt"-->
+<!--#include virtual="../../ssi/bottom.shtml"-->

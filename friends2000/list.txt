@@ -1,0 +1,70 @@
+<SCRIPT LANGUAGE = "JavaScript">
+<!--
+function MakeArray()
+        {
+        this.length = MakeArray.arguments.length
+        for (var i = 0; i < this.length; i++)
+        this[i+1] = MakeArray.arguments[i]
+        }
+
+var siteopt = new MakeArray(
+			"Friends 2000",
+			"Oliver",
+			"Olivia",
+			"Ochs",
+			"Sarah",
+			"Minix",
+			"Jennifer",
+			"Amanda K.",
+			"Amanda W.",
+			"Christine",
+			"Critter",
+			"Van",
+			"Nancy",
+			"Grace",
+			"Chad"
+			);
+
+var url = new MakeArray("",
+			"index.shtml",
+   		    "olivia.shtml",
+   		    "ochs.shtml",
+   		    "sarah.shtml",
+   		    "minix.shtml",
+   		    "jennifer.shtml",
+   		    "amandak.shtml",
+   		    "amandaw.shtml",
+   		    "christine.shtml",
+   		    "critter.shtml",
+   		    "van.shtml",
+   		    "nancy.shtml",
+   		    "grace.shtml",
+   		    "Chad"
+     		);
+
+function jumpPage(form) {
+        i = form.SelectMenu.selectedIndex;
+        if (i == 0) return;
+        window.location.href = url[i+1];
+}
+//-->
+</SCRIPT>
+			<SCRIPT LANGUAGE = "JavaScript">
+			<!--
+			document.writeln('<FORM><SELECT NAME="SelectMenu" onChange="jumpPage(this.form)">');
+			tot = siteopt.length;
+		    for (var i = 1; i <= tot; i++)
+		        document.write("<OPTION>" +siteopt[i]);
+			document.writeln('</SELECT>');
+			if (navigator.userAgent.indexOf("Mozilla/2") != -1)
+			document.writeln('<INPUT TYPE = BUTTON VALUE = "GO!">');
+			document.writeln('</FORM>');
+			//-->
+			</SCRIPT>
+
+			<SCRIPT LANGUAGE = "JavaScript">
+			<!--
+			if (navigator.userAgent.indexOf("Mozilla/2") != -1)
+				document.writeln("The go button doesn't actually do anything, it's just there because of a bug in Netscape 2.x.");
+			//-->
+			</SCRIPT>

@@ -1,0 +1,103 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:5-->
+<title>OliverWEB - Discussing: Andrew's Retaliation</title>
+</head>
+
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">Andrew's Retaliation</font> </b><font face="arial" size="1">Monday, November 19, 2001</font><br><font size="2" face="arial">Got a little something from Andrew...<br><br><center><img src=http://www.oliverweb.com/newsimages/byebyepug.jpg width=300 height=200 border=1 alt="HAHA!"><br><i>"A pug frolicking on the grass on a sweet summer day."</i></center><br><b>-<a href="mailto:oliver@oliverweb.com">Oliver</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 398825-1006230327 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>5</b> - Minix</font> <font face=arial size=1>Monday, November 19, 2001</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">129.116.18.117</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Minix end_name end_fields--><!--ktalk start_comment-->Carnivourous Chad Eating Pug<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 398825-1006230327 --><!--ktalk start_item 142689-1006230135 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>4</b> - Chad</font> <font face=arial size=1>Monday, November 19, 2001</font><br>
+      <font face=arial size=1><a href=mailto:nosliwc156@aol.com>nosliwc156@aol.com</a> (<font size="1">129.116.18.33</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email nosliwc156@aol.com end_email start_name Chad end_name end_fields--><!--ktalk start_comment-->Hey you know what they say, the only good pug is a...<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 142689-1006230135 --><!--ktalk start_item 34562-1006228029 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>3</b> - Minix</font> <font face=arial size=1>Monday, November 19, 2001</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">129.116.18.117</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Minix end_name end_fields--><!--ktalk start_comment-->bas...baseball...<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 34562-1006228029 --><!--ktalk start_item 949190-1006227204 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>2</b> - Olivia</font> <font face=arial size=1>Monday, November 19, 2001</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">66.25.208.43</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Olivia end_name end_fields--><!--ktalk start_comment-->That IS pretty nasty... poor pug... it looks even uglier now<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 949190-1006227204 --><!--ktalk start_item 665789-1006222885 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - Nancy</font> <font face=arial size=1>Monday, November 19, 2001</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">129.116.18.207</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Nancy end_name end_fields--><!--ktalk start_comment-->That's uh...pretty gross Andrew. I think you don't like dogs..and even if you do, you are dogist!<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 665789-1006222885 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="1006222683,10076,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->

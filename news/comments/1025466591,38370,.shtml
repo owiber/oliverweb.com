@@ -1,0 +1,75 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:3-->
+<title>OliverWEB - Discussing: NWN</title>
+</head>
+
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">NWN</font> </b><font face="arial" size="1">Sunday, June 30, 2002</font><br><font size="2" face="arial">I hate you guys... you never should have even mentioned it to me.<br><b>-<a href="mailto:oliver@oliverweb.com">Oliver</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 173506-1025588781 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>3</b> - Minix</font> <font face=arial size=1>Monday, July 1, 2002</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">66.68.129.175</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Minix end_name end_fields--><!--ktalk start_comment-->lol,  I watched EQ take over Joey, I'm not touching any computer game that could ever be labeled addictive... <br><br><br>... stupid cs...<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 173506-1025588781 --><!--ktalk start_item 46118-1025469759 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>2</b> - Oriana</font> <font face=arial size=1>Sunday, June 30, 2002</font><br>
+      <font face=arial size=1><a href=mailto:oriana@oliverweb.com>oriana@oliverweb.com</a> (<font size="1">66.25.212.20</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email oriana@oliverweb.com end_email start_name Oriana end_name end_fields--><!--ktalk start_comment-->It's cool :). I like MewMew.<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 46118-1025469759 --><!--ktalk start_item 50771-1025469329 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - Olivia</font> <font face=arial size=1>Sunday, June 30, 2002</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">66.25.212.20</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Olivia end_name end_fields--><!--ktalk start_comment-->Yeah, tell me about it... &gt; . &lt;<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 50771-1025469329 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="1025466591,38370,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->

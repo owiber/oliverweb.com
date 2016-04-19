@@ -1,0 +1,25 @@
+<html>
+<head>
+<title>
+OliverWEB - Pictures
+</title></head>
+<!--#include virtual="../../ssi/top.shtml"-->
+<center><h2><font color=blue>Pics!</font></h2><p>
+<!--#include virtual="../contents.txt"-->
+
+<img src=ochs.gif width=200 height=200><br>
+Ochs: "Ugh, I feel constipated..." [LOL, Sorry Ochs for all the "toilet" jokes ;)]<p>
+
+<img src=minix.gif width=350 height=227><br>
+Minix is trying to cough up a hairball.<p>
+
+<img src=minix2.gif width=350 height=270><br>
+Minix: "You know that toilet paper you got, Oliver? Can I borrow it for a sec..."<br>
+Chad: "Hey, you know Minix... you have a nice butt."<p>
+
+<img src=minix3.gif width=400 height=198><br>
+We've all taken off our masks... except for Minix. He's trying to. Chad is smiling because he super glued the mask
+to Minix's face. Poor Minix. Stuck with that ugly thing for life. ;þ<p>
+
+<!--#include virtual="../contents.txt"-->
+<!--#include virtual="../../ssi/bottom.shtml"-->

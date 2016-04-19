@@ -1,0 +1,61 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:2-->
+<title>OliverWEB - Discussing: Not to be a...</title>
+</head>
+
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">Not to be a...</font> </b><font face="arial" size="1">Friday, September 13, 2002</font><br><font size="2" face="arial">party pooper, but I just looked at Assignment 2 in CS307, and it's quite a bit more difficult than I thought...<br><br>In fact, it seems a bit harsh of Mike to give this to you guys as the second assignment. Now, if you were allowed to use other Java classes like ArrayList or some Collection types... I could see this being alright... but as it stands... definately a good few hours at least I'd say.<br><br>I started it about 30 minutes ago and reached a point where I got too lazy and stopped, there are quite a few concepts being used and definately a lot of thought required...<br><br>So... basically, my point is to get started... <i>ASAP</i>. =)<br><b>-<a href="mailto:oliver@oliverweb.com">Oliver</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 538607-1032044266 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>2</b> - Ochs</font> <font face=arial size=1>Saturday, September 14, 2002</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">67.64.79.33</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Ochs end_name end_fields--><!--ktalk start_comment-->That must be that cryptography one... GL guys... I thot it might be a bit challanging.. but I'm sure Wong can help along...<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 538607-1032044266 --><!--ktalk start_item 678331-1032023263 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - Minix</font> <font face=arial size=1>Saturday, September 14, 2002</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">66.136.200.79</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Minix end_name end_fields--><!--ktalk start_comment-->lol =)  <!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 678331-1032023263 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="1031979898,19355,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->

@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>
+OliverWEB - Pictures
+</title></head>
+<!--#include virtual="../../ssi/top.shtml"-->
+<center><h2><font color=blue>Pics!</font></h2><p>
+<!--#include virtual="../contents.txt"-->
+
+<img src=vansleep.jpg width=250 height=178><br>
+I don't know about you, but I think Van has a weird way of sleeping...<p>
+
+<img src=oliversleep.jpg width=250 height=171><br>
+Maybe I do too...<p>
+
+<img src=sleep.jpg width=200 height=155><br>
+This time, I'm really sleeping... the room was cold too. =)<p>
+
+<img src=messyroom.jpg width=300 height=196><br>
+We have assimilated the room.<p>
+
+<img src=group.jpg width=280 height=211><br>
+Our suburban group. =) I/We (Van and I) spent the whole trip to and from with these girls...
+DO YOU HAVE ANY CLUE HOW MANY TIMES WE HEARD A BSB SONG ON THE RADIO!?!?!?!<p>
+
+<!--#include virtual="../contents.txt"-->
+<!--#include virtual="../../ssi/bottom.shtml"-->

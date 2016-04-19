@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>
+OliverWEB - Pictures
+</title></head>
+<!--#include virtual="../../ssi/top.shtml"-->
+<center><h2><font color=blue>Pics!</font></h2><p>
+<!--#include virtual="../contents.txt"-->
+
+<img src=msk.gif width=264 height=253><br>
+Our English teacher is Batman. We fear Batman. Hail to the great one, who grades our essays. ;)<p>
+
+<img src=car.gif width=350 height=175><br>
+<a href=http://www.oliverweb.com/articles/hoodlums.shtml>HOODLUMS!</a> AHHHH!!!... Hehe, Olivia is quite embarrassed. =)<p>
+
+<img src=lollypop.gif width=172 height=213><br>
+Olivia: "I like to lick my invisible, make belief lolly pop. Mmmmm.. YUM YUM! Ok, someone untie me now."<p>
+
+<img src=back.gif width=400 height=234><br>
+The BEST side of my friends! =) HAHAHAHA...<p>
+
+<!--#include virtual="../contents.txt"-->
+<!--#include virtual="../../ssi/bottom.shtml"-->

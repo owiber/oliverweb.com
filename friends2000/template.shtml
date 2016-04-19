@@ -1,0 +1,156 @@
+<!--#include virtual="topssi.shtml" -->
+
+	<h3 id=name>EDIT</h3>
+
+			<img src="EDIT.jpg" border="1" width="100" height="99" alt="EDIT"><br>
+			EDIT - EDIT<br>
+        	EDIT, CA<br>
+        	<a id=w href=mailto:EDIT>EDIT</a><br></font>
+        	<br><br><img src="./EDIT/EDIT.jpg" border="1" width="130" height="105" alt="EDIT">
+        	<br id=small>EDIT
+        </td>
+        <td valign="top" width="389" background="bigpaw.gif">
+        		<h3>EDIT (<a href=EDIT target=new>1999</a>)</h3>
+            	<h1>Just Stuff</h1>
+
+          		<h2>AIM SN:</h2>
+          		<div>EDIT</div>
+
+          		<h2>Smiley Version:</h2>
+          		<div>EDIT</div>
+
+          		<h2>Hobbies:</h2>
+          		<div>EDIT</div>
+
+            	<h1>Favorites</h1>
+
+          		<h2>Quote:</h2>
+          		<div>EDIT</div>
+
+          		<h2>School Subject:</h2>
+          		<div>EDIT</div>
+
+          		<h2>Cartoon Character:</h2>
+          		<div>EDIT</div>
+
+          		<h2>Comic Character:</h2>
+          		<div>EDIT</div>
+
+           		<h2>Color:</h2>
+          		<div>EDIT</div>
+
+           		<h2>Food:</h2>
+          		<div>EDIT</div>
+
+          		<h2>Book:</h2>
+          		<div>EDIT</div>
+
+          		<h2>Movie:</h2>
+          		<div>EDIT</div>
+
+          		<h2>Board/Non-electronic Game:</h2>
+          		<div>EDIT</div>
+
+          		<h2>Electronic Game:</h2>
+          		<div>EDIT</div>
+
+          		<h2>Type of Music:</h2>
+          		<div>EDIT</div>
+
+          		<h2>Song:</h2>
+          		<div>EDIT</div>
+
+           		<h2>Feeling:</h2>
+          		<div>EDIT</div>
+
+           		<h2>Sense:</h2>
+          		<div>EDIT</div>
+
+           		<h2>Animal:</h2>
+          		<div>EDIT</div>
+
+           		<h2>TV Show:</h2>
+          		<div>EDIT</div>
+
+           		<h2>Memory:</h2>
+          		<div>EDIT</div>
+
+				<h1>Other Stuff</h1>
+          		<h2>Overly-used word, phrase, or whatever:</h2>
+          		<div>EDIT</div>
+
+          		<h2>Funniest Moment:</h2>
+          		<div>EDIT</div>
+
+          		<h2>Pet peeve(s):</h2>
+          		<div>EDIT</div>
+
+          		<h2>Self-description</h2>
+          		<div>EDIT</div>
+
+          		<h2>Nicknames:</h2>
+          		<div>EDIT</div>
+
+          		<h2>Things I call Oliver:</h2>
+          		<div>EDIT</div>
+
+          		<h1>Yet more stuff about... me.</h1>
+           		<h2>Usually, how messy/clean is your room? (1-10, 10 being most messy):</h2>
+          		<div>EDIT</div>
+
+          		<h2>Where do you think you'll be in one year?</h2>
+				<div>EDIT</div>
+
+          		<h2>Five years?</h2>
+				<div>EDIT</div>
+
+          		<h2>Ten years?</h2>
+				<div>EDIT</div>
+
+          		<h2>What do you want your future to be like?</h2>
+          		<div>EDIT</div>
+
+				<h2>3 Wishes:</h2>
+				<div>EDIT</div>
+
+           		<h2>Misc.:</h2>
+          		<div>EDIT</div>
+
+          		<h1>Rant(s)</h1>
+          		<div>EDIT</div>
+
+          		<h1>Comments</h1>
+          		<form action="http://www.oliverweb.com/cgi-bin/f2000.cgi" method="POST">
+				<!--#include virtual="EDIT.txt" -->
+				<hr width=75% align=center>
+          		<b>Add a comment to a comment</b><br><br>
+          		Text:<br>
+            	<textarea name="quote" rows="5" cols="40"></textarea><br><br>
+	           	<input type="radio" name="followup" value="1" checked>Comment<br>
+				<input type="radio" name="followup" value="2">Delete (Oliver use only =)<br><br>
+				<!--#include virtual="friends.txt" --><br><br>
+            	Password:<br>
+            	<input type="password" size="20" name="password"><br>
+            	<input type="hidden" name="page" value="EDIT">
+				<input type="submit" value="Add comment to comment!">
+
+				</form>
+
+				<hr width=75% align=center>
+				<form action="http://www.oliverweb.com/cgi-bin/f2000.cgi" method="POST">
+				<b>Add a comment</b><br><br>
+				Text:<br>
+				<textarea name="quote" rows="5" cols="40"></textarea><br><br>
+
+				<!--#include virtual="friends.txt" --><br><br>
+				<p>Password:<br>
+				<input type="password" size="20" name="password"><br>
+			    <input type="hidden" name="page" value="EDIT">
+			    <input type="submit" value="Add comment!">
+				</form>
+
+
+
+          		<!--p align=right><a id=big href=olivia.shtml>Next (EDIT) --></a></p-->
+
+<!--#include virtual="bottomssi.shtml" -->

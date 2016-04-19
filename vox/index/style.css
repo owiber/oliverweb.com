@@ -1,0 +1,163 @@
+body {
+	color: #000000;
+	font-family: "Arial", "Verdana", sans-serif;
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	font-size: 10pt;
+	background: #F1EBD7;
+}
+
+a {
+	color: #303030;
+	text-decoration: none;
+}
+
+#top {
+	width: 800px;
+	height: 55px;
+	display: block;
+	background: url(images/indextop.jpg);
+}
+
+#mid {
+	width: 800px;
+	height: 169px;
+	display: block;
+	background: url(images/indexmid.jpg);
+}
+
+#bottom {
+	width: 800px;
+	height: 657px;
+	background: url(images/indexbg.jpg);
+	margin: 0;
+	padding: 0;
+}
+
+#event {
+	position: absolute;
+	top: 60px;
+	left: 245px;
+	width: 200px;
+}
+
+#event h1 {
+	font-size: 10pt;
+	font-weight: bold;
+	color: #f7941d;
+	padding: 0;
+	margin: 0;
+}
+
+#event h2 {
+	font-size: 8pt;
+	color: #636466;
+	padding: 0;
+	margin: 0;
+	text-transform: uppercase;
+}
+
+#event p {
+	font-size: 8pt;
+	color: #231f20;
+}
+
+#event p.band {
+	font-size: 8pt;
+	color: #818386;
+	font-weight: bold;
+}
+
+#boxart {
+	position: absolute;
+	width: 240px;
+	height: 169px;
+	top: 55px;
+	left: 0;
+	padding: 0;
+	margin: 0;
+}
+
+#links {
+	position: absolute;
+	width: 322px;
+	height: 41px;
+	top: 175px;
+	left: 460px;
+	background: url(images/indextemplinks.jpg) no-repeat;
+}
+
+#sidebar {
+	position: absolute;
+	top: 230px;
+	left: 0;
+	width: 230px;
+	text-align: right;	
+	margin: 0;
+	padding: 0;
+}
+
+#sidebar ul {
+	list-style: none;
+	text-transform: uppercase;
+	font-size: 8pt;
+	margin: 0;
+	padding: 0;
+	font-weight: bold;
+	font-family: "Arial Narrow";
+	letter-spacing: -1px;
+}
+
+#sidebar ul li {
+	padding: 0 0 10px 0;
+	margin: 0;
+}
+
+#sidebar ul li a {
+	color: #231f20;
+}
+
+#content {
+	position: absolute;
+	top: 230px;
+	left: 250px;
+	width: 340px;
+	text-align: justify;
+	font-size: 9pt;
+	color: #57524e;
+}
+
+#content h1 {
+	color: #231f20;
+	font-size: 12pt;
+	text-transform: uppercase;
+	font-family: "Arial Narrow";
+	font-weight: bold;
+	letter-spacing: -1px;
+	margin: 0 0 10px 0;
+	padding: 0;
+}
+
+#content h2 {
+	color: #636466;
+	margin: 0;
+	padding: 0;
+	font-size: 9pt;
+}
+
+#content h3 {
+	color: #9ea0a3;
+	margin: 0;
+	padding: 0;
+	font-size: 9pt;
+}
+
+#rightsidebar {
+	position: absolute;
+	width: 200px;
+	top: 230px;
+	left: 595px;
+	margin: 0;
+	padding: 0;
+}

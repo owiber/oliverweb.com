@@ -1,0 +1,36 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:0-->
+<title>OliverWEB - Discussing: Friends 2001</title>
+</head>
+<!--#if expr="${HTTP_COOKIE} = owebenter\=uvebeentold" -->
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">Friends 2001</font> </b><font face="arial" size="1">Saturday, July 7, 2001 <!--(2:43:34)--></font><br><font size="2" face="arial">Added <a href=http://www.oliverweb.com/friends2001/catherine.shtml>Catherine</a> and <a href=http://www.oliverweb.com/friends2001/jennifer.shtml>Jennifer</a> to the <a href=http://www.oliverweb.com/friends2001/>Friends 2001</a> page. I know, I know... took me long enough... but hey, Brook, Chad, and Van haven't even done theirs yet... =)<br><b>-<a href="mailto:oliver@oliverweb.com">Oliver</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="994535014,41785,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->
+<!--#else -->
+<!--#include virtual="../ssi/error.shtml" -->
+<!--#endif -->

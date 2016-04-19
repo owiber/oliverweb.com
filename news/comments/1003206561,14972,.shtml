@@ -1,0 +1,103 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:5-->
+<title>OliverWEB - Discussing: My Art...</title>
+</head>
+
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">My Art...</font> </b><font face="arial" size="1">Monday, October 15, 2001</font><br><font size="2" face="arial">Well....I have some art for you peeps to see.  I haven't put them up on coconut comics...mostly cause I haven't sent Matt a layout or anything, so I thought I would show you.  I just got a scanner, so I've scanned them.  Yeah, they're wierd, but you'll have to get over that...<br>  <br><a href="http://www.oliverweb.com/newsimages/Tongueo.jpg">Sky Tongue</a><br><a href="http://www.oliverweb.com/newsimages/Lab Safety.jpg">Lab Safety</a><br><a href="http://www.oliverweb.com/newsimages/SnakeGun.jpg">The Wierdest Dream</a><br><b>-<a href="mailto:holyyam@aol.com">Wes</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 661415-1003343827 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>5</b> - Minix</font> <font face=arial size=1>Wednesday, October 17, 2001</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">129.116.18.207</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Minix end_name end_fields--><!--ktalk start_comment-->I would say you have more ability to be ugly than I do Wes... =)<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 661415-1003343827 --><!--ktalk start_item 579444-1003320806 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>4</b> - Wes</font> <font face=arial size=1>Wednesday, October 17, 2001</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">205.188.193.163</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Wes end_name end_fields--><!--ktalk start_comment-->I hate you and your ability to be UGLY!!!<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 579444-1003320806 --><!--ktalk start_item 415171-1003276124 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>3</b> - Minix</font> <font face=arial size=1>Tuesday, October 16, 2001</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">205.219.140.49</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Minix end_name end_fields--><!--ktalk start_comment-->I hate you and your drawing ability.<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 415171-1003276124 --><!--ktalk start_item 296892-1003254073 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>2</b> - Wes</font> <font face=arial size=1>Tuesday, October 16, 2001</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">64.12.102.38</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Wes end_name end_fields--><!--ktalk start_comment-->No interpretations....there's only been one drawing that I've made like that...and unfortunately, despite it being my favourite drawing, it is lost forever.  <!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 296892-1003254073 --><!--ktalk start_item 184843-1003207090 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - <font color="#003399">Oliver</font></font> <font face=arial size=1>Monday, October 15, 2001</font><br>
+      <font face=arial size=1><a href=mailto:oliver@oliverweb.com>oliver@oliverweb.com</a> (<font size="1" face="Arial">IP Hidden</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email oliver@oliverweb.com end_email start_name Oliver end_name end_fields--><!--ktalk start_comment-->Heh, that's some weird stuff Wes...<br><br>Any interpretation or is it just random/weird? =)<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 184843-1003207090 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="1003206561,14972,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->

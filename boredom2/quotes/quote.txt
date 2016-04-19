@@ -1,0 +1,253 @@
+#!/usr/bin/perl
+
+$quotefile='/usr/home11/oliverts/public_html/boredom2/quotes/index.shtml';
+$anonfile='/usr/home11/oliverts/public_html/boredom2/quotes/anon.txt';
+$URL='http://www.oliverweb.com/boredom2/quotes/index.shtml';
+%Config = ('password','','when','','quotenum','0','author','Anonymous','username','username','quote','quote','followup','0','del','0');
+$oliveriscool=0;
+$oliverrocks=0;
+
+%Color=(
+	'Brian',	'#000080',	'Carlson',	'red',	'Chad',	'#FF8000',
+	'Claire',	'#1BADDE',	'Grace',	'#8080FF',	'Minix',	'#008000',
+	'Nancy',	'#FF0080',	'Ochs',	'#008080',	'Oliver',	'#0000FF',
+	'Olivia',	'#0080C0',	'Sarah',	'#8000FF',	'Suneet','#808000',
+	'Jennifer','#800080',	'Catherine','#1BADDE',	'Amanda','#FF00FF',
+	'Anonymous','black',	'Christine','#FF80C0',	'Panda','#400040',
+	'Patrick','#0000FF',	'Brad','#000080',		'Van','#FF0080',
+	'Adam','#FF80C0',		'Wes','#FF3300',		'Jeanette','#666699',
+	'Brook','#000066',	'Kenny','#ff6600'
+);
+
+%Password=(
+	'Brian',	'waaYSSUIE/clw',	'Carlson',	'waJmyKfngSGW6',
+	'Chad',	'waifxFmFjsHGA',	'Claire',	'wauD/nUUsTztc',
+	'Grace',	'warL3Bah/208g',	'Minix',	'wahSeYuSbs2zk',
+	'Nancy',	'waEcLJNL3u3WY',	'Ochs',	'waWTMs8Wvwqrs',
+	'Oliver',	'waWP0hyVS5MPQ',	'Olivia',	'waRTBPp3mB4tk',
+	'Sarah',	'wazgbFoGKwCoA',	'Suneet','wayv6.PPugEhE',
+	'Jennifer','waX3V4lFuKf/s',	'Catherine','waIHMiqHfcUZw',
+	'Amanda','wa9aHcudSRtGo',	'Anonymous','',
+	'Christine','waX.G4pNzAtJc',	'Panda','wazZef0rd/qTw',
+	'Patrick','waOhEOSx4zYOM',	'Brad','waKtklxLcwOBU',
+	'Van','waU45nLmxXLHE',		'Adam','waiVY/ubcFNLc',
+	'Wes','waMa7mAVCJvbo',		'Jeanette','waMuSivrXgwPg',
+	'Brook','walxGJJKn7v7U',	'Kenny','waWwgVzT2Px7w'
+);
+
+
+###########################################################################################
+
+&Get_Data;
+
+&Misc;
+###########################################################################################
+
+@Filter=(
+	'mofo','computer nerds','a mofu','mofu'
+);
+
+%FilterReplace=(
+	'mofo',"<i>[$Config{'username'} is a dork] munchkin-pumpkin-apple-sweetiepie</i>",
+	'computer nerds', 'computer nerds <i>[are cool]</i>',
+	'a mofu','<i>my sweet-heart</i>',
+	'mofu','<i>sweet-heart</i>'
+);
+
+###########################################################################################
+
+if ($Config{'followup'}!='2'){
+ &FilterData;
+}
+
+if ($Config{'followup'}== '2'){
+	&Delete;
+}
+elsif ($oliveriscool == '0' && $Password{$Config{'username'}} eq $Config{'password'} && $Config{'followup'}=='0'){
+	&Quote;
+}
+elsif ($Config{'followup'}=='1' && $oliveriscool=='0' && $Password{$Config{'username'}} eq $Config{'password'}){
+	&Comment;
+}
+else{
+	&Error;
+}
+
+&Finish;
+
+######################################################################################
+
+sub FilterData{
+	foreach $filterline (@Filter){
+		$Config{'quote'} =~ s/$filterline/$FilterReplace{"$filterline"}/gi;
+		$Config{'when'} =~ s/$filterline/$FilterReplace{"$filterline"}/gi;
+		$Config{'author'} =~ s/$filterline/$FilterReplace{"$filterline"}/gi;
+
+	}
+}
+
+sub Get_Data{
+	read(STDIN, $buffer, $ENV{'CONTENT_LENGTH'});
+	@pairs = split(/&/, $buffer);
+
+	foreach $pair (@pairs){
+		($name, $value) = split(/=/, $pair);
+		$value =~ tr/+/ /;
+		$value =~ s/%([a-fA-F0-9][a-fA-F0-9])/pack("C", hex($1))/eg;
+	      $value =~ s/<!--(.|\n)*-->//g;
+		if ($name eq 'quote'){
+			$oliverquote=$value;
+		}
+            $value =~ s/<([^>]|\n)*>//g;
+		$Config{$name} = $value;
+	}
+
+	if ($Config{'username'} eq 'Oliver'){
+		$Config{'quote'}=$oliverquote;
+	}
+}
+
+sub Delete{
+	if ($Config{'username'} eq 'Oliver' && $Config{'password'} eq $Password{'Oliver'})	{
+		open(QP,"$quotefile");
+		@AmIGoodOrWhat=<QP>;
+		close(QP);
+		open(QP2,">$quotefile");
+		foreach $qp_line (@AmIGoodOrWhat)		{
+			if ($qp_line =~ /name="quotenum" value="$Config{'quotenum'}"/){
+				$oliveriscool=1;
+			}
+			elsif ($oliveriscool=='1' && $qp_line =~ /><p>/){
+				$oliveriscool=0;
+			}
+			elsif ($oliveriscool=='0'){
+				print QP2 "$qp_line";
+			}
+		}
+		close(QP2);
+	}
+	print "Content-type: text/html\n\n",
+	"<html><head>\n",
+	"<meta http-equiv=\"Refresh\" content=\"0\;URL=$URL\">\n",
+	"</head>\n",
+	"<body></body></html>\n";
+	exit;
+}
+
+sub Anonymous{
+	srand;
+	$randn=int(rand 100000)+1;
+	open(ANON,"$anonfile");
+	$anon = <ANON>;
+	close(ANON);
+	$Password{'Anonymous'}=$anon;
+	$randn=crypt($randn,"wa");
+	open(ANON2,">$anonfile");
+	print ANON2 "$randn\n";
+	close(ANON2);
+}
+
+sub Misc{
+	if($Config{'username'} eq 'Anonymous'){
+		&Anonymous;
+	}
+
+	if ($Config{'author'} eq ''){
+		$Config{'author'}='Anonymous';
+	}
+
+	if ($Config{'when'} eq ''){
+		$Config{'when'}='None';
+	}
+
+	if ($Config{'username'} eq 'username' && $Config{'author'} eq 'Anonymous' && $Config{'when'} eq 'None'){
+		$oliveriscool=1;
+	}
+
+	$Config{'password'}=crypt($Config{'password'},"wa");
+
+	if($Config{'username'} eq 'Christine' && length($Config{'quote'}) > 250){
+		&ChristineError;
+	}
+	
+	#For test only
+	#if($Config{'username'} eq 'Oliver' && length($Config{'quote'}) > 250){
+	#	&ChristineError;
+	#}
+}
+
+#Hehe... sorry Christine =)
+sub ChristineError{ 
+	print "Content-type: text/html\n\n",
+	"<html><head>\n",
+	'<title>CHRISTINE!!!!! ()%*&%)#*</title></head>',
+   	"\n<body bgcolor=#FFFFFF text=#000000><center><p>\n",
+   	"<table width=100% height=100%><tr><td width=100% height=100% align=center valign=center>\n",
+	"<font face=arial><h1>Christine! Stop writing <i>LONG ESSAYS</i>!!! Rewrite it. <u>NOW.</u></h1></font></td></tr></table>\n",
+   	"</body></html>\n";
+	exit;
+}
+
+sub Quote{
+	open(MAIN,"$quotefile");
+	@main = <MAIN>;
+	close(MAIN);
+	foreach $main_line (@main){
+		if ($main_line =~ /<!--o (.*)-->/){
+			$oliverrocks=$1;
+			last;
+		}
+	}
+	$oliverrocks++;
+	open(MAIN,">$quotefile");
+	foreach $main_line (@main){
+			if ($main_line =~ /<!--Oliver is da bomb! hehe-->/){
+				print MAIN "<!--Oliver is da bomb! hehe-->\n",
+				"<ul><li><input type=\"radio\" name=\"quotenum\" value=\"$oliverrocks\">\n",
+				"<b>\"$Config{'quote'}\"</b> -$Config{'author'} ($Config{'when'})<FONT size=2> [<u><font color=$Color{$Config{'username'}}>$Config{'username'}</font></u>]</font>\n",
+				"<!--o $oliverrocks--><ul><font size=2>\n",
+				"</font></ul></li></ul><p>\n";
+			}
+			else{
+				print MAIN "$main_line";
+			}
+		}
+	close(MAIN);
+}
+
+
+sub Comment{
+	open(MAIN,"$quotefile");
+	@main = <MAIN>;
+	close(MAIN);
+	open(MAIN,">$quotefile");
+	foreach $main_line (@main){
+		if ($main_line =~ /<!--o $Config{'quotenum'}--><ul><font size=2>/){
+			print MAIN "<!--o $Config{'quotenum'}--><ul><font size=2>\n",
+			"<li>$Config{'quote'} -<u><b><font color=$Color{$Config{'username'}}>$Config{'username'}</font></u></b>\n";
+		}
+		else{
+			print MAIN "$main_line";
+		}
+	}
+	close(MAIN);
+}
+
+sub Finish{
+   	print "Content-type: text/html\n\n",
+   	"<html><head>\n",
+	"<meta http-equiv=\"Refresh\" content=\"0\;URL=$URL\">\n",
+	"<title>Boredom2 Quote</title></head>\n",
+   	"<body bgcolor=#FFFFFF text=#000000><center>",
+   	"</body></html>\n";
+}
+
+sub Error{
+	print "Content-type: text/html\n\n",
+	"<html><head>\n",
+	"<title>Boredom2 Quote</title></head>\n",
+   	"<body bgcolor=#FFFFFF text=#000000><center><p>\n",
+   	"<font face=arial size=3><b>Incorrect Login or Password. Please try again.</b></font>\n",
+   	"</body></html>\n";
+	exit;
+}

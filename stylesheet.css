@@ -1,0 +1,310 @@
+body {
+	color: #999999;
+	background: #006699 url(/images05/body_bg.png) repeat-x;
+	font-family: "Trebuchet MS", "Bitstream Vera Sans", Verdana, Arial, sans-serif;
+	margin: 0;
+	padding: 0 0 20px 0;
+	text-align: center;
+	font-size: 10pt;
+}
+
+.despair {
+	font-family: "Georgia"; 
+	font-size: 24pt;
+	padding: 8px 8px 8px 8px; 
+	border: 5px outset #000000; 
+	position: relative; 
+	background: black; 
+	width: 420px; 
+	padding: 16 8 16 8; 
+	margin-left: auto; 
+	margin-right: auto; 
+	margin-top: 5px;
+	display: block; 
+	text-align: center;
+}
+
+.despair .title {
+	text-align: center; 
+	background: black; 
+	color: purple; 
+	font-weight: bold; 
+	text-decoration: none; 
+	margin: 0; 
+	padding: 0; 
+	vertical-align: top; 
+	line-height:1;
+}
+
+.despair .title small {
+	font-weight: bold; 
+	text-decoration: underline; 
+	margin: 0; 
+	padding: 0px; 
+	vertical-align: top; 
+	font-size: 18pt; 
+	line-height:1.2;
+}
+
+.despair .subtitle {
+	background: black; 
+	color: white; 
+	font-variant: small-caps; 
+	font-size:10pt; 
+	margin: 0; 
+	padding: 0; 
+	line-height: 1.2; 
+	vertical-align: bottom;
+}
+
+#blogs .despair img {
+	padding: 4px 4px 4px 4px; 
+	margin-left: auto; 
+	margin-right: auto; 
+	display: block; 
+	margin-bottom: 10px; 
+	border: 3px double purple;
+}
+
+input {
+	border: 1px solid #999999;
+	margin: 2px 0 0 0;
+}
+
+textarea {
+	border: 1px solid #999999;
+}
+
+.comments {
+	border-top: 1px dashed #999999;
+	width: 490px;
+	line-height: 120%;
+}
+
+.comment {
+	background: #F2F2F2;
+	width: 480px;
+	margin: 4px 8px 5px 8px;
+	border: 1px dashed #D9D9D9;
+}
+
+.comment .posted {
+	margin: 0;
+	background: #D9D9D9;
+}
+
+.spacer {
+	clear:both;
+	height:1px;
+	overflow:hidden;
+	margin-top:-1px; 
+}
+
+#all {
+	position: relative;
+	width: 750px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+}
+
+
+#headerimage {
+	display: block;
+	position: relative;
+	height: 202px;
+	background: #FFFFFF url(/images05/top.png) bottom center no-repeat;
+	z-index: auto;
+}
+
+#headerimage #links{
+	position: absolute;
+	top: 0px;
+	left: 550px;
+	height: 44px;
+	line-height: 44px;
+	padding: 0 0 0 0;
+	color: #999999;
+}
+
+
+#headerimage #links a{
+	text-decoration: none;
+	color: #999999;
+}
+
+#headerimage #links a:hover{
+	text-decoration: underline;
+	color: #999999;
+}
+
+#container {
+	background: url(/images05/content_bg.png) repeat-y;
+	margin-left: 25px;
+	padding: 0 0 0 10px;
+	width: 702px;
+}
+
+#sidebar {
+	float: left;
+	width: 188px;
+	color: #FFFFFF;
+	padding: 0;
+	text-align: right;
+}
+
+#sidebar p {
+	margin: 0;
+	padding: 0px 10px 10px 0px;
+	text-align: right;
+	font-weight: bold;
+}
+
+#sidebar form {
+	margin: 0;
+	padding-right: 10px;
+}
+
+#sidebar ul {
+	list-style: none;
+	margin: 0;
+	padding-right: 10px;
+}
+
+#sidebar a {
+	color: #FFFFFF;
+	font-weight: bold;
+}
+
+#sidebar h2 {
+	height: 36px;
+	line-height: 36px;
+	background: url(/images05/sidebartitle.png);
+	text-align: right;
+	padding-right: 10px;
+	color: #FFFFFF;
+	font-size: 16pt;
+	font-weight: normal;
+	margin: 0;
+}
+
+#sidebar .headlines{
+	margin: 0;
+	padding: 0px 10px 10px 0px;
+	text-align: right;
+	font-weight: bold;
+}
+
+#sidebar .headlines ul{
+	padding-right: 8px;
+	padding-left: 0;
+	font-size: 8pt;
+	margin: 0;
+}
+
+#sidebar .headlines ul a{
+	text-decoration: none;
+	padding-left: 0;
+	margin: 0;
+}
+	
+#content {
+	float: left;
+	width: 504px;
+	padding: 0 0 0 0;
+}
+
+#content #blogs h3 {
+	margin: 0 0 0 0;
+	padding: 3px 0 0 0;
+	border-top: 1px dashed #999999;
+	width: 490px;
+}
+
+#content #blogs h3 a {
+	color: #999999;
+	text-decoration: none;
+}
+
+#content #blogs a {
+	color: #999999;
+	text-decoration: none;
+}
+
+#content #blogs {
+	width: 490px;
+	padding: 0 0 0 5px;
+}
+
+#blogs img {
+	background: #FFFFFF;
+	padding: 8px 8px 8px 8px;
+	border: 1px solid #AEAEAE;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.posted {
+	font-size: 8pt;
+}
+
+#content #blogs .posted img {
+	border: 0px;
+	display: inline;
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+}
+
+#content #blogs a {
+	color: #E48900;
+}
+
+#content #blogs a:hover {
+	color: #E48900;
+	text-decoration: underline;
+}
+
+#content #blogs h2 {
+	color: #E48900;
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+	font-size: 8pt;
+	font-weight: normal;
+}
+
+#contentblurb {
+	background: #FFCC7F url(/images05/orange.gif) no-repeat;
+	width: 503px;
+	padding: 0 0 0 0;
+	color: #E48900;
+}
+
+#contentblurb p {
+	margin: 0px;
+	padding: 3px 5px 2px 5px;
+	font-weight: bold;
+}
+
+#contentblurb a {
+	color: #E48900;
+}
+
+#bottombar {
+	background: url(/images05/bottom.gif) no-repeat;
+	height: 57px;
+}
+
+#bottombar #text {
+	position: relative;
+	top: 5px;
+	left: 44px;
+	padding: 0 0 0 0;
+	color: #FFFFFF;
+	width: 400px;
+}
+
+
+#bottombar #text a{
+	color: #FFFFFF;
+}

@@ -1,0 +1,2 @@
+
+1054151998``xComment``xOchs``xa``x``xhaha.. funny.. I learned today how to fix that very problem when you log into a *nix box from linux.<Br><Br>stty erase &lt;hit backspacekey&gt;<Br><Br>Nice fix! =)

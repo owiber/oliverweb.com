@@ -1,0 +1,176 @@
+body {
+	color: #000000;
+	font-family: "Arial", "Verdana", sans-serif;
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	font-size: 10pt;
+	background: #F1EBD7;
+}
+
+#main {
+	width: 100%;
+	margin: 0;
+	border: 0;
+	padding: 0;
+
+}
+
+#level1 {
+	width: 800px;
+	height: 55px;
+	margin: 0;
+	border: 0;
+	padding: 0;
+	display: block;
+}
+
+#banner {
+	width: 428px;
+	height: 55px;
+	display: block;
+	margin: 0;
+	padding: 0;
+	background: url(voxveniae.jpg);
+	float: left;
+	text-indent: -9000px;
+	text-decoration: none;
+}
+
+#banner a {
+	text-decoration: none;
+	display: block;
+	height: 55px;
+}
+
+#level1links {
+	width: 372px;
+	height: 55px;
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+
+#level1links a {
+	text-decoration: none;
+	display: block;
+	height: 55px;
+}
+
+#aboutlink {
+	display: block;
+	text-indent: -9000px;
+	width: 58px;
+	height: 55px;
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	background: url(aboutlink.jpg);
+	float: left;
+}
+
+#medialink {
+	display: block;
+	text-indent: -9000px;
+	width: 63px;
+	height: 55px;
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	background: url(medialink.jpg);
+	float: left;
+}
+
+#getinvolvedlink {
+	display: block;
+	text-indent: -9000px;
+	width: 90px;
+	height: 55px;
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	background: url(getinvolvedlink.jpg);
+	float: left;
+}
+
+#calendarlink {
+	display: block;
+	text-indent: -9000px;
+	width: 161px;
+	height: 55px;
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	background: url(calendarlink.jpg);
+	float: left;
+}
+
+#aboutlink:HOVER {
+	background-position: 0 -55px; 
+}
+
+#medialink:HOVER {
+	background-position: 0 -55px; 
+}
+
+#getinvolvedlink:HOVER {
+	background-position: 0 -55px; 
+}
+
+#calendarlink:HOVER {
+	background-position: 0 -55px; 
+}
+
+#level2 {
+	width: 100%;
+	height: 234px;
+	background: #E9E1CA url(header.jpg) no-repeat;
+	padding: 0;
+	margin: 0;
+	text-align: left;
+	border-top: 1px #C2BBAB solid;
+	border-bottom: 1px #C2BBAB solid;
+}
+
+#level2content {
+	width: 400px;
+	height: 224px;
+	padding: 10px 0 0 15px;
+	margin: 0 0 0 400px;
+	text-align: left;
+	border: 0;
+}
+
+#level2links {
+	border: 0;
+	padding: 0;
+	margin: 0;
+}
+
+#level2links img {
+	margin: 0 10px 0 10px;
+	border: 0;
+}
+
+#level2body {
+	width: 370px;
+	border: 0;
+	color: #505050;
+	padding: 0;
+	margin: 20px 0 0 0;
+}
+
+#level3 {
+	width: 800px;
+	height: 550px;
+	border: 0;
+	color: #505050;
+	padding: 0;
+	background: url(bottombg.jpg) no-repeat;
+}
+
+#level3content {
+	width: 370px;
+	padding: 40px 0 0 0;
+	margin: 0 0 0 415px;
+}

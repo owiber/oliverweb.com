@@ -1,0 +1,75 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:3-->
+<title>OliverWEB - Discussing: LAN party!</title>
+</head>
+
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">LAN party!</font> </b><font face="arial" size="1">Monday, March 11, 2002</font><br><font size="2" face="arial">Hello all, I just wanted to say thanX to everyone for making the LAN party such a huge success! I hope that everyone had as much fun as I did. We have received permission to have another one when we feel like it as long as I know a few weeks in advance. Hope everyone is catching back up on their sleep. Give me or Oliver a call later on in the week so we can all go out to eat or LEECH a movie off of Viraj or something like that... Laterz! =)<br><b>-<a href="mailto:ochs82@mail.utexas.edu">Ochs</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 288910-1016166574 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>3</b> - Nancy</font> <font face=arial size=1>Thursday, March 14, 2002</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">66.19.228.89</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Nancy end_name end_fields--><!--ktalk start_comment-->I was great too!<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 288910-1016166574 --><!--ktalk start_item 444265-1016080502 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>2</b> - Olivia</font> <font face=arial size=1>Wednesday, March 13, 2002</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">66.25.211.32</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Olivia end_name end_fields--><!--ktalk start_comment-->I was great...<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 444265-1016080502 --><!--ktalk start_item 30215-1016049679 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - Minix</font> <font face=arial size=1>Wednesday, March 13, 2002</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">24.27.51.61</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Minix end_name end_fields--><!--ktalk start_comment-->It was grrrrrrrrrrrreat!<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 30215-1016049679 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="1015884029,48359,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->

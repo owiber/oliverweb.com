@@ -1,0 +1,75 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:3-->
+<title>OliverWEB - Discussing: Agh...</title>
+</head>
+
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">Agh...</font> </b><font face="arial" size="1">Monday, November 19, 2001</font><br><font size="2" face="arial">First, something random that Andrew sent to me, that I found funny...<br><br><center><br><img src = "http://www.oliverweb.com/newsimages/andrew.jpg" alt = "I hate him..." border = 1><br></center><br><br>What the heck is this!?!??! <br><br><center><br><img src = "http://www.oliverweb.com/newsimages/lol.jpg" alt = "Run nfor your lives!!!!" border = 1><br></center> <br><br>oh... just Sarah...<br><br>and now, for the ritual sacrifice of crap...<br><br><center><br><img src = "http://www.oliverweb.com/newsimages/andrewsucks.jpg" alt = "I really despise this waste of oxygen and space... someday to make the world a better place he should commit suicide... die you stupid punk..." border = 1><br></center><br><br>ok, i'll leave this page alone for now.<br><b>-<a href="mailto:minix1f@aol.com">Minix</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 518571-1006474119 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>3</b> - Brook</font> <font face=arial size=1>Thursday, November 22, 2001</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">24.27.16.38</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Brook end_name end_fields--><!--ktalk start_comment-->The only time i saw five iron was when my glasses were covered in &quot;festival gunk&quot; from a long weekend of music festival fun...and they all looked fat!<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 518571-1006474119 --><!--ktalk start_item 898707-1006248497 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>2</b> - Chad</font> <font face=arial size=1>Tuesday, November 20, 2001</font><br>
+      <font face=arial size=1><a href=mailto:nosliwc156@aol.com>nosliwc156@aol.com</a> (<font size="1">129.116.18.117</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email nosliwc156@aol.com end_email start_name Chad end_name end_fields--><!--ktalk start_comment-->Five Iron eh? =)<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 898707-1006248497 --><!--ktalk start_item 708971-1006230144 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - Olivia</font> <font face=arial size=1>Monday, November 19, 2001</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">66.25.208.43</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Olivia end_name end_fields--><!--ktalk start_comment-->The facial expression Sarah has on her face reminded me of a facial expression I once saw in a picture of Jeff the Girl in Five Iron...<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 708971-1006230144 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="1006229562,23016,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->

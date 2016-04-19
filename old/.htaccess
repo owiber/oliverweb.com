@@ -1,0 +1,47 @@
+## %%%%%%% Movable Type generated this part; don't remove this line! %%%%%%%
+# Disable fancy indexes, so mtview.php gets a chance...
+Options -Indexes
+  <IfModule mod_rewrite.c>
+  # The mod_rewrite solution is the preferred way to invoke
+  # dynamic pages, because of its flexibility.
+
+  # Add mtview.php to the list of DirectoryIndex options, listing it last,
+  # so it is invoked only if the common choices aren't present...
+  <IfModule mod_dir.c>
+    DirectoryIndex index.shtml index.php index.html index.htm default.htm default.html default.asp /mtview.php
+  </IfModule>
+
+  RewriteEngine on
+
+  # don't serve mtview.php if the request is for a real directory
+  # (allows the DirectoryIndex lookup to function)
+  RewriteCond %{REQUEST_FILENAME} !-d
+
+  # don't serve mtview.php if the request is for a real file
+  # (allows the actual file to be served)
+  RewriteCond %{REQUEST_FILENAME} !-f
+  # anything else is handed to mtview.php for resolution
+  RewriteRule ^(.*)$ /mtview.php [L,QSA]
+
+#RewriteEngine    on
+RewriteCond    %{HTTP_REFERER} !^$
+RewriteCond    %{HTTP_REFERER} !^http://([-a-z0-9]+\.)?oliverweb\.com [NC]
+#RewriteRule    \.(gif|jpe?g|png)$ - [F,NC,L]
+RewriteRule	\.(gif|jpe?g|png)$ http://static.flickr.com/48/128103931_250e89ffd5_o.jpg [R,L]
+</IfModule>
+
+
+<IfModule !mod_rewrite.c>
+  # if mod_rewrite is unavailable, we forward any missing page
+  # or unresolved directory index requests to mtview
+  # if mtview.php can resolve the request, it returns a 200
+  # result code which prevents any 4xx error code from going
+  # to the server's access logs. However, an error will be
+  # reported in the error log file. If this is your only choice,
+  # and you want to suppress these messages, adding a "LogLevel crit"
+  # directive within your VirtualHost or root configuration for
+  # Apache will turn them off.
+  ErrorDocument 404 /mtview.php
+  ErrorDocument 403 /mtview.php
+</IfModule>
+## ******* Movable Type generated this part; don't remove this line! *******

@@ -1,0 +1,110 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Strict//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <meta name="description" content="Internet Problem Solving Contest (IPSC) is an online programming contest for teams up three people.">
+  <meta name="keywords" content="IPSC, programming, contest, online contest">
+  <title>IPSC 2004 -  Problem&nbsp;D - Delayed search</title>
+  <link rel="stylesheet" type="text/css" href="main.css">
+  </head>
+  <body>
+<div class="title">
+<div class="ipscimg">
+<a href="http://ipsc.ksp.sk/index.php?auth=1"><img src="ipsc.gif"
+alt="IPSC Logo"></a>
+</div>
+<div class="nadpis">
+<h1>Internet Problem Solving Contest</h1>
+<h2>IPSC 2004<br> Problem&nbsp;D - Delayed search</h2>
+</div>
+</div>
+<div class="telo">
+<ul>
+<li><a href="d1.in">Easy input data set - D1</a></li>
+<li><a href="d2.in">Difficult input data set - D2</a></li>
+</ul>
+
+<p>
+Do you know the game "Guess the number"?
+
+<p>
+The game is played by two players, Thinker and Guesser. Thinker
+secretly chooses an integer from an interval known to both players and
+Guesser tries to guess it asking questions. Guesser's questions are of
+the form: "I think your number is xx." Thinker has three posible
+answers &ndash; "You're right", "No, my number is smaller than xx" or "No,
+my number is greater than xx".  Guesser's goal is to guess the
+Thinker's number with minimum number of questions.
+
+<p>
+A few days ago, we finished building the Thinking Meatmincer (TM). The
+TM has a simple user interface: you insert the data (instead of bits,
+basic units of TM data are Meats) to the input hole (IH), turn the
+handle a few times and the result will drop out from the output hole
+(OH). However, there is a catch - the handle can be turned only if
+there is a new input in IH.
+
+<p>
+As the name suggests, TM should be computationally equivalent to
+Turing Machine, but we haven't performed extensive testing yet. We
+would like to ask you to assist us in an experiment. You will play
+game of "Guess the number" in the role of Guesser against the TM in
+the role of Thinker.
+
+<h3>Task specification</h3>
+<p>
+
+One submission is equivalent to inserting one Meat (remember, Meat is
+not the same as "piece of meat") into TM and turning the handle
+once. After doing this enough times, TM will produce its first output
+(which will be sent to you). Since then, each following submission
+will cause one output to be produced.
+<span class="ipsc2004-d-warn">NOTE THAT THIS TASK IS SPECIAL: THE 
+MAXIMAL NUMBER OF SUBMITS MIGHT BE GREATER THAN 10</span> 
+(read the input specification for further information).
+
+<h3>Example</h3>
+<p>
+From your point of view, the exchange might look as follows:
+
+<p>
+You -&gt; Mincer: 3<br>
+Mincer -&gt; You: There is one Meat inside<br>
+You -&gt; Mincer: 5<br>
+Mincer -&gt; You: There are two Meats inside<br>
+You -&gt; Mincer: 4<br>
+Mincer -&gt; You: Mincer full, output: "My number is GREATER than 3"<br>
+You -&gt; Mincer: 32<br>
+Mincer -&gt; You: Mincer full, output: "My number is SMALLER than 5"<br>
+You -&gt; Mincer: 51<br>
+Mincer -&gt; You: Mincer full, output: "You're RIGHT, it's 4"<br>
+</p>
+
+<h3>Input specification</h3>
+<p>
+The input file contains three numbers: <b>N</b>, <b>D</b>, <b>S</b>. 
+Thinker can choose a number between <b>1</b> and <b>N</b> inclusive.
+The number <b>D</b> denotes the 
+number of turns of the handle before the first output appears. In other
+words, you'll get the first useful output from Thinker after your 
+<b>(D+1)</b>-th submission. In the example above we used <b>D=2</b>.
+The number <b>S</b> denotes the maximal number of submits
+you may make to solve this input.
+</p>
+
+<h3>Submission specification</h3>
+<p>
+Each submit should contain exactly one integer &ndash; your guess. 
+This integer must be in the range from <b>1</b> to <b>N</b> (inclusive).
+After each submit you will receive a message similar to one of the messages
+in the example above.
+</p>
+
+</div>
+
+</body>
+</html>
+
+
+
+

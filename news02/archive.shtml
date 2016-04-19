@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>
+OliverWEB - News Archives
+</title>
+</head>
+<!--#include virtual="../ssi/top.shtml"--><center>
+<h2><font color="blue">News Archives</font></h2></center>
+
+<!--#include virtual="../ssi/bottom.shtml"-->

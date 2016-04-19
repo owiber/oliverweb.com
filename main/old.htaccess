@@ -1,0 +1,9 @@
+AuthName RestrictedArea
+AuthType Basic
+AuthUserFile /usr/home11/oliverts/public_html/main/.htpasswd
+<Limit GET POST>
+require valid-user
+</Limit>
+<Limit PUT DELETE>
+deny from all
+</Limit> 

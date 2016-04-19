@@ -1,0 +1,25 @@
+<html>
+<head>
+<title>
+OliverWEB - Pictures
+</title></head>
+<!--#include virtual="../../ssi/top.shtml"-->
+<center><h2><font color=blue>Pics!</font></h2><p>
+<!--#include virtual="../contents.txt"-->
+
+ <img border="1" src="ca.jpg" width="400" height="364"><br>
+A: &quot;Let's dance, Chad!&quot;<br>
+Chad: &quot;Oh crud...&quot;<br>
+This would probably be funnier if you knew the true situation... =)<p><img border="1" src="cao.jpg" width="400" height="279"><br>
+Chad: &quot;Oliver... what the heck are you doing?&quot;<br>
+Oliver: &quot;AHH!!! THE SOVIETS! THE SOVIETS!!!!&quot;<p><img border="1" src="co.jpg" width="400" height="339"><br>
+Oliver and Chad demonstrating how Seniors eat.<br>
+Oliver: &quot;I wonder how plates taste...&quot;<br>
+Chad: &quot;I can eat without using utensils and my hands!&quot;<p>
+
+<img border="1" src="dogpile.jpg" width="400" height="293"><br>
+Chad is... somewhere under us...<br>
+Chad: &quot;Guys... I... can't... breeathhee...&quot;<p>
+
+<!--#include virtual="../contents.txt"-->
+<!--#include virtual="../../ssi/bottom.shtml"-->

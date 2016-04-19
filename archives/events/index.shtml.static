@@ -1,0 +1,436 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="http://www.movabletype.org/" />
+
+<title>OliverWEB 2005: events Archives</title>
+
+<link rel="stylesheet" href="http://www.oliverweb.com/stylesheet.css" type="text/css" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.oliverweb.com/index.rdf" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="http://www.oliverweb.com/atom.xml" />
+</head>
+<body>
+<div id="all">
+<div id="headerimage">
+	<div id="links"><a href="http://www.oliverweb.com">blog</a> | <a href="http://www.oliverweb.com/gallery">gallery</a> | <a href="http://www.oliverweb.com/main/">legacy</a></div>	
+</div>
+<div id="container">
+<div class="spacer"></div>
+<div id="sidebar">
+
+<!-- START ME -->
+<h2>me</h2>
+<p>
+name: oliver wong<br>
+major: computer science<br>
+location: ut austin<br>
+dob: 10.16.83<br>
+status: alive ;)
+</p>
+<!-- END ME -->
+
+<!-- START EQUIPMENT-->
+<h2>toys</h2>
+<p>
+apple powerbook 12"<br>
+athlon 64 3200+<br>
+geforce 6800gt oc<br>
+4g ipod 20gb<br>
+canon eos digital rebel<br>
+sony ericsson t610
+</p>
+<!-- END EQUIPMENT-->
+
+<!-- START CATEGORIES -->
+<h2>categories</h2>
+<ul>
+  <li><a href="http://www.oliverweb.com/archives/events/index.shtml">events</a></li>
+  <li><a href="http://www.oliverweb.com/archives/friends/index.shtml">friends</a></li>
+  <li><a href="http://www.oliverweb.com/archives/misc/index.shtml">misc</a></li>
+  <li><a href="http://www.oliverweb.com/archives/news/index.shtml">news</a></li>
+  <li><a href="http://www.oliverweb.com/archives/photographs/index.shtml">photographs</a></li>
+
+</ul>
+<!-- END CATEGORIES -->
+<br />
+<!-- START ARCHIVES -->
+<h2>archives</h2>
+<ul>
+<li><a href="http://www.oliverweb.com/archives/2004/11/index.shtml">November 2004</a></li>
+<li><a href="http://www.oliverweb.com/archives/2004/10/index.shtml">October 2004</a></li>
+
+</ul>
+<!-- END ARCHIVES -->
+<br />
+
+<!-- START LINKS -->
+<h2>links</h2>
+<ul>
+<li><a href="http://www.gizmodo.com">Gizmodo</a></li>
+<li><a href="http://www.hardocp.com">[H]ard|OCP</a></li>
+<li><a href="http://www.liquid-acc.com">Liquid</a></li>
+<li><a href="http://www.osnews.com">OSNews</a></li>
+<li><a href="http://www.slashdot.org">Slashdot</a></li>
+</ul>
+<!-- END LINKS -->
+<br />
+
+<!-- START SEARCH-->
+<h2>search</h2>
+<form method="get" action="http://www.oliverweb.com/mt/mt-search.cgi">
+<input type="hidden" name="IncludeBlogs" value="1" />
+<input id="search" name="search" size="20" /><br />
+<input type="submit" value="Search" />
+</form>
+<!-- END SEARCH-->
+
+<br />
+
+</div> <!-- END SIDEBAR -->
+
+<div id="content">
+<div id="contentblurb">
+<p>Welcome to OliverWEB 2005, where all your dreams come true!  Even Sam's!  Just follow the yellow brick road!  Becoz, becoz, becoz, becoz, becoz!!  No one gets in to see the wizard, not no way, not no how! <br /><br /> ...*ahem*... so, if you're curious where all the old OliverWEB stuff on the sidebar went... it's gone. Yes yes, I've decided to drop all the old stuff and create an entirely new site including backend, layout, etc.  The <a href="http://www.oliverweb.com/main">old OliverWEB</a> can still be found by clicking on the "legacy" link at the top right of this page. Enjoy!</p>
+</div>
+<br />
+<!-- START BLOGS -->
+<div id="blogs">
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.oliverweb.com/archives/events/index.shtml#000042"
+    trackback:ping="http://www.oliverweb.com/mt/mt-tb.cgi/41"
+    dc:title="BUSH WINS!"
+    dc:identifier="http://www.oliverweb.com/archives/events/index.shtml#000042"
+    dc:subject="events"
+    dc:description="I&apos;m going to go ahead and say this before the major news networks do. Bush wins. Unless if I&apos;m being outright lied to or there is some crazy fact I am not aware of, I don&apos;t see how Ohio is..."
+    dc:creator="Oliver"
+    dc:date="2004-11-03T03:59:37-06:00" />
+</rdf:RDF>
+-->
+
+
+<h2>November 03, 2004</h2>
+
+
+<h3 id="a000042">BUSH WINS!</h3>
+
+<p>I'm going to go ahead and say this before the major news networks do.  Bush wins.  Unless if I'm being outright lied to or there is some crazy fact I am not aware of, I don't see how Ohio is considered a "too close to call."  Same for New Mexico (although I'm a bit less sure about that as I don't know how many provisional/absentee ballots are out there for NM, but I doubt enough to swing 11k in favor of Bush).</p>
+
+<p>Let's look at the numbers.  Right now, with 99% precints reporting in Ohio, Bush has 2,777,645 votes and Kerry 2,632,547.  So that's about a 145k lead.  Let's say there's a generous 250k absentee and provisional ballots still out there and ALL of them are valid.  So, in order for Kerry to tie (x is percentage of votes Kerry needs):</p>
+
+<blockquote><pre>250x = 250(1-x) + 145
+250x = 250 - 250x + 145
+x = 395/500 = .79 = 79%</pre></blockquote>
+
+<p>So essentially, Kerry needs to get 80% or more of the absentee/provisional ballots to win.  Does that seem likely? I think not. It seriously seems like the media is trying to make this another Florida '00.</p>
+
+
+
+<p class="posted">
+Posted by Oliver at <a href="http://www.oliverweb.com/archives/2004/11/bush_wins.shtml">03:59 AM</a>
+| <a href="http://www.oliverweb.com/archives/2004/11/bush_wins.shtml#comments">Comments (1)</a>
+
+| <a href="http://www.oliverweb.com/archives/2004/11/bush_wins.shtml#trackbacks">TrackBack</a>
+
+</p>
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.oliverweb.com/archives/events/index.shtml#000037"
+    trackback:ping="http://www.oliverweb.com/mt/mt-tb.cgi/36"
+    dc:title="FAST Lounge"
+    dc:identifier="http://www.oliverweb.com/archives/events/index.shtml#000037"
+    dc:subject="events"
+    dc:description=" Van and I signed up for FAST lounge at Liquid (the group that helps setup in the morning), so we had to wake up at 7AM. It was highly unpleasant, especially since we went to sleep at around 4AM......"
+    dc:creator="Oliver"
+    dc:date="2004-10-31T23:34:09-06:00" />
+</rdf:RDF>
+-->
+
+
+<h2>October 31, 2004</h2>
+
+
+<h3 id="a000037">FAST Lounge</h3>
+
+<p><img alt="liquidstage.jpg" src="http://www.oliverweb.com/images05/blog/liquidstage.jpg" width="400" height="234" /><br />
+Van and I signed up for FAST lounge at Liquid (the group that helps setup in the morning), so we had to wake up at 7AM.  It was highly unpleasant, especially since we went to sleep at around 4AM... haha.  When Van and I got to UTC, no one was there, so we proceded to call Tim names because he told us to arrive promptly at 8AM.</p>
+
+<p>Then, after lunch, I took a nice 4+ hour nap. Yummmmy.</p>
+
+
+
+<p class="posted">
+Posted by Oliver at <a href="http://www.oliverweb.com/archives/2004/10/fast_lounge.shtml">11:34 PM</a>
+| <a href="http://www.oliverweb.com/archives/2004/10/fast_lounge.shtml#comments">Comments (2)</a>
+
+| <a href="http://www.oliverweb.com/archives/2004/10/fast_lounge.shtml#trackbacks">TrackBack</a>
+
+</p>
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.oliverweb.com/archives/events/index.shtml#000035"
+    trackback:ping="http://www.oliverweb.com/mt/mt-tb.cgi/34"
+    dc:title="Police Chase!"
+    dc:identifier="http://www.oliverweb.com/archives/events/index.shtml#000035"
+    dc:subject="events"
+    dc:description=" Tonight, at about 4AM, a police helicopter started circling our apartment with spotlights blazing. Here&apos;s a shot of the cop parked outside our rooms, Van probably has some more shots, and Sam has a little blog about the event..."
+    dc:creator="Oliver"
+    dc:date="2004-10-29T04:06:43-06:00" />
+</rdf:RDF>
+-->
+
+
+<h2>October 29, 2004</h2>
+
+
+<h3 id="a000035">Police Chase!</h3>
+
+<p><img alt="police!.jpg" src="http://www.oliverweb.com/images05/blog/police!.jpg" width="400" height="258" /><br />
+Tonight, at about 4AM, a police helicopter started circling our apartment with spotlights blazing.  Here's a shot of the cop parked outside our rooms, <a href="http://www.bamboovanpoo.com">Van</a> probably has some more shots, and <a href="http://www.xanga.com/your_shadow">Sam</a> has a little blog about the event as well.  Heh... we're in an awesome area. =)</p>
+
+<p>On another note, I just downloaded <a href="http://www.picasa.com">Picasa</a>, the picture album program <a href="http://www.google.com">Google</a> bought and made free (yay!).  I like it lots better than iPhoto and it makes me happy. =D</p>
+
+
+
+<p class="posted">
+Posted by Oliver at <a href="http://www.oliverweb.com/archives/2004/10/police_chase.shtml">04:06 AM</a>
+| <a href="http://www.oliverweb.com/archives/2004/10/police_chase.shtml#comments">Comments (2)</a>
+
+| <a href="http://www.oliverweb.com/archives/2004/10/police_chase.shtml#trackbacks">TrackBack</a>
+
+</p>
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.oliverweb.com/archives/events/index.shtml#000033"
+    trackback:ping="http://www.oliverweb.com/mt/mt-tb.cgi/32"
+    dc:title="Fanny Pack Sighting"
+    dc:identifier="http://www.oliverweb.com/archives/events/index.shtml#000033"
+    dc:subject="events"
+    dc:description=" No other TA inspires such respect as the infamous EE316 Fanny Pack TA (FPTA, not to be confused with FPGA). I have been given the generous opportunity to capture FPTA in all his fanny pack and humongous headphones glory......"
+    dc:creator="Oliver"
+    dc:date="2004-10-27T20:21:13-06:00" />
+</rdf:RDF>
+-->
+
+
+<h2>October 27, 2004</h2>
+
+
+<h3 id="a000033">Fanny Pack Sighting</h3>
+
+<p><img alt="fannypack.jpg" src="http://www.oliverweb.com/images05/blog/fannypack.jpg" width="400" height="281" /><br />
+No other TA inspires such respect as the infamous EE316 Fanny Pack TA (FPTA, not to be confused with <a href="http://www.atmel.com/products/FPGA/">FPGA</a>).  I have been given the generous opportunity to capture FPTA in all his fanny pack and humongous headphones glory... oh... the hotness...</p>
+
+
+
+<p class="posted">
+Posted by Oliver at <a href="http://www.oliverweb.com/archives/2004/10/fanny_pack_sigh.shtml">08:21 PM</a>
+| <a href="http://www.oliverweb.com/archives/2004/10/fanny_pack_sigh.shtml#comments">Comments (1)</a>
+
+| <a href="http://www.oliverweb.com/archives/2004/10/fanny_pack_sigh.shtml#trackbacks">TrackBack</a>
+
+</p>
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.oliverweb.com/archives/events/index.shtml#000027"
+    trackback:ping="http://www.oliverweb.com/mt/mt-tb.cgi/26"
+    dc:title="BambooVanpoo"
+    dc:identifier="http://www.oliverweb.com/archives/events/index.shtml#000027"
+    dc:subject="events"
+    dc:description="Helped Van finish up his website. It lives! Update: So it doesn&apos;t live quite yet, Movable Type is b0rk3d......"
+    dc:creator="Oliver"
+    dc:date="2004-10-24T03:25:18-06:00" />
+</rdf:RDF>
+-->
+
+
+<h2>October 24, 2004</h2>
+
+
+<h3 id="a000027">BambooVanpoo</h3>
+
+<p>Helped Van finish up his website. It <a href="http://www.bamboovanpoo.com">lives!</a></p>
+
+<p>Update: So it doesn't live quite yet, <a href="http://www.movabletype.org">Movable Type</a> is b0rk3d...</p>
+
+
+
+<p class="posted">
+Posted by Oliver at <a href="http://www.oliverweb.com/archives/2004/10/bamboovanpoo.shtml">03:25 AM</a>
+| <a href="http://www.oliverweb.com/archives/2004/10/bamboovanpoo.shtml#comments">Comments (1)</a>
+
+| <a href="http://www.oliverweb.com/archives/2004/10/bamboovanpoo.shtml#trackbacks">TrackBack</a>
+
+</p>
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.oliverweb.com/archives/events/index.shtml#000026"
+    trackback:ping="http://www.oliverweb.com/mt/mt-tb.cgi/25"
+    dc:title="TASA Night"
+    dc:identifier="http://www.oliverweb.com/archives/events/index.shtml#000026"
+    dc:subject="events"
+    dc:description=" So Van and I decided to crash Sam&apos;s TISA booth thing at TASA Night (or whatever it&apos;s called) and ended up staying quite a while. I think I blogged about that a bit before. Anyways, here are some pics...."
+    dc:creator="Oliver"
+    dc:date="2004-10-23T21:57:59-06:00" />
+</rdf:RDF>
+-->
+
+
+<h2>October 23, 2004</h2>
+
+
+<h3 id="a000026">TASA Night</h3>
+
+<p><img alt="braden.jpg" src="http://www.oliverweb.com/images05/blog/braden.jpg" width="400" height="285" /><br />
+So Van and I decided to crash Sam's TISA booth thing at TASA Night (or whatever it's called) and ended up staying quite a while.  I think I blogged about that a bit before.  Anyways, here are some pics. =)  Above, Braden (aka RADEN - THUNDER GOD!).</p>
+
+<p>Sorry to the people in the jump castle thing, I didn't really get any good pics except for this one of it falling over. =)</p>
+
+<p><img alt="jumpcastle.jpg" src="http://www.oliverweb.com/images05/blog/jumpcastle.jpg" width="400" height="267" /></p>
+
+<p>Paul showed up later after he got off of work...</p>
+
+<p><img alt="paultasa.jpg" src="http://www.oliverweb.com/images05/blog/paultasa.jpg" width="400" height="267" /></p>
+
+<p>Umm... I guess that's it for now. =)</p>
+
+
+
+<p class="posted">
+Posted by Oliver at <a href="http://www.oliverweb.com/archives/2004/10/tasa_night.shtml">09:57 PM</a>
+| <a href="http://www.oliverweb.com/archives/2004/10/tasa_night.shtml#comments">Comments (0)</a>
+
+| <a href="http://www.oliverweb.com/archives/2004/10/tasa_night.shtml#trackbacks">TrackBack</a>
+
+</p>
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.oliverweb.com/archives/events/index.shtml#000017"
+    trackback:ping="http://www.oliverweb.com/mt/mt-tb.cgi/16"
+    dc:title="Birthday With Family"
+    dc:identifier="http://www.oliverweb.com/archives/events/index.shtml#000017"
+    dc:subject="events"
+    dc:description=" CYNICISM When You Know A Glass That Looks Half Empty Is Actually Mostly Ice. Thanks to Mark for help with this &quot;poster.&quot; =) I&apos;ve uploaded pics from dinner with my family on my birthday (technically, the day after my..."
+    dc:creator="Oliver"
+    dc:date="2004-10-19T04:29:08-06:00" />
+</rdf:RDF>
+-->
+
+
+<h2>October 19, 2004</h2>
+
+
+<h3 id="a000017">Birthday With Family</h3>
+
+<div class="despair"><img alt="glass.jpg" src="http://www.oliverweb.com/images05/blog/glass.jpg" width="400" height="267" />
+<font class="title">C<small>YNICIS</small>M</font><br />
+<font class="subtitle">When You Know A Glass That Looks Half Empty Is Actually Mostly Ice.</font></div>
+
+<p>Thanks to Mark for help with this "poster." =) I've uploaded <a href="http://www.oliverweb.com/gallery/main.php?g2_view=core:ShowItem&g2_itemId=531">pics from dinner</a> with my family on my birthday (technically, the day after my birthday).  Enjoy!</p>
+
+
+
+<p class="posted">
+Posted by Oliver at <a href="http://www.oliverweb.com/archives/2004/10/birthday_with_f.shtml">04:29 AM</a>
+| <a href="http://www.oliverweb.com/archives/2004/10/birthday_with_f.shtml#comments">Comments (0)</a>
+
+| <a href="http://www.oliverweb.com/archives/2004/10/birthday_with_f.shtml#trackbacks">TrackBack</a>
+
+</p>
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.oliverweb.com/archives/events/index.shtml#000016"
+    trackback:ping="http://www.oliverweb.com/mt/mt-tb.cgi/15"
+    dc:title="Birthday Pics"
+    dc:identifier="http://www.oliverweb.com/archives/events/index.shtml#000016"
+    dc:subject="events"
+    dc:description="Some pictures from my family birthday party at Kobe... Now some pics of Oriana... =)..."
+    dc:creator="Oliver"
+    dc:date="2004-10-17T23:13:27-06:00" />
+</rdf:RDF>
+-->
+
+
+<h2>October 17, 2004</h2>
+
+
+<h3 id="a000016">Birthday Pics</h3>
+
+<p>Some pictures from my family birthday party at Kobe...</p>
+
+<p><img alt="kobe.jpg" src="http://www.oliverweb.com/images05/blog/kobe.jpg" width="400" height="268" /></p>
+
+<p><img alt="kobe2.jpg" src="http://www.oliverweb.com/images05/blog/kobe2.jpg" width="400" height="227" /></p>
+
+<p>Now some pics of Oriana...</p>
+
+<p><img alt="oriana.jpg" src="http://www.oliverweb.com/images05/blog/oriana.jpg" width="400" height="655" /></p>
+
+<p><img alt="oriana2.jpg" src="http://www.oliverweb.com/images05/blog/oriana2.jpg" width="400" height="303" /></p>
+
+<p><img alt="piano.jpg" src="http://www.oliverweb.com/images05/blog/piano.jpg" width="400" height="288" /></p>
+
+<p>=)</p>
+
+
+
+<p class="posted">
+Posted by Oliver at <a href="http://www.oliverweb.com/archives/2004/10/birthday_pics.shtml">11:13 PM</a>
+| <a href="http://www.oliverweb.com/archives/2004/10/birthday_pics.shtml#comments">Comments (0)</a>
+
+| <a href="http://www.oliverweb.com/archives/2004/10/birthday_pics.shtml#trackbacks">TrackBack</a>
+
+</p>
+
+
+</div>
+<!-- END BLOGS -->
+
+</div>
+<div class="spacer"></div>
+</div>
+<div id="bottombar">
+<div id="text">
+
+<a href="http://www.oliverweb.com/atom.xml"><img src="/images05/rssbadge.gif" width="36" height="14" border="0" alt="" /></a>
+
+Powered by <a href="http://www.movabletype.org">Movable Type 3.121</a>
+</div>
+</div>
+</div>
+</body>
+
+</html>

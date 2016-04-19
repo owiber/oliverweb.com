@@ -1,0 +1,17 @@
+linkbox=<b><a href="http://www.oliverweb.com/boredom2/index.html">Boredom2!</a><br>
+<a href="http://www.oliverweb.com/pics/college">College Pics!</a><br>
+<a href="http://www.oliverweb.com/pics/index.shtml">High School Pics!</a><br>
+<a href="http://www.oliverweb.com/articles/index.shtml">Articles</a><br>
+<a href="http://www.oliverweb.com/chats/chats.shtml">Ch@ts!</a><br>
+<a href="http://www.oliverweb.com/stuff/stuff.shtml" id="w">StUfF!</a><br>
+<a href="http://www.oliverweb.com/chad/index.shtml">Chad Stuff</a><br>
+<a href="http://www.oliverweb.com/friends2000/index.shtml">Friends 2000</a><br>
+<a href="http://www.oliverweb.com/friends2001/index.shtml">Friends 2001</a><br>
+<br>
+
+
+
+
+
+
+Boo!

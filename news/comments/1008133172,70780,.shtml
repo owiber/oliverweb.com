@@ -1,0 +1,47 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:1-->
+<title>OliverWEB - Discussing: Lord of the Rings</title>
+</head>
+
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">Lord of the Rings</font> </b><font face="arial" size="1">Tuesday, December 11, 2001</font><br><font size="2" face="arial">Well, Chad and I... *cough*... <b>I</b> bought four tickets to the Dec.19 Lord of the Rings 10:30PM showing at Tinseltown Pflugerville...<br><br>Soooo.. I say we have a big movie "party"... everyone <a href="https://www.fandango.com/ticket_box_office.asp?chain_id=CNMK&theater_id=242&terminal_id=&kiosk_flag=&movie_title=The+Lord+of+the+Rings%3A+The+Fellowship+of+the+Ring&theater_name=Cinemark+Tinseltown+20&addr1=I%2D35+N%2E+%40+Fm+1825&addr2=15436+F%2Em%2E+1825&city=Pflugerville&state=TX&barcode_flag=&movie_id=screens=1,movieid1=8923,movieid2=8923,movieid3=9440,movieid4=9441,movieid5=,movieid6=,movieid7=&mv=32228&perf_id=&show_date=12%2F19%2F01&show_time=10%3A30PM" target="_blank">buy tickets at Fandango</a>! =)<br><b>-<a href="mailto:oliver@oliverweb.com">Oliver</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 273449-1008142267 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - Ochs</font> <font face=arial size=1>Wednesday, December 12, 2001</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">66.25.212.106</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Ochs end_name end_fields--><!--ktalk start_comment-->Wait.. I thought that was when we were going to try to get Viraj to get 20 people in on tickets that were not good until January while we are all dressed up in Lord of the Rings outfits. I think we could actually pull it off....lol..I'm still baffled at how we got in on Saturday!<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 273449-1008142267 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="1008133172,70780,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->

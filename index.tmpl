@@ -1,0 +1,87 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=<$MTPublishCharset$>" />
+<meta name="generator" content="http://www.movabletype.org/" />
+
+<title><$MTBlogName encode_html="1"$></title>
+
+<link rel="stylesheet" href="<$MTBlogURL$>stylesheet.css" type="text/css" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="<$MTBlogURL$>atom.xml" />
+<link rel="alternate" type="application/rss+xml" title="RSS 1.0" href="<$MTBlogURL$>index.rdf" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="<$MTBlogURL$>index.xml" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="<$MTBlogURL$>rsd.xml" />
+<LINK REL="shortcut icon" HREF="/oweb.ico" TYPE="image/x-icon">
+<MTBlogIfCCLicense>
+<$MTCCLicenseRDF$>
+</MTBlogIfCCLicense>
+
+</head>
+
+<body>
+<div id="all">
+<div id="headerimage">
+	<$MTInclude module="Top"$>
+</div>
+<div id="container">
+<div class="spacer"></div>
+<div id="sidebar">
+
+<$MTInclude module="Sidebar"$>
+
+</div> <!-- END SIDEBAR -->
+
+<div id="content">
+<div id="contentblurb">
+<p><$MTInclude module="Blurb"$></p>
+</div>
+<br />
+<!-- START BLOGS -->
+<div id="blogs">
+<MTEntries lastn="10">
+<$MTEntryTrackbackData$>
+
+<MTDateHeader>
+<h2>&gt;&gt; <$MTEntryDate format="%x"$></h2>
+</MTDateHeader>
+
+<h3 id="a<$MTEntryID pad="1"$>"><a href="<$MTEntryPermalink valid_html="1"$>"><$MTEntryTitle$></a></h3>
+
+<$MTEntryBody$>
+
+<MTEntryIfExtended>
+<p class="extended"><a href="<$MTEntryPermalink$>#more">Continue reading "<$MTEntryTitle$>"</a></p>
+</MTEntryIfExtended>
+
+<p class="posted"><img src="/mt/images/mininav-entries.gif" border="0" alt="" /> posted by <$MTEntryAuthor$> at <a href="<$MTEntryPermalink valid_html="1"$>"><$MTEntryDate format="%X"$></a>
+<MTEntryIfAllowComments>
+| <img src="/mt/images/mininav-comments.gif" border="0" alt="" /> <a href="<$MTEntryPermalink archive_type="Individual"$>#comments">comments (<$MTEntryCommentCount$>)</a>
+</MTEntryIfAllowComments>
+<MTEntryIfAllowPings>
+| <a href="<$MTEntryPermalink archive_type="Individual"$>#trackbacks">TrackBack (<$MTEntryTrackbackCount$>)</a>
+</MTEntryIfAllowPings>
+</p>
+
+</MTEntries>
+</div>
+<!-- END BLOGS -->
+
+<br />
+<br />
+</div>
+<div class="spacer"></div>
+</div>
+<div id="bottombar">
+<div id="text">
+
+<$MTInclude module="Bottom"$>
+
+</div>
+</div>
+</div>
+</body>
+</html>
+
+
+

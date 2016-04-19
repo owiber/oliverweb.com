@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>
+OliverWEB - Pictures
+</title></head>
+<!--#include virtual="../../ssi/top.shtml"-->
+<center><h2><font color=blue>Pics!</font></h2><p>
+<!--#include virtual="../contents.txt"-->
+
+<img src=friends.gif width=350 height=281><br>
+Singing Chad: "Aye! I love my pantalones! They fit me oh so tight! They make me smile with delight..."<p>
+
+<img src=andrew.gif width=250 height=258><br>
+Andrew: "See my finger? It can shoot you. Fear me."<p>
+
+<img src=van.gif width=350 height=268><br>
+Van: "I'm a vegetarian! Why am I in a steakhouse?... Oh yeah... that moron Oliver..."<br>
+Dad: *Munch Munch*<p>
+
+<img src=chad.gif width=250 height=193><br>
+"I'm RICH!!! I will quit at Jack in the Box and become a fake Mexican dude for the rest of my life. Aye! I really love my pantalones!"<p>
+
+<!--#include virtual="../contents.txt"-->
+<!--#include virtual="../../ssi/bottom.shtml"-->

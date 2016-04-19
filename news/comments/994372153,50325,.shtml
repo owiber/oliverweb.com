@@ -1,0 +1,50 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:1-->
+<title>OliverWEB - Discussing: Lala, Fun And Interesting Stuff!</title>
+</head>
+<!--#if expr="${HTTP_COOKIE} = owebenter\=uvebeentold" -->
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">Lala, Fun And Interesting Stuff!</font> </b><font face="arial" size="1">Thursday, July 5, 2001 <!--(5:29:13)--></font><br><font size="2" face="arial">First off... <br><center><br><IMG SRC="http://www.oliverweb.com/newsimages/poster_nutzsaying.jpg"><br></center><br><br>Now for some fun links!!<br><br><a href = "http://www.capnwacky.com/flotsam/form_death.html">The Deathatron!</a> - Curious on how you're going to die?  Go here!<br><a href = "http://www.mcsweeneys.net/2001/06/20squirrel.html">Secret Life Of The Squirrel</a> - Follow this cute creature through it's day!<br><a href = "http://hotnutz.com/static/listinga6e5.shtml">Awkward Saltine Moments</a> - Just Like Humans... they have bad times.<br><a href = "http://ship-of-fools.com/Features/Curses/Curses_body.html">Biblical Curse Generator</a> - Thou shalt be plagued with gnats, flies and locusts, O ye creature of the pit!<br><a href = "http://www.card1004.com/card/bsjj/53.swf">You Killed My Teacher, Now You Must Die!</a> - Bruce Lee Flash thing =)<br><a href = "http://www.brunching.com/features/eternalquestions.html">Answering the Eternal Questions</a> - If A Tree Falls In The Forest, but no one is around to hear it, does it make a sound?<br><br>Well, I've been really bored today, and I'm about to leave, but I hope you all get some entertainment out of these.<br><b>-<a href="mailto:minix1f@aol.com">Minix</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 538236-994375904 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - Olivia</font> <font face=arial size=1>Thursday, July 5, 2001 <!--(6:31:44)--></font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">66.25.138.232</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Olivia end_name end_fields--><!--ktalk start_comment-->That Bruce Lee thing was weird<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 538236-994375904 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="994372153,50325,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->
+<!--#else -->
+<!--#include virtual="../ssi/error.shtml" -->
+<!--#endif -->

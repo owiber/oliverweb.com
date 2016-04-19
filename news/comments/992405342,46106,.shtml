@@ -1,0 +1,50 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:1-->
+<title>OliverWEB - Discussing: Newbies</title>
+</head>
+<!--#if expr="${HTTP_COOKIE} = owebenter\=uvebeentold" -->
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">Newbies</font> </b><font face="arial" size="1">Tuesday, June 12, 2001 <!--(11:09:02)--></font><br><font size="2" face="arial">Alright, newbie updaters: Update the page with cool stuff that will hopefully provoke cool comments/coversations. =)<br><br>Something that is either cool (to me, of course ;), funny, or... "OliverWEBish" would be the best thing to update with... if you put anything else up... well... then... hmm... I guess I'll leave it unless it's "inappropriate" material. =)<br><br>Just try not to update TOO much so that we go through the whole page (12 updates) every day or something... a couple per day would be cool though.<br><br>Have fun! =)<br><b>-<a href="mailto:oliver@oliverweb.com">Oliver</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 913763-992408653 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - Olivia</font> <font face=arial size=1>Wednesday, June 13, 2001 <!--(12:04:13)--></font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">66.25.164.27</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Olivia end_name end_fields--><!--ktalk start_comment-->Lol... me and Sarah and whoever else will try to find cool stuff.. we'll flood it with prom dresses we like.. HAHA =) Anyway<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 913763-992408653 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="992405342,46106,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->
+<!--#else -->
+<!--#include virtual="../ssi/error.shtml" -->
+<!--#endif -->

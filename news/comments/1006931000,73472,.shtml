@@ -1,0 +1,103 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:5-->
+<title>OliverWEB - Discussing: Chad's Dining $</title>
+</head>
+
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">Chad's Dining $</font> </b><font face="arial" size="1">Wednesday, November 28, 2001</font><br><font size="2" face="arial">Just something we thought quite funny...<br><br><center><img src=http://www.oliverweb.com/newsimages/chaddining.jpg alt="Haha" width=329 height=137 border=1></center><br><br>Pay special attention to the parts I circled... =)<br><b>-<a href="mailto:oliver@oliverweb.com">Oliver</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 39963-1007016789 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>5</b> - Andrew</font> <font face=arial size=1>Wednesday, November 28, 2001</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">129.116.58.182</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Andrew end_name end_fields--><!--ktalk start_comment-->At this current pace, Chad will not have any dining dollars as of April 7th.  What will happen when Chad runs out of money?  Well, hopefully he'll starve.  That way we don't have to hear his incessant whining and bad jokes.<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 39963-1007016789 --><!--ktalk start_item 368681-1007010893 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>4</b> - Olivia</font> <font face=arial size=1>Wednesday, November 28, 2001</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">66.25.208.43</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Olivia end_name end_fields--><!--ktalk start_comment-->Uh.. i don't get it... oh, now i do... haha!<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 368681-1007010893 --><!--ktalk start_item 292660-1006995379 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>3</b> - Sean</font> <font face=arial size=1>Wednesday, November 28, 2001</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">128.194.4.253</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Sean end_name end_fields--><!--ktalk start_comment-->I have 60 meals remaining on my plan and two weeks left in school. <!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 292660-1006995379 --><!--ktalk start_item 892777-1006968436 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>2</b> - Minix</font> <font face=arial size=1>Wednesday, November 28, 2001</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">129.116.18.117</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Minix end_name end_fields--><!--ktalk start_comment-->funny thing is how much he still owes me in dining dollars... =)<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 892777-1006968436 --><!--ktalk start_item 533311-1006955734 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - Suneet</font> <font face=arial size=1>Wednesday, November 28, 2001</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">128.83.206.171</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Suneet end_name end_fields--><!--ktalk start_comment-->haha...  In the Jester store, there's a sign that says<br>&quot;You can't use Dining Dollars to purchase Course Catalogs&quot;.<br>What kind of idiot even tried to do that!! They must have planned to eat the catalog.<br>It's a crazy world out there!  =)<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 533311-1006955734 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="1006931000,73472,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->

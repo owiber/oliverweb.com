@@ -1,0 +1,92 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:4-->
+<title>OliverWEB - Discussing: Suneet</title>
+</head>
+<!--#if expr="${HTTP_COOKIE} = owebenter\=uvebeentold" -->
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">Suneet</font> </b><font face="arial" size="1">Saturday, May 5, 2001 <!--(11:23:39)--></font><br><font size="2" face="arial">ER Med23: i have to do a visual project for Lord of the Flies.<br>ER Med23: do you have any ideas? <br>WabbaMan: um...<br>WabbaMan: get a pig's head<br>WabbaMan: heh, j/k<br>ER Med23: what else?<br>WabbaMan: well, you'll need a lot of flies too<br>WabbaMan: and you'll have to get them to circle the pig's head<br>ER Med23: do you have any practical ideas? <br>WabbaMan: no, not really<br>ER Med23: yea, you do.<br>ER Med23: you're in AP. <br>WabbaMan: I didn't do that project<br>WabbaMan: and my brain has shutdown for the year<br>ER Med23: ya right, genius.  <br>ER Med23: how will you get thru the AP's?<br>WabbaMan: um... random words here and there and hope that they think my random giberish is metaphorical someway<br>WabbaMan: who knows, maybe my AP essay will show up in future AP prompts =)<br>ER Med23: really...............what are some other visuals i could do?<br>WabbaMan: draw a pig's head<br>WabbaMan: with flies<br>WabbaMan: I know...<br>WabbaMan: you could make a hat...<br>WabbaMan: with little wires coming out of it...<br>WabbaMan: that has strings with little black dots (flies)...<br>WabbaMan: then you could wear it...<br>WabbaMan: and put on a pig's mask<br>ER Med23: yes!!<br><b>-<a href="mailto:oliver@oliverweb.com">Oliver</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 535305-989795002 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>4</b> - Lala</font> <font face=arial size=1>Sunday, May 13, 2001 <!--(6:03:22)--></font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">66.25.165.60</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Lala end_name end_fields--><!--ktalk start_comment-->testing testing...<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 535305-989795002 --><!--ktalk start_item 268987-989204010 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>3</b> - Ochs</font> <font face=arial size=1>Sunday, May 6, 2001 <!--(9:53:30)--></font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">66.25.137.127</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Ochs end_name end_fields--><!--ktalk start_comment-->Suneet... haha...Oliver.. you should ask him to tell you about this one time at the nursing home he works at.. well I'll tell ya about it! ß-) <!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 268987-989204010 --><!--ktalk start_item 288303-989190034 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>2</b> - <font color="#003399">Oliver</font></font> <font face=arial size=1>Sunday, May 6, 2001 <!--(6:00:34)--></font><br>
+      <font face=arial size=1><a href=mailto:oliver@oliverweb.com>oliver@oliverweb.com</a> (<font size="1" face="Arial">IP Hidden</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email oliver@oliverweb.com end_email start_name Oliver end_name end_fields--><!--ktalk start_comment-->I think so?<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 288303-989190034 --><!--ktalk start_item 375677-989183863 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - Olivia</font> <font face=arial size=1>Sunday, May 6, 2001 <!--(4:17:43)--></font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">66.25.138.125</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Olivia end_name end_fields--><!--ktalk start_comment-->Did he really go for that?<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 375677-989183863 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="989123019,33446,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->
+<!--#else -->
+<!--#include virtual="../ssi/error.shtml" -->
+<!--#endif -->

@@ -1,0 +1,26 @@
+<html>
+<head>
+<title>
+OliverWEB - Pictures
+</title></head>
+<!--#include virtual="../../ssi/top.shtml"-->
+<center><h2><font color=blue>Pics!</font></h2><p>
+<!--#include virtual="../contents.txt"-->
+
+<img src=ochs6.jpg width=250 height=264><br>
+Ochs: "Dad... I think it pooped..."<p>
+
+<img src=ochs7.jpg width=203 height=278><br>
+That smile looks exactly like yours Ochs! =)<p>
+
+<img src=ochs8.jpg width=200 height=232><br>
+Hehe, Melissa's a marshmallow.<p>
+
+<img src=ochs9.jpg width=200 height=268><br>
+Another baby Ochies!<p>
+
+<img src=ochs10.jpg width=250 height=273><br>
+And yet another. =)<p>
+
+<!--#include virtual="../contents.txt"-->
+<!--#include virtual="../../ssi/bottom.shtml"-->

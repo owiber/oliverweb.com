@@ -1,0 +1,33 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:0-->
+<title>OliverWEB - Discussing: </title>
+</head>
+
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399"></font> </b><font face="arial" size="1">Friday, August 16, 2002</font><br><font size="2" face="arial">a decent amount of time has passed from the time of my last news post, and to all of you who are devastated, here i am again. i try to ensure that i only post when i have something interesting to convey.  feel free to venture a guess at what i may be trying to exemplify through the following.  perhaps Oliver will even conduct a poll...<br><br><br><img src="http://www.oliverweb.com/newsimages/P1020025.JPG"><br><b>-<a href="mailto:nosliwc156@aol.com">Chad</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="1029552710,71666,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->

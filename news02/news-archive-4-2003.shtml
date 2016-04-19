@@ -1,0 +1,28 @@
+<html>
+<head>
+<title>
+OliverWEB - News Archives
+</title>
+</head>
+<!--#include virtual="../ssi/top.shtml"-->
+
+<h1>April 2003</h1>
+<a name="newsitemEpVEpuZpkkKtuQvSIx"></a><font face="Verdana, Arial, Helvetica, sans-serif" color="#6B9FCF"><p><strong>Basement</strong></font><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#ffffff"> <small>Tuesday, April 22 2003</small><br>
+Well, I'm sitting in the Taylor basement right now... skipping Automata Theory again (hope she doesn't hand out a quiz today   =).  I would have been out of here 30+ minutes ago, but some girl just sent 45+ jobs to the printer... so I have to wait for her to get done before mine reaches the end of the queue. Ugh.  Oh, and the other printer is dead... I tried printing to that one until I noticed that the job at the front of the queue had been sitting there for three hours. Ugh Ugh Ugh.<br><br>Hmm... well that's all for now. Maybe I will sneak into the end of Automata and see if she handed out a quiz....</p>
+-<a href="mailto:oliver@oliverweb.com">Oliver</a><br>
+<a href="http://www.oliverweb.com/cgi-bin/coranto/zcomment.cgi?article=EpVEpuZpkkKtuQvSIx">Comments (1)</a></font>
+<a name="newsitemEpVpkZEykkCtetTYoY"></a><font face="Verdana, Arial, Helvetica, sans-serif" color="#6B9FCF"><p><strong>More Debian</strong></font><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#ffffff"> <small>Sunday, April 13 2003</small><br>
+gtk2 apps have really small fonts:<ul><li>Create .gtkrc-2.0 file with:<br>style "user-font" { font_name="Sans 12" } <br>widget_class "*" style "user-font"</li></ul>Hmm... guess that's all for now.</p>
+-<a href="mailto:oliver@oliverweb.com">Oliver</a><br>
+<a href="http://www.oliverweb.com/cgi-bin/coranto/zcomment.cgi?article=EpVpkZEykkCtetTYoY">Comments (1)</a></font>
+<a name="newsitemEpVppFZEyuNFWdldtK"></a><font face="Verdana, Arial, Helvetica, sans-serif" color="#6B9FCF"><p><strong>Debian</strong></font><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#ffffff"> <small>Friday, April 11 2003</small><br>
+Ahhh... my leap into the world of Debian. Turned out much better than I expected!  I installed using my Knoppix CD, which made the whole process much easier! The HD install script didn't allow me to specify different partitions for different mount points, so I did that after the install was finished. I made a seperate partition for /home so that in future installs, I wouldn't have to kill it.<br><br>I'm just going to throw a few notes here now:<br><br>Antialias in Phoenix (installed from <a href=http://pryan.org/phoenix/>here</a>):<ul><li>userChrome.css and userContent.css - make sure it uses Luxi Sans or another antialiased font</li></ul><br><br>Konsole AA fonts:<ul><li>Just grabbed a ton of fonts from baghat and threw them in /usr/share/fonts. This messed up the default sans font though and made it look really ugly.</li><li>To fix that... see <a href=http://forums.gentoo.org/viewtopic.php?t=37347&highlight=antialias>this Gentoo thread</a>. Basically, turn off hinting for sans fonts.</li></ul><br><br>Let's see... oh yeah, dhclient:<ul><li>Wait time was too long originally for dhcp. So: "apt-get install dhcp-client" installs dhclient, which worked quite well.  Edit /etc/dhclient.conf and edit timeout value.</li></ul><br><br>Alright, I think that's all I want to say for now. =)</p>
+-<a href="mailto:oliver@oliverweb.com">Oliver</a><br>
+<a href="http://www.oliverweb.com/cgi-bin/coranto/zcomment.cgi?article=EpVppFZEyuNFWdldtK">Comments (0)</a></font>
+<a name="newsitemEpuAukEEuEpFdEDgJP"></a><font face="Verdana, Arial, Helvetica, sans-serif" color="#6B9FCF"><p><strong>Funny Stuff</strong></font><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#ffffff"> <small>Thursday, April 3 2003</small><br>
+<a href=http://tv.yahoo.com/news/wwn/20030319/104808600007.html>Time Traveller</a></p>
+-<a href="mailto:oliver@oliverweb.com">Oliver</a><br>
+<a href="http://www.oliverweb.com/cgi-bin/coranto/zcomment.cgi?article=EpuAukEEuEpFdEDgJP">Comments (0)</a></font>
+
+
+<!--#include virtual="../ssi/bottom.shtml"-->

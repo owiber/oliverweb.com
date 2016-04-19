@@ -1,0 +1,89 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:4-->
+<title>OliverWEB - Discussing: NO UPDATES?  FOR SHAME!!!</title>
+</head>
+
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">NO UPDATES?  FOR SHAME!!!</font> </b><font face="arial" size="1">Tuesday, October 9, 2001</font><br><font size="2" face="arial">Well, I've been so busy with Coconut comics, I've noticed that there have been almost no updates lately....why?  I don't know, so I will look into this matter....ACK!  I just saw a bug or something in the corner of my eye!!!<br><b>-<a href="mailto:wretchedmeerkat@aol.com">Wes</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 553147-1002750870 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>4</b> - Olivia</font> <font face=arial size=1>Wednesday, October 10, 2001</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">24.27.60.144</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Olivia end_name end_fields--><!--ktalk start_comment-->Oh yeah, cute left sidebar gawh gawh =)<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 553147-1002750870 --><!--ktalk start_item 21873-1002750796 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>3</b> - Olivia</font> <font face=arial size=1>Wednesday, October 10, 2001</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">24.27.60.144</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Olivia end_name end_fields--><!--ktalk start_comment-->Ah... i've been busy with school... heh =)<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 21873-1002750796 --><!--ktalk start_item 691780-1002741388 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>2</b> - <font color="#003399">Oliver</font></font> <font face=arial size=1>Wednesday, October 10, 2001</font><br>
+      <font face=arial size=1><a href=mailto:oliver@oliverweb.com>oliver@oliverweb.com</a> (<font size="1" face="Arial">IP Hidden</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email oliver@oliverweb.com end_email start_name Oliver end_name end_fields--><!--ktalk start_comment-->I've been working on Computer Science, Logic, and other stuff like that. I did however, make the left sidebar tile so it doesn't look blank and empty after you scroll down a page.<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 691780-1002741388 --><!--ktalk start_item 805844-1002722461 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - Minix</font> <font face=arial size=1>Wednesday, October 10, 2001</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">128.83.101.136</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Minix end_name end_fields--><!--ktalk start_comment-->I've been working on coconut comics in all the free time ive had on computers... sooo yeah...<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 805844-1002722461 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="1002691312,35653,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->

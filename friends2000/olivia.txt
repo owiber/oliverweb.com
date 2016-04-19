@@ -1,0 +1,14 @@
+<!--Oliver is da bomb! hehe-->
+<ul><li><input type="radio" name="quotenum" value="2">
+<b>"hey... now that i get the Kermit thing... HEY!!!!!! =) "</b> [<u><font color=#FF80C0>Christine</font></u>]
+<!--o 2--><ul>
+</ul></li></ul><p>
+<ul><li><input type="radio" name="quotenum" value="1">
+<b>"You don't really have to rant on something you hate, "MuyMuy" =)."</b> [<u><font color=#0000FF>Oliver</font></u>]
+<!--o 1--><ul>
+<li>Well, not all of it is rants.. I kinda got side-tracked =)Anyway,I had no clue it would come out that long! -<u><b><font color=#0080C0>Olivia</font></u></b>
+<li>This was before she made that huge rant... heh. -<u><b><font color=#0000FF>Oliver</font></u></b>
+<li>Anything, just start babbling. =) -<u><b><font color=#0000FF>Oliver</font></u></b>
+<li>What are you supposed to rant about? I don't get that... cuz we already had pet peeves... so what do you put? -<u><b><font color=#8000FF>Sarah</font></u></b>
+<li>WELL! Now you tell me "Gaw Gaw"! -<u><b><font color=#0080C0>Olivia</font></u></b>
+</ul></li></ul><p>

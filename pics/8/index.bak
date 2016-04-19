@@ -1,0 +1,26 @@
+<html>
+<head>
+<title>
+OliverWEB - Pictures
+</title></head>
+<!--#include virtual="../../ssi/top.shtml"-->
+<center><h2><font color=blue>Pics!</font></h2><p>
+<!--#include virtual="../contents.txt"-->
+
+<img src=ochs.gif width=250 height=302><br>
+...*sigh* =)<p>
+
+<img src=ochs2.gif width=250 height=309><br>
+Ochs: "You know Wong, you have got to let me borrow some of that perfume."<p>
+
+<img src=chad.gif width=200 height=236><br>
+Chad: "Heh, I have a wedgy."<p>
+
+<img src=minix.gif width=300 height=246><br>
+Minix, my mom said I have to say something nice to you now because I've said so many "bad" 
+(but very hilarious if I may say so =) things about you in the pics so...<br>
+Nice picture Matt, you look nice. You might want to have the camera guys retake your pictures that are on the
+poster board though. I think they might have messed up on the lighting or something. ;)<p>
+
+<!--#include virtual="../contents.txt"-->
+<!--#include virtual="../../ssi/bottom.shtml"-->

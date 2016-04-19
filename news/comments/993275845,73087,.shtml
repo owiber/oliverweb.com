@@ -1,0 +1,64 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:2-->
+<title>OliverWEB - Discussing: Quote Page Stats</title>
+</head>
+<!--#if expr="${HTTP_COOKIE} = owebenter\=uvebeentold" -->
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">Quote Page Stats</font> </b><font face="arial" size="1">Saturday, June 23, 2001 <!--(12:57:25)--></font><br><font size="2" face="arial">OK, I have no life, and have once again counted quotes and comments... this time I have a little neater way of doing it =)  Lala, I have no idea what purpose this could serve, but maybe you'll find it of some interest.<Center><TABLE BORDER = 1> <caption align="top">Quote Page Statistics!</caption> <TR> <TH>Names<TH>Total<TH>Quotes<TH>Comments</TH> </TR> <TR> <TD>Minix</TD><TD>711</TD><TD>88</TD><TD>623</TD></TR> <TR> <TD>Oliver</TD><TD>624</TD><TD>62</TD><TD>562</TD></TR> <TR> <TD>Olivia</TD><TD>604</TD><TD>110</TD><TD>494</TD></TR> <TR> <TD>Sarah</TD><TD>383</TD><TD>30</TD><TD>353</TD></TR> <TR> <TD>Christine</TD><TD>351</TD><TD>49</TD><TD>302</TD></TR> <TR> <TD>Amanda W.</TD><TD>268</TD><TD>19</TD><TD>249</TD></TR> <TR> <TD>Jennifer</TD><TD>212</TD><TD>14</TD><TD>198</TD></TR> <TR> <TD>Cathy</TD><TD>133</TD><TD>14</TD><TD>121</TD></TR> <TR> <TD>Ochs</TD><TD>101</TD><TD>34</TD><TD>67</TD></TR> <TR> <TD>Wes</TD><TD>82</TD><TD>32</TD><TD>50</TD></TR> <TR> <TD>Adam</TD><TD>64</TD><TD>12</TD><TD>52</TD></TR> <TR> <TD>Kenny</TD><TD>49</TD><TD>17</TD><TD>32</TD></TR> <TR> <TD>Claire</TD><TD>35</TD><TD>8</TD><TD>27</TD></TR> <TR> <TD>Carlson</TD><TD>28</TD><TD>10</TD><TD>18</TD></TR> <TR> <TD>Amanda K.</TD><TD>17</TD><TD>1</TD><TD>16</TD></TR> <TR> <TD>Chad</TD><TD>11</TD><TD>3</TD><TD>8</TD></TR> <TR> <TD>Brook</TD><TD>8</TD><TD>3</TD><TD>5</TD></TR> <TR> <TD>Brad</TD><TD>8</TD><TD>1</TD><TD>7</TD></TR> <TR> <TD>Grace</TD><TD>7</TD><TD>3</TD><TD>4</TD></TR> <TR> <TD>Nancy</TD><TD>7</TD><TD>2</TD><TD>5</TD></TR> <TR> <TD>Joey</TD><TD>6</TD><TD>0</TD><TD>6</TD></TR> <TR> <TD>Van</TD><TD>4</TD><TD>2</TD><TD>2</TD></TR> <TR> <TD>Brian</TD><TD>4</TD><TD>2</TD><TD>2</TD></TR> <TR> <TD>Jeanette</TD><TD>2</TD><TD>0</TD><TD>2</TD></TR> <TR> <TD>Suneet</TD><TD>1</TD><TD>0</TD><TD>1</TD></TR> <TR> <TD>Patrick</TD><TD>0</TD><TD>0</TD><TD>0</TD></TR></TABLE></Center><br><b>-<a href="mailto:minix1f@aol.com">Minix</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 744888-993276712 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>2</b> - Minix</font> <font face=arial size=1>Saturday, June 23, 2001 <!--(1:11:52)--></font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">24.93.60.64</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Minix end_name end_fields--><!--ktalk start_comment-->Not that bored... its just, early this week Olivia and I were talking about who posted the most on the quote page, and she insisted she did... till I said I was pretty sure I had the most comments... she conceeded probably... and I just got curious on how much we all had... again...<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 744888-993276712 --><!--ktalk start_item 820628-993275978 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - Olivia</font> <font face=arial size=1>Saturday, June 23, 2001 <!--(12:59:38)--></font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">66.25.138.7</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Olivia end_name end_fields--><!--ktalk start_comment-->Lol.. yeah... poor Matt.. =) No life... j/p, he just bored =) REALLY.. bored<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 820628-993275978 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="993275845,73087,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->
+<!--#else -->
+<!--#include virtual="../ssi/error.shtml" -->
+<!--#endif -->

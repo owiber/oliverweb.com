@@ -1,0 +1,33 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:0-->
+<title>OliverWEB - Discussing: Geee...</title>
+</head>
+
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#0000FF">Geee...</font> </b><font face="arial" size="1">Monday, October 16, 2000</font><br><font size="2" face="arial"><h1>Thanks Minix! =)</h1>Dumdedum... btw, took off Mercury-X link(s) as it'd dead now...<br>-<a href="mailto:oliver@oliverweb.com">Oliver</a></p></font>
+
+
+
+<!--ktalk newpost-->
+
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="971751775,46247,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->

@@ -1,0 +1,61 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:2-->
+<title>OliverWEB - Discussing: ASIMO WILL DESTROY US ALL!!!</title>
+</head>
+
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">ASIMO WILL DESTROY US ALL!!!</font> </b><font face="arial" size="1">Thursday, February 14, 2002</font><br><font size="2" face="arial">LOOK, THOU, UPON THE FEARSOME VISAGE OF ASIMO, THE HUMANOID ROBOT!  HE WILL DESTROY US ALL!!!!!<br><br><img src="http://www.oliverweb.com/newsimages/asimo.gif"><br><br><a href="http://world.honda.com/robot">Click here</a> to learn more about this Conqueror of Mankind!<br><b>-<a href="mailto:holyyam@aol.com">Wes</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 704209-1014226546 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>2</b> - Wes</font> <font face=arial size=1>Wednesday, February 20, 2002</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">152.163.197.51</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Wes end_name end_fields--><!--ktalk start_comment-->The ability to walk is not frightening as a mankind-conquering skill....UNLESS IT IS FORTY FEET TALL!!!!!!<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 704209-1014226546 --><!--ktalk start_item 634548-1013795645 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - Sean</font> <font face=arial size=1>Friday, February 15, 2002</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">128.194.4.253</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Sean end_name end_fields--><!--ktalk start_comment-->If they would tell me on the website what it could do this would be interesting. HOwever, im not as excited as the robot's builders aabout its groundbreaking ability to walk and turn.<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 634548-1013795645 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="1013702656,44700,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->

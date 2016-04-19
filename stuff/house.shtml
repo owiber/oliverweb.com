@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>
+OliverWEB - StUfF
+</title>
+</head>
+<!--#include virtual="../ssi/top.shtml"--><center>
+<h2><font color=blue>My House!</font></h2><p></center>
+Here's my house: =)<p>
+<center>
+<img src=house.jpg width=415 height=500 border=0></center>
+<p>
+Cool, eh? =)<br>
+Yes! That really is where my house is! I promise! =)
+<p>
+<!--#include virtual="../ssi/bottom.shtml"-->

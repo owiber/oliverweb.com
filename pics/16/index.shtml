@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>
+OliverWEB - Pictures
+</title></head>
+<!--#include virtual="../../ssi/top.shtml"-->
+<center><h2><font color=blue>Pics!</font></h2><p>
+<!--#include virtual="../contents.txt"-->
+
+<img src=smile.jpg width=160 height=137><br>
+Oriana: Smile! <p>
+
+<img src=oriana.jpg width=300 height=303><br>
+Oriana is ready to kill me.<p>
+
+<img src=oliver.jpg width=225 height=256><br>
+Me sweepin' =)<p>
+
+<img src=falldown.jpg width=300 height=191><br>
+Oriana fall down and go boom. =(<p>
+
+<!--#include virtual="../contents.txt"-->
+<!--#include virtual="../../ssi/bottom.shtml"-->

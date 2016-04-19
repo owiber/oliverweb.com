@@ -1,0 +1,103 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:5-->
+<title>OliverWEB - Discussing: I'm going to sleep now</title>
+</head>
+
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">I'm going to sleep now</font> </b><font face="arial" size="1">Sunday, December 23, 2001</font><br><font size="2" face="arial"><center><h1><a href="http://www.videoflicks.com/VF2/A104/1048961.iHtml" target="_blank">Oh yeah =)</a></h1></center><br><b>-<a href="mailto:oliver@oliverweb.com">Oliver</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 418566-1009167363 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>5</b> - Christine</font> <font face=arial size=1>Sunday, December 23, 2001</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">192.35.232.99</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Christine end_name end_fields--><!--ktalk start_comment-->hehe, when i type in my name it tells me a bunch of<br>stuff about christmas =P<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 418566-1009167363 --><!--ktalk start_item 291141-1009123378 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>4</b> - <font color="#003399">Oliver</font></font> <font face=arial size=1>Sunday, December 23, 2001</font><br>
+      <font face=arial size=1><a href=mailto:oliver@oliverweb.com>oliver@oliverweb.com</a> (<font size="1" face="Arial">IP Hidden</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email oliver@oliverweb.com end_email start_name Oliver end_name end_fields--><!--ktalk start_comment-->Was bored and just searched for &quot;Oliver Wong&quot;... there are quite a few...<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 291141-1009123378 --><!--ktalk start_item 151073-1009122630 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>3</b> - Olivia</font> <font face=arial size=1>Sunday, December 23, 2001</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">66.25.208.43</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Olivia end_name end_fields--><!--ktalk start_comment-->You know... when I type my name into that it immediately goes to &quot;Oliver Wong&quot;... &gt; . &lt; Grrrr...<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 151073-1009122630 --><!--ktalk start_item 809944-1009099010 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>2</b> - Ochs</font> <font face=arial size=1>Sunday, December 23, 2001</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">128.83.204.39</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Ochs end_name end_fields--><!--ktalk start_comment-->And both of those movies sucked! j/k =)<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 809944-1009099010 --><!--ktalk start_item 628011-1009097958 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - Nancy</font> <font face=arial size=1>Sunday, December 23, 2001</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">63.232.113.200</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Nancy end_name end_fields--><!--ktalk start_comment-->How'd u find that?<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 628011-1009097958 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="1009094611,57579,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->

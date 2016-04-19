@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>
+OliverWEB - Pictures
+</title></head>
+<!--#include virtual="../../ssi/top.shtml"-->
+<center><h2><font color=blue>Pics!</font></h2><p>
+<!--#include virtual="../contents.txt"-->
+
+<img src=sarah.jpg width=225 height=201><br>
+Sarah: "I picked a big one! I picked a good one! Matt, you want to eat it?!"<p>
+
+<img src=minix.jpg width=300 height=295><br>
+Minix: "Oh no. She's trying to feed me a booger again."<p>
+
+<img src=olivia.jpg width=136 height=200><br>
+Olivia: "I... have... four... fingers?... what... happened?..."<p>
+
+<img src=poormatt.jpg width=300 height=213><br>
+Minix: "My arm is stuck to my head... hope I put deodorant on this morning... uh oh..."<p>
+
+<!--#include virtual="../contents.txt"-->
+<!--#include virtual="../../ssi/bottom.shtml"-->

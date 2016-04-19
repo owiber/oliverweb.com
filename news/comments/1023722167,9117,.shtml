@@ -1,0 +1,75 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:3-->
+<title>OliverWEB - Discussing: Macho Nacho Taco!</title>
+</head>
+
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">Macho Nacho Taco!</font> </b><font face="arial" size="1">Monday, June 10, 2002</font><br><font size="2" face="arial">Um... yeah, well... I'm just sitting here...<br><br>Got a meeting in 15 minutes... just wasting some time. =)<br><br>Everyone see my new <a href=http://www.mrtechhappy.com/index.php?day=020610 target=new>Lamborghini</a>? =)<br><b>-<a href="mailto:oliver@oliverweb.com">Oliver</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 577228-1023892460 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>3</b> - Ochs</font> <font face=arial size=1>Wednesday, June 12, 2002</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">192.35.232.241</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Ochs end_name end_fields--><!--ktalk start_comment-->OLIVER! If you are gonna tell that story you must get it RiGhT!!! It is a flying blue monkey that looks just like the one from the Wizard of Oz! Not just a regular flying blue monkey. This one had the make-up, tail, lipstick(I think they have lipstick...lol), the whole enchilada! And there was one! I am sure of it... =)<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 577228-1023892460 --><!--ktalk start_item 970091-1023889588 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>2</b> - <font color="#003399">Oliver</font></font> <font face=arial size=1>Wednesday, June 12, 2002</font><br>
+      <font face=arial size=1><a href=mailto:oliver@oliverweb.com>oliver@oliverweb.com</a> (<font size="1" face="Arial">IP Hidden</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email oliver@oliverweb.com end_email start_name Oliver end_name end_fields--><!--ktalk start_comment-->What? You've never seen a flying blue monkey before? =)<br><br>Hehe...<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 970091-1023889588 --><!--ktalk start_item 98754-1023863693 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - Minix</font> <font face=arial size=1>Wednesday, June 12, 2002</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">24.28.94.51</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Minix end_name end_fields--><!--ktalk start_comment-->hey... thats not a fair race, theres nothing driving the bus... <!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 98754-1023863693 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="1023722167,9117,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->

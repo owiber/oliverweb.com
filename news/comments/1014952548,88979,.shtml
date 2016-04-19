@@ -1,0 +1,61 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:2-->
+<title>OliverWEB - Discussing: More for ya!</title>
+</head>
+
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">More for ya!</font> </b><font face="arial" size="1">Thursday, February 28, 2002</font><br><font size="2" face="arial">Since everyone seems fond of sound files, I shall post 2 =)<br><br><a href = "http://www.coconutcomics.com/OliviaCandy.wav">Candy...</a><br><a href = "http://www.coconutcomics.com/OliviaJaws.wav">Jaws...</a><br><br>And I remain unrecorded =)<br><b>-<a href="mailto:minix@mail.utexas.edu">Minix</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 600032-1014953498 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>2</b> - Olivia</font> <font face=arial size=1>Thursday, February 28, 2002</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">66.25.208.43</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Olivia end_name end_fields--><!--ktalk start_comment-->Dang, that was a long time ago<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 600032-1014953498 --><!--ktalk start_item 155694-1014952776 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - Ochs</font> <font face=arial size=1>Thursday, February 28, 2002</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">129.116.18.194</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Ochs end_name end_fields--><!--ktalk start_comment-->We record you when you don't know it... perhaps when viraj is in the room! MWHAHA<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 155694-1014952776 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="1014952548,88979,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->

@@ -1,0 +1,15 @@
+$playlistfile = "./haha.m3u";
+
+open FILE, "<$playlistfile";
+@filedata = <FILE>;
+close FILE;
+
+open FILE, ">$playlistfile.txt";
+foreach $fileline (@filedata){
+	if($fileline =~ /#EXTINF:(.*),(.*)/){
+		$songname = $2;
+		chomp $songname;
+		print FILE "<li>$songname</li>\n";
+	}
+}
+close FILE;

@@ -1,0 +1,89 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:4-->
+<title>OliverWEB - Discussing: MWAHAHAAHAHA!</title>
+</head>
+
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">MWAHAHAAHAHA!</font> </b><font face="arial" size="1">Thursday, February 28, 2002</font><br><font size="2" face="arial">Andrew and I just decided to go with the flow and make this rap song about our little buddy Viraj. Hope everyone enjoys!<br><br><p><br>Here is the song -->&nbsp;<a href="http://www.mercury-x.net/virajrap.mp3">Viraj Rap!</a><br><p><br>Here are the lyrics for those who can't understand the flow -->&nbsp;<a href="http://www.mercury-x.net/virajraplyrics.txt">Lyrics</a><br><p><br>Byes for nows! =)<br><b>-<a href="mailto:ochs82@mail.utexas.edu">Ochs</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 751661-1015997125 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>4</b> - Nancy</font> <font face=arial size=1>Tuesday, March 12, 2002</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">67.25.133.7</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Nancy end_name end_fields--><!--ktalk start_comment-->niiiiiiiiiiiiiiice<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 751661-1015997125 --><!--ktalk start_item 5544-1015269287 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>3</b> - Sean</font> <font face=arial size=1>Monday, March 4, 2002</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">128.194.4.253</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Sean end_name end_fields--><!--ktalk start_comment-->they made a song about Babe Ruth? Viraj your retarded that song was about you not The Great Bambino. <!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 5544-1015269287 --><!--ktalk start_item 913435-1015002542 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>2</b> - Ochs</font> <font face=arial size=1>Friday, March 1, 2002</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">129.116.18.194</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Ochs end_name end_fields--><!--ktalk start_comment-->Umm.....yeah... right....<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 913435-1015002542 --><!--ktalk start_item 70773-1014960305 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - EL Gozirra</font> <font face=arial size=1>Thursday, February 28, 2002</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">64.12.101.184</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name EL Gozirra end_name end_fields--><!--ktalk start_comment-->Ochs and drew r just jealous of tha brother man, and wish they were him, thats y they were dumb enuf to make a song about him(a.k.a. THE GREAT BAMBINO!)<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 70773-1014960305 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="1014957977,64956,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->

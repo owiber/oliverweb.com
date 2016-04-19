@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>
+OliverWEB - Pictures
+</title></head>
+<!--#include virtual="../../ssi/top.shtml"-->
+<center><h2><font color=blue>Pics!</font></h2><p>
+<!--#include virtual="../contents.txt"-->
+
+<img src=pikachu.gif width=300 height=235><br>
+Pikachu: "I am the big yellow explosive marshmallow that has lightning coming out of my butt. Fear me. PI-KA-CHU!"<p>
+
+<img src=friends.gif width=300 height=208><br>
+So... what you guys wanna do? Guys? Uh... guys... why are you looking at me like that?<p>
+
+<img src=fish.gif width=350 height=279><br>
+Shown here are two male fish. One fish is studying the back of his hand. Hopefully, he knows things more than he knows the back of his hand. He failed the 'back of your hand' test. The other fish thinks he has suspenders on.<p>
+
+<img src=chad.gif width=230 height=271><br>
+Chad figured out how to use the mask. Need I say more? =)<p>
+
+<!--#include virtual="../contents.txt"-->
+<!--#include virtual="../../ssi/bottom.shtml"-->

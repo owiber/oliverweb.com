@@ -1,0 +1,21 @@
+<html>
+
+<head>
+<title>
+OliverWEB - Articles</title></head>
+
+<!--#include virtual="../ssi/top.shtml"--><center>
+<h2><font color=blue>Articles</font></h2></center>
+Hey! 'Tis da Articles section. Here, I'll put some wacko newspaper-like reports about weird/funny stuff =).
+Not much here yet, but it'll grow. I assure you. =) Like always, have fun!...<p>
+<center><p>
+<img src=owebmonthly.gif alt="OliverWEB Monthly! erhm.. weekly... or... yearly... umm..." width=400 height=250><p>
+<b><font size=3>Articles:</b></font>
+<ul>
+<li><a href=hoodlums.shtml>Hoodlums!</a></li>
+<li><a href=snot.shtml>Scientific Breakthrough: HS!</a></li>
+<li><a href=huck.shtml>The Huck Paradox</a></li>
+<li><a href=wabba.shtml>The Wabba Mood</a></li>
+</ul>
+<!--#include virtual="../ssi/bottom.shtml"-->
+

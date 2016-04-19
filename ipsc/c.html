@@ -1,0 +1,106 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Strict//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <meta name="description" content="Internet Problem Solving Contest (IPSC) is an online programming contest for teams up three people.">
+  <meta name="keywords" content="IPSC, programming, contest, online contest">
+  <title>IPSC 2004 -  Problem&nbsp;C - Calls</title>
+  <link rel="stylesheet" type="text/css" href="main.css">
+  </head>
+  <body>
+<div class="title">
+<div class="ipscimg">
+<a href="http://ipsc.ksp.sk/index.php?auth=1"><img src="ipsc.gif"
+alt="IPSC Logo"></a>
+</div>
+<div class="nadpis">
+<h1>Internet Problem Solving Contest</h1>
+<h2>IPSC 2004<br> Problem&nbsp;C - Calls</h2>
+</div>
+</div>
+<div class="telo">
+<ul>
+<li><a href="c1.in">Easy input data set - C1</a></li>
+<li><a href="c2.in">Difficult input data set - C2</a></li>
+</ul>
+<p>
+A young archeologist Senoj Anaidni recently made a very important
+discovery which will make him famous (or at least he thinks so).  He
+found several scraps of paper resembling advertisement flyers of an
+ancient phone company. His research showed that modern phone companies
+follow a few basic rules to compose their flyers (and there
+is no reason to assume that old companies were an exception).
+</p>
+<p>
+Each company operates certain number of phone lines. Each phone line
+connects a pair of cities, and it can be used in both directions.  The
+cost of using each line is a fixed positive number. A call from city A
+to city B may be routed through one or more other cities, in which
+case the cost of the call is the sum of the costs of all lines used.
+(In fact, sometimes it is cheaper to route the call through several
+other cities than to use the direct connection, even if there exists
+one.)
+</p>
+<p>
+To make the information comprehensible to the customer, the phone
+company lists the cost of the cheapest possible call between every
+pair of cities serviced by the company. To impress the customer even
+more, the company also lists the number of lines it operates.
+</p>
+<p>
+Indeed, each of Senoj's ancient flyers start like this: "Using our 47
+telephone lines, we serve 10 most important cities of the world! A
+call from Sparta to Troja costs 12 dennario, Sparta to Athens is 15
+dennario, ...". The list of all pairs of cities and the respective
+costs of the cheapest possible call between them follows.
+</p>
+<p>
+This supports Senoj's hypothesis about the origin of the papers, but
+he is not sure whether they are really genuine. Other archeologists
+often play dirty jokes on him by making ridiculous forgeries in a
+hope, that he will make a fool of himself. Luckily, they are often not
+very meticulous, so we can safely assume, that a flyer is a forgery if
+and only if it could not have been published by any phone company.
+</p>
+
+<h3>Input specification</h3>
+<p>
+The first line of the input file gives the number of flyers found by
+Senoj. Each flyer is described in a separate block starting with a
+line containing two integers - <b>N</b> and <b>K</b> - where <b>N</b> is the number of
+cities and <b>K</b> is the number of phone lines. The block continues with
+<b>N-1</b> lines giving the costs of the cheapest calls between all pairs of
+cities.  In particular, the <b>i</b>-th line contains <b>(N-i)</b> numbers, where
+<b>j</b>-th number represents the cost of a call between the cities <b>i</b> and
+<b>(i+j)</b>.
+</p>
+
+<h3>Output specification</h3>
+<p>
+For every input block, output a line containing either "YES" or "NO".
+"YES" should be printed, if it is possible to assign costs to the
+phone lines operated by the company so that the cheapest calls are as
+advertised in the flyer. "NO" should be printed if this is not
+possible.
+</p>
+<h3>Example</h3>
+
+<b>Input:</b><br>
+<pre>
+2
+3 3
+1 2
+2
+3 2
+1 2
+2
+</pre>
+<b>Output:</b><br>
+<pre>
+YES
+NO
+</pre>
+</div>
+
+</body>
+</html>

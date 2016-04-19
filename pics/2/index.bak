@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>
+OliverWEB - Pictures
+</title></head>
+<!--#include virtual="../../ssi/top.shtml"-->
+<center><h2><font color=blue>Pics!</font></h2><p>
+<!--#include virtual="../contents.txt"-->
+
+<img src=olivialost.gif width=350 height=240><br>
+"I'm lost. Where is everyone?"<p>
+
+<img src=grace.gif width=350 height=332><br>
+Hmmm... I couldn't think of anything funny to put here... but it was a good pic so... =)<p>
+
+<img src=toiletpaper.gif width=350 height=244><br>
+Gee... thanks. What do I use it for? (hehe, j/k =)<p>
+
+<img src=money.gif width=350 height=236><br>
+Hey! That's my money!<p>
+</center>
+<!--#include virtual="../contents.txt"-->
+<!--#include virtual="../../ssi/bottom.shtml"-->

@@ -1,0 +1,866 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="http://www.movabletype.org/" />
+
+<title>OliverWEB 2005: misc Archives</title>
+
+<link rel="stylesheet" href="http://www.oliverweb.com/stylesheet.css" type="text/css" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.oliverweb.com/index.rdf" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="http://www.oliverweb.com/atom.xml" />
+</head>
+<body>
+<div id="all">
+<div id="headerimage">
+	<div id="links"><a href="http://www.oliverweb.com">blog</a> | <a href="http://www.oliverweb.com/gallery">gallery</a> | <a href="http://www.oliverweb.com/main/">legacy</a></div>	
+</div>
+<div id="container">
+<div class="spacer"></div>
+<div id="sidebar">
+
+<!-- START ME -->
+<h2>me</h2>
+<p>
+name: oliver wong<br>
+major: computer science<br>
+location: ut austin<br>
+dob: 10.16.83<br>
+status: alive ;)
+</p>
+<!-- END ME -->
+
+<!-- START EQUIPMENT-->
+<h2>toys</h2>
+<p>
+apple powerbook 12"<br>
+athlon 64 3200+<br>
+geforce 6800gt oc<br>
+4g ipod 20gb<br>
+canon eos digital rebel<br>
+sony ericsson t610
+</p>
+<!-- END EQUIPMENT-->
+
+<!-- START CATEGORIES -->
+<h2>categories</h2>
+<ul>
+  <li><a href="http://www.oliverweb.com/archives/events/index.shtml">events</a></li>
+  <li><a href="http://www.oliverweb.com/archives/friends/index.shtml">friends</a></li>
+  <li><a href="http://www.oliverweb.com/archives/misc/index.shtml">misc</a></li>
+  <li><a href="http://www.oliverweb.com/archives/news/index.shtml">news</a></li>
+  <li><a href="http://www.oliverweb.com/archives/photographs/index.shtml">photographs</a></li>
+
+</ul>
+<!-- END CATEGORIES -->
+<br />
+<!-- START ARCHIVES -->
+<h2>archives</h2>
+<ul>
+<li><a href="http://www.oliverweb.com/archives/2004/11/index.shtml">November 2004</a></li>
+<li><a href="http://www.oliverweb.com/archives/2004/10/index.shtml">October 2004</a></li>
+
+</ul>
+<!-- END ARCHIVES -->
+<br />
+
+<!-- START LINKS -->
+<h2>links</h2>
+<ul>
+<li><a href="http://www.gizmodo.com">Gizmodo</a></li>
+<li><a href="http://www.hardocp.com">[H]ard|OCP</a></li>
+<li><a href="http://www.liquid-acc.com">Liquid</a></li>
+<li><a href="http://www.osnews.com">OSNews</a></li>
+<li><a href="http://www.slashdot.org">Slashdot</a></li>
+</ul>
+<!-- END LINKS -->
+<br />
+
+<!-- START SEARCH-->
+<h2>search</h2>
+<form method="get" action="http://www.oliverweb.com/mt/mt-search.cgi">
+<input type="hidden" name="IncludeBlogs" value="1" />
+<input id="search" name="search" size="20" /><br />
+<input type="submit" value="Search" />
+</form>
+<!-- END SEARCH-->
+
+<br />
+
+</div> <!-- END SIDEBAR -->
+
+<div id="content">
+<div id="contentblurb">
+<p>Welcome to OliverWEB 2005, where all your dreams come true!  Even Sam's!  Just follow the yellow brick road!  Becoz, becoz, becoz, becoz, becoz!!  No one gets in to see the wizard, not no way, not no how! <br /><br /> ...*ahem*... so, if you're curious where all the old OliverWEB stuff on the sidebar went... it's gone. Yes yes, I've decided to drop all the old stuff and create an entirely new site including backend, layout, etc.  The <a href="http://www.oliverweb.com/main">old OliverWEB</a> can still be found by clicking on the "legacy" link at the top right of this page. Enjoy!</p>
+</div>
+<br />
+<!-- START BLOGS -->
+<div id="blogs">
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.oliverweb.com/archives/misc/index.shtml#000043"
+    trackback:ping="http://www.oliverweb.com/mt/mt-tb.cgi/42"
+    dc:title="RSS Headline Reader"
+    dc:identifier="http://www.oliverweb.com/archives/misc/index.shtml#000043"
+    dc:subject="misc"
+    dc:description="Well, I wrote a quick script to grab RSS feeds from various blogs/sites. You can see the result on the left over there. =) Apparently, I pounded away on the /. servers a bit too much as I&apos;m banned at..."
+    dc:creator="Oliver"
+    dc:date="2004-11-04T18:59:08-06:00" />
+</rdf:RDF>
+-->
+
+
+<h2>November 04, 2004</h2>
+
+
+<h3 id="a000043">RSS Headline Reader</h3>
+
+<p>Well, I wrote a quick script to grab RSS feeds from various blogs/sites.  You can see the result on the left over there. =)  Apparently, I pounded away on the <a href="http://www.slashdot.org">/.</a> servers a bit too much as I'm banned at the moment (which explains the headlines underneath that).  Anyways, that ban should go away in a bit as I've changed my reader to update every 35 minutes instead of every 10 which they didn't like so much.</p>
+
+
+
+<p class="posted">
+Posted by Oliver at <a href="http://www.oliverweb.com/archives/2004/11/rss_headline_re.shtml">06:59 PM</a>
+| <a href="http://www.oliverweb.com/archives/2004/11/rss_headline_re.shtml#comments">Comments (0)</a>
+
+| <a href="http://www.oliverweb.com/archives/2004/11/rss_headline_re.shtml#trackbacks">TrackBack</a>
+
+</p>
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.oliverweb.com/archives/misc/index.shtml#000041"
+    trackback:ping="http://www.oliverweb.com/mt/mt-tb.cgi/40"
+    dc:title="Project: Samiticus Buttmonger"
+    dc:identifier="http://www.oliverweb.com/archives/misc/index.shtml#000041"
+    dc:subject="misc"
+    dc:description="It is now time to Google &quot;Samiticus Buttmonger&quot;! You can do &quot;I&apos;m Feeling Lucky&quot; too... not showing up on Google Images yet though... Update: I think perhaps Google picked up on my lame attempt to have it indexed quickly... maybe?..."
+    dc:creator="Oliver"
+    dc:date="2004-11-02T17:40:36-06:00" />
+</rdf:RDF>
+-->
+
+
+<h2>November 02, 2004</h2>
+
+
+<h3 id="a000041">Project: Samiticus Buttmonger</h3>
+
+<p>It is now time to <a href="http://www.google.com">Google</a> "Samiticus Buttmonger"!  You can do "I'm Feeling Lucky" too... not showing up on Google Images yet though...</p>
+
+<p><b>Update:</b> I think perhaps Google picked up on my lame attempt to have it indexed quickly... maybe? 'Cause now it's not showing up anymore. =(</p>
+
+
+
+<p class="posted">
+Posted by Oliver at <a href="http://www.oliverweb.com/archives/2004/11/project_samitic.shtml">05:40 PM</a>
+| <a href="http://www.oliverweb.com/archives/2004/11/project_samitic.shtml#comments">Comments (0)</a>
+
+| <a href="http://www.oliverweb.com/archives/2004/11/project_samitic.shtml#trackbacks">TrackBack</a>
+
+</p>
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.oliverweb.com/archives/misc/index.shtml#000040"
+    trackback:ping="http://www.oliverweb.com/mt/mt-tb.cgi/39"
+    dc:title="In Buddhism"
+    dc:identifier="http://www.oliverweb.com/archives/misc/index.shtml#000040"
+    dc:subject="misc"
+    dc:description="These are the things I find in Buddhism: lol, Enjoy...."
+    dc:creator="Oliver"
+    dc:date="2004-11-02T15:00:31-06:00" />
+</rdf:RDF>
+-->
+
+
+
+
+<h3 id="a000040">In Buddhism</h3>
+
+<p>These are the things I find in Buddhism:</p>
+
+<p><img alt="churchsign.jpg" src="http://www.oliverweb.com/images05/blog/churchsign.jpg" width="313" height="232" /><br />
+lol, <a href="http://www.churchsigngenerator.com">Enjoy</a>.</p>
+
+
+
+<p class="posted">
+Posted by Oliver at <a href="http://www.oliverweb.com/archives/2004/11/in_buddhism.shtml">03:00 PM</a>
+| <a href="http://www.oliverweb.com/archives/2004/11/in_buddhism.shtml#comments">Comments (0)</a>
+
+| <a href="http://www.oliverweb.com/archives/2004/11/in_buddhism.shtml#trackbacks">TrackBack</a>
+
+</p>
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.oliverweb.com/archives/misc/index.shtml#000039"
+    trackback:ping="http://www.oliverweb.com/mt/mt-tb.cgi/38"
+    dc:title="Oohhhh Baby"
+    dc:identifier="http://www.oliverweb.com/archives/misc/index.shtml#000039"
+    dc:subject="misc"
+    dc:description="I just had a great idea for an experiment to try... more details later. It will be called: &quot;Project: Samiticus Buttmonger&quot;... bwahahahahaa! Update: I present to you, Project: Samiticus Buttmonger!!..."
+    dc:creator="Oliver"
+    dc:date="2004-11-01T13:12:03-06:00" />
+</rdf:RDF>
+-->
+
+
+<h2>November 01, 2004</h2>
+
+
+<h3 id="a000039">Oohhhh Baby</h3>
+
+<p>I just had a great idea for an experiment to try... more details later.  It will be called: "Project: Samiticus Buttmonger"... bwahahahahaa!</p>
+
+<p><b>Update:</b> I present to you, Project: <a href="http://www.cs.utexas.edu/users/oliver/samiticus/">Samiticus Buttmonger</a>!!</p>
+
+
+
+<p class="posted">
+Posted by Oliver at <a href="http://www.oliverweb.com/archives/2004/11/oohhhh_baby.shtml">01:12 PM</a>
+| <a href="http://www.oliverweb.com/archives/2004/11/oohhhh_baby.shtml#comments">Comments (0)</a>
+
+| <a href="http://www.oliverweb.com/archives/2004/11/oohhhh_baby.shtml#trackbacks">TrackBack</a>
+
+</p>
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.oliverweb.com/archives/misc/index.shtml#000038"
+    trackback:ping="http://www.oliverweb.com/mt/mt-tb.cgi/37"
+    dc:title="Fishy"
+    dc:identifier="http://www.oliverweb.com/archives/misc/index.shtml#000038"
+    dc:subject="misc"
+    dc:description="lol, I don&apos;t know why but Philmore&apos;s Fishy song (I think Chad played it for me way back in high school... man... long time ago) just popped into my head. Here&apos;s the beginning: Sometimes I wonder If I&apos;ll ever find..."
+    dc:creator="Oliver"
+    dc:date="2004-11-01T03:28:51-06:00" />
+</rdf:RDF>
+-->
+
+
+
+
+<h3 id="a000038">Fishy</h3>
+
+<p>lol, I don't know why but Philmore's Fishy song (I think Chad played it for me way back in high school... man... long time ago) just popped into my head.  Here's the beginning:</p>
+
+<blockquote>Sometimes I wonder
+If I'll ever find her
+The one that God's chosen for me
+And what if I find her,
+But she doesn't like me,
+I guess that disproves destiny
+But I should know better,
+The sea is much wetter
+With plenty of fishes to see
+(For you and me)
+And I know my Father
+Has scoped out the water
+And picked out a fishy for me</blockquote>
+
+<p>I never really got what the rest of the song said cause I couldn't make them out (and didn't listen to it enough to decipher it), but I just read the <a href="http://lyrics.rare-lyrics.com/P/Philmore/Fishy.html">rest of the lyrics</a>, and it's the hotness.  </p>
+
+<p>The other day, Van sucked Mark and I into watching some <a href="http://www.spcnet.tv/reviews/review.php?rID=192">Good Luck!!</a> with him.  Man, dramas are so much more enjoyable watching them with Van because he gets so into them.  Watching them makes me feel kinda girly though... I don't think that's good...</p>
+
+
+
+<p class="posted">
+Posted by Oliver at <a href="http://www.oliverweb.com/archives/2004/11/fishy.shtml">03:28 AM</a>
+| <a href="http://www.oliverweb.com/archives/2004/11/fishy.shtml#comments">Comments (3)</a>
+
+| <a href="http://www.oliverweb.com/archives/2004/11/fishy.shtml#trackbacks">TrackBack</a>
+
+</p>
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.oliverweb.com/archives/misc/index.shtml#000036"
+    trackback:ping="http://www.oliverweb.com/mt/mt-tb.cgi/35"
+    dc:title="UnrealEd"
+    dc:identifier="http://www.oliverweb.com/archives/misc/index.shtml#000036"
+    dc:subject="misc"
+    dc:description=" I hate UnrealEd. Anyways, I worked on my level for my Game Development class a bit. I&apos;ll post a screenshot in a bit maybe. Van also cleaned like crazy today, and um... I helped a little. lol =) Update:..."
+    dc:creator="Oliver"
+    dc:date="2004-10-30T22:26:49-06:00" />
+</rdf:RDF>
+-->
+
+
+<h2>October 30, 2004</h2>
+
+
+<h3 id="a000036">UnrealEd</h3>
+
+<p><img alt="unreal.gif" src="http://www.oliverweb.com/images05/blog/unreal.gif" width="400" height="300" /><br />
+I hate <a href="http://wiki.beyondunreal.com/wiki/">UnrealEd</a>. Anyways, I worked on my level for my Game Development class a bit.  I'll post a screenshot in a bit maybe.  Van also cleaned like crazy today, and um... I helped a little.  lol =)</p>
+
+<p><b>Update:</b> Screenshot uploaded.  We're using a default Unreal dude right now, but he will be replaced!</p>
+
+
+
+<p class="posted">
+Posted by Oliver at <a href="http://www.oliverweb.com/archives/2004/10/poke_poke.shtml">10:26 PM</a>
+| <a href="http://www.oliverweb.com/archives/2004/10/poke_poke.shtml#comments">Comments (0)</a>
+
+| <a href="http://www.oliverweb.com/archives/2004/10/poke_poke.shtml#trackbacks">TrackBack</a>
+
+</p>
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.oliverweb.com/archives/misc/index.shtml#000034"
+    trackback:ping="http://www.oliverweb.com/mt/mt-tb.cgi/33"
+    dc:title="Lab Hours"
+    dc:identifier="http://www.oliverweb.com/archives/misc/index.shtml#000034"
+    dc:subject="misc"
+    dc:description=" So Brook and I were up until 5AM or so just talking about all kinds of things like Liquid, relationships, etc. etc. Then Chad popped in and we eventually drifted into politics... Mark later joined the fun and I..."
+    dc:creator="Oliver"
+    dc:date="2004-10-28T11:02:19-06:00" />
+</rdf:RDF>
+-->
+
+
+<h2>October 28, 2004</h2>
+
+
+<h3 id="a000034">Lab Hours</h3>
+
+<p><img alt="keyboard.jpg" src="http://www.oliverweb.com/images05/blog/keyboard.jpg" width="400" height="266" /><br />
+So Brook and I were up until 5AM or so just talking about all kinds of things like <a href="http://www.liquid-acc.com">Liquid</a>, relationships, etc. etc.  Then Chad popped in and we eventually drifted into politics... Mark later joined the fun and I ended up not sleeping until probably around 7AM. Three hours of sleep, baby! ZZzzzzz...</p>
+
+<p>My mom and Olivia dropped by this morning to deliver <a href="http://www.roundrockdonuts.com/">Round Rock donuts</a>. Hotness.</p>
+
+
+
+<p class="posted">
+Posted by Oliver at <a href="http://www.oliverweb.com/archives/2004/10/lab_hours.shtml">11:02 AM</a>
+| <a href="http://www.oliverweb.com/archives/2004/10/lab_hours.shtml#comments">Comments (1)</a>
+
+| <a href="http://www.oliverweb.com/archives/2004/10/lab_hours.shtml#trackbacks">TrackBack</a>
+
+</p>
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.oliverweb.com/archives/misc/index.shtml#000032"
+    trackback:ping="http://www.oliverweb.com/mt/mt-tb.cgi/31"
+    dc:title="In Linguistics"
+    dc:identifier="http://www.oliverweb.com/archives/misc/index.shtml#000032"
+    dc:subject="misc"
+    dc:description=" I&apos;m in linguistics... I think I need more sleep (even though I got like seven hours of sleep last night). I&apos;m feeling the stress of many aeons upon my shoulders! Hehe, I actually just wanted to use the word..."
+    dc:creator="Oliver"
+    dc:date="2004-10-27T13:14:44-06:00" />
+</rdf:RDF>
+-->
+
+
+<h2>October 27, 2004</h2>
+
+
+<h3 id="a000032">In Linguistics</h3>
+
+<p><img alt="rodent.jpg" src="http://www.oliverweb.com/images05/blog/rodent.jpg" width="399" height="262" /><br />
+I'm in linguistics... I think I need more sleep (even though I got like seven hours of sleep last night). I'm feeling the stress of many aeons upon my shoulders! Hehe, I actually just wanted to use the word "aeons"... it looks cool. Aye, tonight I gotta do a lot of web stuff, grade a bunch of assignments then... hmmm... then I guess I can rest. Might try to hit bed a little sooner tonight.</p>
+
+<p>Man, WarCraft3 DOTA games are hot though. Some highlights from last night:<ul><li>Van (with invisibility) and my wind walking crazy ranged guy sneaking up behind Sam and Paul and swiftly taking them out.</li><li>Sam yelling out "I'm leaving the demon edge by the acolyte."</li><li>My hearing Sam's previous comment and wind walking to the location and "stealing" the demon edge. =)</li></ul>Oh the hotness... I think we're addicted.  Oh yeah, enjoy the random rodent pic.</p>
+
+
+
+<p class="posted">
+Posted by Oliver at <a href="http://www.oliverweb.com/archives/2004/10/in_linguistics.shtml">01:14 PM</a>
+| <a href="http://www.oliverweb.com/archives/2004/10/in_linguistics.shtml#comments">Comments (0)</a>
+
+| <a href="http://www.oliverweb.com/archives/2004/10/in_linguistics.shtml#trackbacks">TrackBack</a>
+
+</p>
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.oliverweb.com/archives/misc/index.shtml#000029"
+    trackback:ping="http://www.oliverweb.com/mt/mt-tb.cgi/28"
+    dc:title="iPhoto is the Suck"
+    dc:identifier="http://www.oliverweb.com/archives/misc/index.shtml#000029"
+    dc:subject="misc"
+    dc:description=" I hate iPhoto. Slow monstrous beast that screws up any sort of organization I would like to have with my photos. Ugh. iChat stinks too. Apple needs to improve those two a lot (I hear Mail too, but I..."
+    dc:creator="Oliver"
+    dc:date="2004-10-25T04:08:45-06:00" />
+</rdf:RDF>
+-->
+
+
+<h2>October 25, 2004</h2>
+
+
+<h3 id="a000029">iPhoto is the Suck</h3>
+
+<p><img alt="wagner.jpg" src="http://www.oliverweb.com/images05/blog/wagner.jpg" width="400" height="267" /><br />
+I hate iPhoto.  Slow monstrous beast that screws up any sort of organization I would like to have with my photos. Ugh.  iChat stinks too. Apple needs to improve those two a lot (I hear Mail too, but I don't use it, so I don't know).  I don't even know why I still have my PowerBook. ;)</p>
+
+<p>As for the picture, I liked it... so here it is, Wagner and whatever the business school is called. Bums. ;P</p>
+
+
+
+<p class="posted">
+Posted by Oliver at <a href="http://www.oliverweb.com/archives/2004/10/iphoto_is_the_s.shtml">04:08 AM</a>
+| <a href="http://www.oliverweb.com/archives/2004/10/iphoto_is_the_s.shtml#comments">Comments (1)</a>
+
+| <a href="http://www.oliverweb.com/archives/2004/10/iphoto_is_the_s.shtml#trackbacks">TrackBack</a>
+
+</p>
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.oliverweb.com/archives/misc/index.shtml#000028"
+    trackback:ping="http://www.oliverweb.com/mt/mt-tb.cgi/27"
+    dc:title="Cameras! Swarm Swarm Swarm!"
+    dc:identifier="http://www.oliverweb.com/archives/misc/index.shtml#000028"
+    dc:subject="misc"
+    dc:description=" So at Liquid today, Van and I both brought our cameras. Now there are quite a few camera-wielding people there with prosumer level equipment, it&apos;s the hotness. Getting into photography is a lot cooler than I expected... I notice..."
+    dc:creator="Oliver"
+    dc:date="2004-10-24T19:25:02-06:00" />
+</rdf:RDF>
+-->
+
+
+<h2>October 24, 2004</h2>
+
+
+<h3 id="a000028">Cameras! Swarm Swarm Swarm!</h3>
+
+<p><img alt="vaninlight.jpg" src="http://www.oliverweb.com/images05/blog/vaninlight.jpg" width="400" height="259" /><br />
+So at <a href="http://www.liquid-acc.com">Liquid</a> today, Van and I both brought our cameras.  Now there are quite a few camera-wielding people there with prosumer level equipment, it's the hotness.  Getting into photography is a lot cooler than I expected... I notice things around the world more than I normally would, and sometimes the shots you take surprise yourself.  Having it strapped to my back with the massive lense is pretty cool too, I feel like I have a weapon I can yank out and DESTROY with. BWAHAHAHAAAA... erhm... ok, I'm done.</p>
+
+
+
+<p class="posted">
+Posted by Oliver at <a href="http://www.oliverweb.com/archives/2004/10/cameras_swarm_s.shtml">07:25 PM</a>
+| <a href="http://www.oliverweb.com/archives/2004/10/cameras_swarm_s.shtml#comments">Comments (0)</a>
+
+| <a href="http://www.oliverweb.com/archives/2004/10/cameras_swarm_s.shtml#trackbacks">TrackBack</a>
+
+</p>
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.oliverweb.com/archives/misc/index.shtml#000025"
+    trackback:ping="http://www.oliverweb.com/mt/mt-tb.cgi/24"
+    dc:title="Rubik&apos;s Skills"
+    dc:identifier="http://www.oliverweb.com/archives/misc/index.shtml#000025"
+    dc:subject="misc"
+    dc:description=" Yay! I still have them. Microsoft Rubik&apos;s cube is always a bit trickier because you have to worry about the way the tiles are facing... so it took me a bit longer than &quot;usual&quot; but I figured it out..."
+    dc:creator="Oliver"
+    dc:date="2004-10-23T17:13:02-06:00" />
+</rdf:RDF>
+-->
+
+
+<h2>October 23, 2004</h2>
+
+
+<h3 id="a000025">Rubik's Skills</h3>
+
+<p><img alt="rubiks.jpg" src="http://www.oliverweb.com/images05/blog/rubiks.jpg" width="400" height="275" /><br />
+Yay! I still have them.  Microsoft Rubik's cube is always a bit trickier because you have to worry about the way the tiles are facing... so it took me a bit longer than "usual" but I figured it out again eventually. W00tness.<br />
+</p>
+
+
+
+<p class="posted">
+Posted by Oliver at <a href="http://www.oliverweb.com/archives/2004/10/rubiks_skills.shtml">05:13 PM</a>
+| <a href="http://www.oliverweb.com/archives/2004/10/rubiks_skills.shtml#comments">Comments (0)</a>
+
+| <a href="http://www.oliverweb.com/archives/2004/10/rubiks_skills.shtml#trackbacks">TrackBack</a>
+
+</p>
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.oliverweb.com/archives/misc/index.shtml#000024"
+    trackback:ping="http://www.oliverweb.com/mt/mt-tb.cgi/23"
+    dc:title="Th. Anonymous"
+    dc:identifier="http://www.oliverweb.com/archives/misc/index.shtml#000024"
+    dc:subject="misc"
+    dc:description="Seems to be the common practice nowadays to bash/complain/scold/whatever some anonymous being which supposedly exists in our world past, present, or future. So, I&apos;ve decided to join the bandwagon this time! (Yay!) I also came up with a new abbreviated..."
+    dc:creator="Oliver"
+    dc:date="2004-10-23T14:36:18-06:00" />
+</rdf:RDF>
+-->
+
+
+
+
+<h3 id="a000024">Th. Anonymous</h3>
+
+<p>Seems to be the common practice nowadays to bash/complain/scold/whatever some anonymous being which supposedly exists in our world past, present, or future.  So, I've decided to join the bandwagon this time! (Yay!)  I also came up with a new abbreviated title, "Th." short for "Thing" just so you can't pin-point who (or <i>what</i> even!) I'm talking about versus if I were to use Ms. or Mr.</p>
+
+<p>So... here's goes nothing.</p>
+
+<p>You sicken me with the stunts you try to pull.  You never leave me alone, always coming back for more.  Why won't you just GO AWAY?!  Curse you and your kind! Why must you always nag at my ear and leave me in pain for weeks to come? What did I ever do to YOU?!  You cause me sleepless nights. You backstab me.  You stab me over and over and over again. Mosquito, this I swear... I shall <a href="http://janim.net/flash-games/mosquito/mosquito-flash-game.html">destroy you</a>!!! (high score: 1535 after a few min of playing)</p>
+
+<p>Oops... kinda messed up that anonymous part of it. ;)</p>
+
+
+
+<p class="posted">
+Posted by Oliver at <a href="http://www.oliverweb.com/archives/2004/10/th_anonymous.shtml">02:36 PM</a>
+| <a href="http://www.oliverweb.com/archives/2004/10/th_anonymous.shtml#comments">Comments (0)</a>
+
+| <a href="http://www.oliverweb.com/archives/2004/10/th_anonymous.shtml#trackbacks">TrackBack</a>
+
+</p>
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.oliverweb.com/archives/misc/index.shtml#000023"
+    trackback:ping="http://www.oliverweb.com/mt/mt-tb.cgi/22"
+    dc:title="4AM Musings"
+    dc:identifier="http://www.oliverweb.com/archives/misc/index.shtml#000023"
+    dc:subject="misc"
+    dc:description=" I&apos;m noticing a trend... haha. =) Van and I went to get some UV filters for his lenses tonight (where we saw that ATM sign above). Then we cruised on over to campus and took some pics in the..."
+    dc:creator="Oliver"
+    dc:date="2004-10-23T03:57:53-06:00" />
+</rdf:RDF>
+-->
+
+
+
+
+<h3 id="a000023">4AM Musings</h3>
+
+<p><img alt="atm.jpg" src="http://www.oliverweb.com/images05/blog/atm.jpg" width="400" height="266" /><br />
+I'm noticing a trend... haha. =) </p>
+
+<p>Van and I went to get some UV filters for his lenses tonight (where we saw that ATM sign above). Then we cruised on over to campus and took some pics in the dark (mine didn't turn out so hot =).  Went over to the Union and had some food with OMan and Alex.</p>
+
+<p>After that, we went over to check up on Sam and his whole TASA Night thing.  There's something about Asian pop that really really bothers me.  The martial arts shows were pretty cool though, as were the Chinese yo-yo things. Hot stuff. Saw quite a few familiar faces there, but I think there's something about large crowds that make me uncomfortable...<br />
+</p>
+
+
+
+<p class="posted">
+Posted by Oliver at <a href="http://www.oliverweb.com/archives/2004/10/4am_musings.shtml">03:57 AM</a>
+| <a href="http://www.oliverweb.com/archives/2004/10/4am_musings.shtml#comments">Comments (0)</a>
+
+| <a href="http://www.oliverweb.com/archives/2004/10/4am_musings.shtml#trackbacks">TrackBack</a>
+
+</p>
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.oliverweb.com/archives/misc/index.shtml#000022"
+    trackback:ping="http://www.oliverweb.com/mt/mt-tb.cgi/21"
+    dc:title="3AM Musings"
+    dc:identifier="http://www.oliverweb.com/archives/misc/index.shtml#000022"
+    dc:subject="misc"
+    dc:description=" When I was a kid, I always had the thought that I&apos;d be dating and/or even married by the time I graduated college (yes, yes, a bit young for marriage, but that&apos;s the idea I had in my head..."
+    dc:creator="Oliver"
+    dc:date="2004-10-22T03:15:32-06:00" />
+</rdf:RDF>
+-->
+
+
+<h2>October 22, 2004</h2>
+
+
+<h3 id="a000022">3AM Musings</h3>
+
+<p><img alt="bed.jpg" src="http://www.oliverweb.com/images05/blog/bed.jpg" width="400" height="269" /><br />
+When I was a kid, I always had the thought that I'd be dating and/or even married by the time I graduated college (yes, yes, a bit young for marriage, but that's the idea I had in my head long ago =).  It just seemed like <i>the age</i> and so so far away. Now that I'm about to graduate in 1.5 semesters... man, I'm freaking out.  It's not really that I'm scared I won't find a girl (well, I am a little =), just that the "after college" phase of my life is such a mysterious void.  School's all I've ever known.  I've always been around people relatively my age...</p>
+
+<p>Man, am I ready to "grow up?" You always ask kids what they want to be when they grow up and now I'm at the stage where I actually have to do it. Wow.  This past summer, I thought I was ready.  I really liked my internship and I felt like I'd be ready to leave school after one more year.  But... man, I just don't know if I'm ready...</p>
+
+
+
+<p class="posted">
+Posted by Oliver at <a href="http://www.oliverweb.com/archives/2004/10/3am_musings.shtml">03:15 AM</a>
+| <a href="http://www.oliverweb.com/archives/2004/10/3am_musings.shtml#comments">Comments (5)</a>
+
+| <a href="http://www.oliverweb.com/archives/2004/10/3am_musings.shtml#trackbacks">TrackBack</a>
+
+</p>
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.oliverweb.com/archives/misc/index.shtml#000020"
+    trackback:ping="http://www.oliverweb.com/mt/mt-tb.cgi/19"
+    dc:title="OH THE PAIN!"
+    dc:identifier="http://www.oliverweb.com/archives/misc/index.shtml#000020"
+    dc:subject="misc"
+    dc:description="Less than 10 minutes until I can eat. I&apos;m so excited! I just can&apos;t hide it!... I... erhm... yeah. Ooohh... I think Identity Crisis #5 might be out. That&apos;s it, STOP, it&apos;s DOBIE TIME!..."
+    dc:creator="Oliver"
+    dc:date="2004-10-20T13:42:03-06:00" />
+</rdf:RDF>
+-->
+
+
+<h2>October 20, 2004</h2>
+
+
+<h3 id="a000020">OH THE PAIN!</h3>
+
+<p>Less than 10 minutes until I can eat.  I'm so excited! I just can't hide it!... I... erhm... yeah.</p>
+
+<p>Ooohh... I think <a href="http://dccomics.com/comics/?cm=2091">Identity Crisis #5</a> might be out.  That's it, STOP, it's <a href="http://www.dobiecenter.com/">DOBIE TIME</a>!</p>
+
+
+
+<p class="posted">
+Posted by Oliver at <a href="http://www.oliverweb.com/archives/2004/10/oh_the_pain.shtml">01:42 PM</a>
+| <a href="http://www.oliverweb.com/archives/2004/10/oh_the_pain.shtml#comments">Comments (0)</a>
+
+| <a href="http://www.oliverweb.com/archives/2004/10/oh_the_pain.shtml#trackbacks">TrackBack</a>
+
+</p>
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.oliverweb.com/archives/misc/index.shtml#000019"
+    trackback:ping="http://www.oliverweb.com/mt/mt-tb.cgi/18"
+    dc:title="HUNGER"
+    dc:identifier="http://www.oliverweb.com/archives/misc/index.shtml#000019"
+    dc:subject="misc"
+    dc:description="Man, I&apos;m hungry. Lunch is 1.5 hours away though, *sigh*. Got my EE test back... 4th highest in the class, so I think I&apos;m good. =) I could have been the 2nd highest, but I accidently misread part of a..."
+    dc:creator="Oliver"
+    dc:date="2004-10-20T12:28:54-06:00" />
+</rdf:RDF>
+-->
+
+
+
+
+<h3 id="a000019">HUNGER</h3>
+
+<p>Man, I'm hungry.  Lunch is 1.5 hours away though, *sigh*. Got my EE test back... 4th highest in the class, so I think I'm good. =)  I could have been the 2nd highest, but I accidently misread part of a question and only answered it half-way (even though the other half was SUPER EASY).  Oh well. Wheeeeee!  I think I'm looking good for an A in this class, here's shooting for a straight 4.0 this semester! *cough cough*</p>
+
+<p>So far, we've spent 2+ weeks on logic circuits, it is the most hotness ever because I don't have to listen to my professor at all!  Queen is the hotness too.  Speaking of hotness, the weather is not so terribly hot or cold, but it's a bit cloudy.  Makes me not bring my camera to school because I don't want to get rained on. POO!  I want to test my new lense...</p>
+
+
+
+<p class="posted">
+Posted by Oliver at <a href="http://www.oliverweb.com/archives/2004/10/hunger.shtml">12:28 PM</a>
+| <a href="http://www.oliverweb.com/archives/2004/10/hunger.shtml#comments">Comments (1)</a>
+
+| <a href="http://www.oliverweb.com/archives/2004/10/hunger.shtml#trackbacks">TrackBack</a>
+
+</p>
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.oliverweb.com/archives/misc/index.shtml#000018"
+    trackback:ping="http://www.oliverweb.com/mt/mt-tb.cgi/17"
+    dc:title="Photoshop!"
+    dc:identifier="http://www.oliverweb.com/archives/misc/index.shtml#000018"
+    dc:subject="misc"
+    dc:description=" TEAMWORK When You Just Can&apos;t Go Alone. Hehe, thanks Van for the Photoshopping cause I&apos;m lazy. =) And Mark again for help with the text...."
+    dc:creator="Oliver"
+    dc:date="2004-10-19T20:20:31-06:00" />
+</rdf:RDF>
+-->
+
+
+<h2>October 19, 2004</h2>
+
+
+<h3 id="a000018">Photoshop!</h3>
+
+<div class="despair"><img alt="legs.jpg" src="http://www.oliverweb.com/images05/blog/legs.jpg" width="400" height="267" />
+<font class="title">T<small>EAMWOR</small>K</font><br />
+<font class="subtitle">When You Just Can't Go Alone.</font></div>
+
+<p>Hehe, thanks <a href="http://www.bamboovanpoo.com">Van</a> for the Photoshopping cause I'm lazy. =)  And Mark again for help with the text. <br />
+</p>
+
+
+
+<p class="posted">
+Posted by Oliver at <a href="http://www.oliverweb.com/archives/2004/10/photoshop.shtml">08:20 PM</a>
+| <a href="http://www.oliverweb.com/archives/2004/10/photoshop.shtml#comments">Comments (3)</a>
+
+| <a href="http://www.oliverweb.com/archives/2004/10/photoshop.shtml#trackbacks">TrackBack</a>
+
+</p>
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.oliverweb.com/archives/misc/index.shtml#000013"
+    trackback:ping="http://www.oliverweb.com/mt/mt-tb.cgi/12"
+    dc:title="Testing Demotivational..."
+    dc:identifier="http://www.oliverweb.com/archives/misc/index.shtml#000013"
+    dc:subject="misc"
+    dc:description=" SISTERS What Are They Good For? Hehe... hotness. =)..."
+    dc:creator="Oliver"
+    dc:date="2004-10-15T17:30:50-06:00" />
+</rdf:RDF>
+-->
+
+
+<h2>October 15, 2004</h2>
+
+
+<h3 id="a000013">Testing Demotivational...</h3>
+
+<div class="despair">
+<img alt="olivia.jpg" src="http://www.oliverweb.com/images05/blog/olivia.jpg" width="400" height="266" />
+<font class="title">S<small>ISTER</small>S</font><br />
+<font class="subtitle">What Are They Good For?</font>
+</div><br />
+Hehe... hotness. =)
+
+
+
+<p class="posted">
+Posted by Oliver at <a href="http://www.oliverweb.com/archives/2004/10/testing_123.shtml">05:30 PM</a>
+| <a href="http://www.oliverweb.com/archives/2004/10/testing_123.shtml#comments">Comments (1)</a>
+
+| <a href="http://www.oliverweb.com/archives/2004/10/testing_123.shtml#trackbacks">TrackBack</a>
+
+</p>
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.oliverweb.com/archives/misc/index.shtml#000011"
+    trackback:ping="http://www.oliverweb.com/mt/mt-tb.cgi/10"
+    dc:title="UTC I tea see, we all... oh..."
+    dc:identifier="http://www.oliverweb.com/archives/misc/index.shtml#000011"
+    dc:subject="misc"
+    dc:description=" I actually took this picture yesterday in Buddhism, but it works cause my linguistics class is in UTC too (and all the rooms look the same =). After this, I gotta go eat lunch, then I have lab hours..."
+    dc:creator="Oliver"
+    dc:date="2004-10-15T13:30:40-06:00" />
+</rdf:RDF>
+-->
+
+
+
+
+<h3 id="a000011">UTC I tea see, we all... oh...</h3>
+
+<p><img alt="utc.jpg" src="http://www.oliverweb.com/images05/blog/utc.jpg" width="400" height="325" /><br />
+I actually took this picture yesterday in Buddhism, but it works cause my linguistics class is in <a href="http://www.utexas.edu/maps/main/buildings/utc.html">UTC</a> too (and all the rooms look the same =). After this, I gotta go eat lunch, then I have lab hours for 2 hours, 30 minute break, <a href="http://www.utexas.edu/admin/utpd/defensive.html">defensive driving</a> from 5:30 - 8:30, then it's camping time!  I think.  Here's hoping I don't get lost on the way. =)</p>
+
+<p>I found a <a href="http://www.chrispederick.com/work/firefox/webdeveloper/">cool extension</a> for <a href="http://www.mozilla.com/firefox">Firefox</a> the other day.  It lets you change/edit style sheets dynamically, display borders around table/block elements and all kinds of other crazy stuff.  It's the HOTNESS.</p>
+
+<p>Hmmm... I should make a "HOTNESS" stamp/button or something...</p>
+
+
+
+<p class="posted">
+Posted by Oliver at <a href="http://www.oliverweb.com/archives/2004/10/utc_i_tea_see_w.shtml">01:30 PM</a>
+| <a href="http://www.oliverweb.com/archives/2004/10/utc_i_tea_see_w.shtml#comments">Comments (2)</a>
+
+| <a href="http://www.oliverweb.com/archives/2004/10/utc_i_tea_see_w.shtml#trackbacks">TrackBack</a>
+
+</p>
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.oliverweb.com/archives/misc/index.shtml#000007"
+    trackback:ping="http://www.oliverweb.com/mt/mt-tb.cgi/6"
+    dc:title="Bloggers Wanted!"
+    dc:identifier="http://www.oliverweb.com/archives/misc/index.shtml#000007"
+    dc:subject="misc"
+    dc:description="Liquid needs bloggers. Badly. I know I have virtually no audience here at OliverWEB, so this plug is hardly going to do anything, but I mainly just wanted to test this trackback thing anyways. Hohoho! Merry Christmas!..."
+    dc:creator="Oliver"
+    dc:date="2004-10-13T02:02:15-06:00" />
+</rdf:RDF>
+-->
+
+
+<h2>October 13, 2004</h2>
+
+
+<h3 id="a000007">Bloggers Wanted!</h3>
+
+<p><a href="http://www.liquid-acc.com">Liquid</a> needs bloggers.  Badly.  I know I have virtually no audience here at OliverWEB, so this plug is hardly going to do anything, but I mainly just wanted to test this trackback thing anyways. Hohoho! Merry Christmas!</p>
+
+
+
+<p class="posted">
+Posted by Oliver at <a href="http://www.oliverweb.com/archives/2004/10/bloggers_wanted.shtml">02:02 AM</a>
+| <a href="http://www.oliverweb.com/archives/2004/10/bloggers_wanted.shtml#comments">Comments (0)</a>
+
+| <a href="http://www.oliverweb.com/archives/2004/10/bloggers_wanted.shtml#trackbacks">TrackBack</a>
+
+</p>
+
+
+</div>
+<!-- END BLOGS -->
+
+</div>
+<div class="spacer"></div>
+</div>
+<div id="bottombar">
+<div id="text">
+
+<a href="http://www.oliverweb.com/atom.xml"><img src="/images05/rssbadge.gif" width="36" height="14" border="0" alt="" /></a>
+
+Powered by <a href="http://www.movabletype.org">Movable Type 3.121</a>
+</div>
+</div>
+</div>
+</body>
+
+</html>

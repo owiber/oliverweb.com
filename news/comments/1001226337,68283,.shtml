@@ -1,0 +1,36 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:0-->
+<title>OliverWEB - Discussing: Argh!</title>
+</head>
+<!--#if expr="${HTTP_COOKIE} = owebenter\=uvebeentold" -->
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">Argh!</font> </b><font face="arial" size="1">Sunday, September 23, 2001</font><br><font size="2" face="arial">Um... well.. yeah... I was playing around with NewsPro and was upgrading to Coranto (the new NewsPro) except... after I did that, I found out that there was no talkback upgrade for it yet... so... I switched back to NewsPro.<br><br>Only thing is... I accidently overwrited the users file so now none of you can update. <i>Oops.</i><br><br>Anyone who wants their account back, send me an <a href=mailto:oliver@oliverweb.com>email</a> with requested password.<br><b>-<a href="mailto:oliver@oliverweb.com">Oliver</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="1001226337,68283,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->
+<!--#else -->
+<!--#include virtual="/ssi/error.shtml" -->
+<!--#endif -->

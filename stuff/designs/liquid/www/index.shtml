@@ -1,0 +1,173 @@
+<html>
+
+<head>
+<title>liquid.missions.</title>
+
+<style><!--
+html, body { margin: 0; padding: 0;}
+
+A:link {font-family: "Verdana", "Arial", "Helvetica", sans-serif; text-decoration: none}
+A:visited {font-family: "Verdana", "Arial", "Helvetica", sans-serif; text-decoration: none}
+A:active {font-family: "Verdana", "Arial", "Helvetica", sans-serif; text-decoration: none}
+a:hover {font-family: "Verdana", "Arial", "Helvetica", sans-serif; text-decoration: underline }
+--></style>
+</head>
+
+<body topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0" background="bg.png" marginwidth=0 and marginheight=0>
+<div style="width: 158; height: 119; position: absolute; left: 18; top: 242; overflow: hidden"><center>
+  <img border="0" src="brook.png" width="151" height="114"></center></div>
+    <table border="0" cellpadding="0" cellspacing="0"width="100%" bordercolor="#000000" style="border-collapse: collapse">
+  <tr>
+    <td align="left" valign="top" colspan="2">
+    <img border="0" src="top.png" width="750" height="153"></td>
+  </tr>
+  <tr>
+    <td align="left" valign="top"><img border="0" src="side1.png" width="196" height="273"></td>
+    <td align="left" valign="top">
+    <table border="0" cellpadding="0" cellspacing="0" background="slbg.png" style="border-collapse: collapse" bordercolor="#111111">
+      <tr>
+        <td width="211" align="left" valign="top" background="slleftbg.png">
+        <font face="Verdana" size="2">
+        <img border="0" src="spotlight.png" width="211" height="79"><img border="1" src="chad.png" align="right" width="125" height="107" hspace="4"></font></td>
+        <td width="100%" align="left" valign="top" colspan="2">
+        <table border="0" cellpadding="0" cellspacing="0" width="100%" height="190">
+          <tr>
+            <td width="100%" background="sltop.png" align="left" valign="top">
+            <font face="Verdana" size="2">
+            <img border="0" src="sltop.png" width="144" height="20"></font></td>
+            <td width="35" rowspan="2" align="left" valign="top" height="190" background="slrightbg.png">
+            <font face="Verdana" size="2">
+            <img border="0" src="slrighttop.png" width="35" height="87"></font></td>
+          </tr>
+          <tr>
+            <td width="100%" align="left" valign="top" height="171">
+            <font face="Verdana" size="2">AHHH. Well, I'm finally done.&nbsp; 
+            There are few minor defects that have to do with the grid in the 
+            back not always lining up (especially below this Spotlight block... 
+            but there's not much I can do about it and people will probably not 
+            even notice it, so I'm leaving it as is. =P</font><p>
+            <font face="Verdana" size="2">Ummm... links on the side don't work 
+            yet... and I'm going to have to make a &quot;standard layout&quot; page for 
+            the other pages other than the frontpage (they will probably be 
+            lacking the Spotlight section and not have a news section either)... 
+            probably will just have one huge thing like the Spotlight section 
+            minus the &quot;Spotlight&quot; title.</font></p>
+            <p><font face="Verdana" size="2">I need that quote... unless if you 
+            wanna leave the &quot;bubble burble...&quot; thing.</font></p>
+            <p><font face="Verdana" size="2">Oh also, let me know if there's 
+            anything really hay-wire about the layout and what browser you're 
+            using. I've tested it with IE6, and Phoenix 0.5/Mozilla. 
+            Specifically, make sure that the Brook's belly pic is in the &quot;daily.photo.&quot; 
+            tab thing and not crazy all over the page... that's mainly the only 
+            thing I used CSS for, so it's probably the most likely thing to get 
+            messed up.</font></p>
+            <p><font face="Verdana" size="2">Also, I used PNGs for all the 
+            images... I *THINK* all major browsers can view them fine, but 
+            again, let me know if it doesn't and what browser and all that other 
+            junk.</font></p>
+            <p><font face="Verdana" size="2">Ah... one other note, don't look at 
+            the source... it's horrendous. ;) I hate Frontpage.</font></td>
+          </tr>
+        </table>
+        </td>
+      </tr>
+      <tr>
+        <td width="211" background="slleftbg.png"><font face="Verdana" size="2">
+        <img border="0" src="slleftbottom.png" width="211" height="27"></font></td>
+        <td width="50%" align="left" valign="top" background="slbottom.png">&nbsp;</td>
+        <td width="50%" align="right" valign="top" background="slbottom.png">
+        <font face="Verdana" size="2">
+        <img border="0" src="slrightbottom.png" width="35" height="27"></font></td>
+      </tr>
+    </table>
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tr>
+        <td align="left" valign="top">
+        <font face="Verdana" size="2">
+        <img border="0" src="newslefttop.png" width="127" height="35"></font></td>
+        <td width="100%" align="left" valign="top" background="newstopbg.png">
+        <font face="Verdana" size="2">
+        <img border="0" src="newstopbg.png" width="313" height="35"></font></td>
+        <td align="left" valign="top">
+        <font face="Verdana" size="2">
+        <img border="0" src="newsrighttop.png" width="46" height="35"></font></td>
+      </tr>
+      <tr>
+        <td width="100%" align="left" valign="top" colspan="3">
+        <table border="0" cellpadding="0" cellspacing="0" width="100%" height="272">
+          <tr>
+            <td align="left" valign="top" background="newsleftbg.png" width="45" height="272">
+            <font face="Verdana" size="2">
+            <img border="0" src="newslefttop2.png" width="45" height="144"></font></td>
+            <td width="100%" align="left" valign="top" background="newsbg.png" height="272">
+            <font face="Verdana" size="2"><div align=right><b>Saturday -- May 10, 2003 -- 1:23AM</b></div>
+            This is me typing a bunch of stuff to test how this might look. From 
+            this point on, I’m just going to copy and paste something here. 
+            Amidst the instruments the Lazy Genius sat, He is the king 
+            technocrat. One can easily look and infer, There is no aspect of 
+            technology he is not master. Though knowing all the mysteries of the 
+            universe, Being a lazy bum is his only curse. Owning devices of such 
+            great scientific <br>
+&nbsp;<div align=right><b>Friday -- May 9, 2003 -- 12:23AM</b></div>
+            
+            relevance, They are strewn about despite his great intelligence. 
+            Never bothering to clean up his messy lab, He rather just to doodle 
+            on his notepad. He knows the mysteries of the cosmos sure enough, 
+            But he never bothers to do anything because of his sloth. His white 
+            hair is a mess, much like a slob of spaghetti that no one wants to 
+            eat. He dressed in dirty lab coats, with purple slippers on his 
+            feet. The Genius' face and body was tired and worn, As physical 
+            exercise, he looked upon with scorn. Below his chest, there was a 
+            decent size potbelly, Which seemed to jiggle around like a pile of 
+            strawberry-jelly. <br>
+&nbsp;</font>            <font face="Verdana" size="2"><div align=right><b>Saturday -- May 10, 2003 -- 1:23AM</b></div>
+            This is me typing a bunch of stuff to test how this might look. From 
+            this point on, I’m just going to copy and paste something here. 
+            Amidst the instruments the Lazy Genius sat, He is the king 
+            technocrat. One can easily look and infer, There is no aspect of 
+            technology he is not master. Though knowing all the mysteries of the 
+            universe, Being a lazy bum is his only curse. Owning devices of such 
+            great scientific <br>
+&nbsp;<div align=right><b>Friday -- May 9, 2003 -- 12:23AM</b></div>
+            
+            relevance, They are strewn about despite his great intelligence. 
+            Never bothering to clean up his messy lab, He rather just to doodle 
+            on his notepad. He knows the mysteries of the cosmos sure enough, 
+            But he never bothers to do anything because of his sloth. His white 
+            hair is a mess, much like a slob of spaghetti that no one wants to 
+            eat. He dressed in dirty lab coats, with purple slippers on his 
+            feet. The Genius' face and body was tired and worn, As physical 
+            exercise, he looked upon with scorn. Below his chest, there was a 
+            decent size potbelly, Which seemed to jiggle around like a pile of 
+            strawberry-jelly. <br>
+&nbsp;</font>            </td>
+            <td align="left" valign="top" background="newsrightbg.png" height="272">
+            <font face="Verdana" size="2">
+            <img border="0" src="newsrighttop2.png" width="46" height="103"></font></td>
+          </tr>
+        </table>
+        </td>
+      </tr>
+      <tr>
+        <td width="100%" colspan="3">
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+          <tr>
+            <td><font face="Verdana" size="2"><img border="0" src="newsleftbottom.png" width="45" height="45"></font></td>
+            <td width="100%" background="newsbottombg.png">
+            <font face="Verdana" size="2">
+            <img border="0" src="newsbottombg.png" width="204" height="45"></font></td>
+            <td align="right" valign="top">
+            <font face="Verdana" size="2">
+            <img border="0" src="newsrightbottom.png" width="116" height="45"></font></td>
+          </tr>
+        </table>
+        </td>
+      </tr>
+    </table>
+    </td>
+  </tr>
+  </table><br>
+<img border="0" src="bottomthing.png" align="right" width="587" height="64">
+</body>
+
+</html>

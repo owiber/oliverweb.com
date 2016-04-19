@@ -1,0 +1,112 @@
+<html>
+<head>
+<title>OliverWEB - Friends 2000</title>
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000" link="#0000FF">
+
+
+<style><!--
+	a:link {text-decoration: none; color: #0000FF; font-family: sans-serif}
+	a:visited {text-decoration: none; color: #FF0000; font-family: sans-serif}
+	a:active {text-decoration: none; color: #0000FF; font-family: sans-serif}
+	a:hover {color: #0000FF; text-decoration: underline; font-family: sans-serif }
+	body {font-family: "Arial", "Helvetica", "Verdana", sans-serif; font-size: 10pt}
+	div {font-family: "Arial", sans-serif; margin: 0em 0em 1em 2em; font-size: 10pt; font-style: italic}
+	h1 {font-family: "Arial", sans-serif; margin: 1em 0em 0em 0em; font-size: 12pt; color: blue; text-decoration: underline}
+	h2 {font-family: "Arial", sans-serif; margin: 0em 0em 0em 1em; font-size: 10pt; text-decoration: bold; margin-bottom: 0em; border: none none none}
+	h3 {font-family: "Arial", sans-serif; margin: 0em 0em 0em 0em; font-size: 14pt; text-decoration: bold; text-align: right}
+	#w {font-family: "Arial", sans-serif; color: #FFFFFF}
+	#name {color: #FFFFFF; text-align: center}
+	td {font-family: "Arial", sans-serif; font-size: 10pt; border: 1 solid black}
+	img {border-color: black}
+	table {border: 1 solid black}
+	#nb {border: 0 solid black}
+	#small {font-family: "Arial", "Helvetica", "Verdana", sans-serif; font-size: 8pt}
+	#big {font-family: "Arial", "Helvetica", "Verdana", sans-serif; font-size: 14pt}
+--></style>
+
+<SCRIPT LANGUAGE = "JavaScript">
+<!--
+function MakeArray()
+        {
+        this.length = MakeArray.arguments.length
+        for (var i = 0; i < this.length; i++)
+        this[i+1] = MakeArray.arguments[i]
+        }
+
+var siteopt = new MakeArray(
+			"Jump to...",
+			"OliverWEB",
+			"Oliver",
+			"Olivia",
+			"Ochs",
+			"Sarah",
+			"Minix",
+			"Jennifer",
+			"Amanda K.",
+			"Amanda W.",
+			"Christine",
+			"Critter",
+			"Van",
+			"Nancy",
+			"Grace",
+			"Chad"
+			);
+
+var url = new MakeArray("",
+			"http://www.oliverweb.com/main/",
+			"index.shtml",
+   		    "olivia.shtml",
+   		    "ochs.shtml",
+   		    "sarah.shtml",
+   		    "minix.shtml",
+   		    "jennifer.shtml",
+   		    "amandak.shtml",
+   		    "amandaw.shtml",
+   		    "christine.shtml",
+   		    "critter.shtml",
+   		    "van.shtml",
+   		    "nancy.shtml",
+   		    "grace.shtml",
+   		    "chad.shtml"
+     		);
+
+function jumpPage(form) {
+        i = form.SelectMenu.selectedIndex;
+        if (i == 0) return;
+        window.location.href = url[i+1];
+}
+//-->
+</SCRIPT>
+
+<center>
+<table id=nb border="0" cellpadding="0" cellspacing="0" width="589">
+    <tr>
+        <td id=nb><img src="top.gif" width="589" height="97" alt="Friends 2000"></td>
+    </tr>
+</table>
+
+<table border="1" cellpadding="3" cellspacing="0" width="589" bordercolor="#000000">
+	<tr>
+		<td id=w align="center" valign="top" width="200" background="back.gif">
+		<br>
+			<SCRIPT LANGUAGE = "JavaScript">
+			<!--
+			document.writeln('<FORM><SELECT NAME="SelectMenu" onChange="jumpPage(this.form)">');
+			tot = siteopt.length;
+		    for (var i = 1; i <= tot; i++)
+		        document.write("<OPTION>" +siteopt[i]);
+			document.writeln('</SELECT>');
+			if (navigator.userAgent.indexOf("Mozilla/2") != -1)
+			document.writeln('<INPUT TYPE = BUTTON VALUE = "GO!">');
+			document.writeln('</FORM>');
+			//-->
+			</SCRIPT>
+
+			<SCRIPT LANGUAGE = "JavaScript">
+			<!--
+			if (navigator.userAgent.indexOf("Mozilla/2") != -1)
+				document.writeln("The go button doesn't actually do anything, it's just there because of a bug in Netscape 2.x.");
+			//-->
+			</SCRIPT>

@@ -1,0 +1,36 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:0-->
+<title>OliverWEB - Discussing: Quote Page Stats</title>
+</head>
+<!--#if expr="${HTTP_COOKIE} = owebenter\=uvebeentold" -->
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">Quote Page Stats</font> </b><font face="arial" size="1">Saturday, June 23, 2001 <!--(12:52:12)--></font><br><font size="2" face="arial">OK, I have no life, and have once again counted quotes and comments... this time I have a little neater way of doing it =)  Lala, I have no idea what purpose this could serve, but maybe you'll find it of some interest.<br><br><TABLE BORDER="1"><br> <caption align="top">Quote Page Statistics!</caption><br> <TR> <TH>Names<TH>Total<TH>Quotes<TH>Comments</TH> </TR><br> <TR> <TD>Minix</TD><TD>711</TD><TD>88</TD><TD>623</TD></TR><br> <TR> <TD>Oliver</TD><TD>624</TD><TD>62</TD><TD>562</TD></TR><br> <TR> <TD>Olivia</TD><TD>604</TD><TD>110</TD><TD>494</TD></TR><br> <TR> <TD>Sarah</TD><TD>383</TD><TD>30</TD><TD>353</TD></TR><br> <TR> <TD>Christine</TD><TD>351</TD><TD>49</TD><TD>302</TD></TR><br> <TR> <TD>Amanda W.</TD><TD>268</TD><TD>19</TD><TD>249</TD></TR><br> <TR> <TD>Jennifer</TD><TD>212</TD><TD>14</TD><TD>198</TD></TR><br> <TR> <TD>Cathy</TD><TD>133</TD><TD>14</TD><TD>121</TD></TR><br> <TR> <TD>Ochs</TD><TD>101</TD><TD>34</TD><TD>67</TD></TR><br> <TR> <TD>Wes</TD><TD>82</TD><TD>32</TD><TD>50</TD></TR><br> <TR> <TD>Adam</TD><TD>64</TD><TD>12</TD><TD>52</TD></TR><br> <TR> <TD>Kenny</TD><TD>49</TD><TD>17</TD><TD>32</TD></TR><br> <TR> <TD>Claire</TD><TD>35</TD><TD>8</TD><TD>27</TD></TR><br> <TR> <TD>Carlson</TD><TD>28</TD><TD>10</TD><TD>18</TD></TR><br> <TR> <TD>Amanda K.</TD><TD>17</TD><TD>1</TD><TD>16</TD></TR><br> <TR> <TD>Chad</TD><TD>11</TD><TD>3</TD><TD>8</TD></TR><br> <TR> <TD>Brook</TD><TD>8</TD><TD>3</TD><TD>5</TD></TR><br> <TR> <TD>Brad</TD><TD>8</TD><TD>1</TD><TD>7</TD></TR><br> <TR> <TD>Grace</TD><TD>7</TD><TD>3</TD><TD>4</TD></TR><br> <TR> <TD>Nancy</TD><TD>7</TD><TD>2</TD><TD>5</TD></TR><br> <TR> <TD>Joey</TD><TD>6</TD><TD>0</TD><TD>6</TD></TR><br> <TR> <TD>Van</TD><TD>4</TD><TD>2</TD><TD>2</TD></TR><br> <TR> <TD>Brian</TD><TD>4</TD><TD>2</TD><TD>2</TD></TR><br> <TR> <TD>Jeanette</TD><TD>2</TD><TD>0</TD><TD>2</TD></TR><br> <TR> <TD>Suneet</TD><TD>1</TD><TD>0</TD><TD>1</TD></TR><br> <TR> <TD>Patrick</TD><TD>0</TD><TD>0</TD><TD>0</TD></TR><br><br><br><br><br><br><br></TABLE><br><b>-<a href="mailto:minix1f@aol.com">Minix</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="993275532,92165,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->
+<!--#else -->
+<!--#include virtual="../ssi/error.shtml" -->
+<!--#endif -->

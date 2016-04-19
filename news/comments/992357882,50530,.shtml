@@ -1,0 +1,92 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:4-->
+<title>OliverWEB - Discussing: Hello</title>
+</head>
+<!--#if expr="${HTTP_COOKIE} = owebenter\=uvebeentold" -->
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">Hello</font> </b><font face="arial" size="1">Tuesday, June 12, 2001 <!--(9:58:02)--></font><br><font size="2" face="arial">Hmmm... well, a lot of you need to finish the F2001 questions you've got... and to those who have gotten them done and they're just sitting in my mailbox... um... well, I'm lazy, alright? =)<br><br>I'm at Motorola right now... but I want to go home now... I want to make the <a href=http://www.oliverweb.com/stuff/perspective.gif>WabbaCube</a>...<br><br>I think I'm going to need some active updaters on OliverWEB... any volunteers?<br><b>-<a href="mailto:oliver@oliverweb.com">Oliver</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 346009-992474553 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>4</b> - Ochs</font> <font face=arial size=1>Wednesday, June 13, 2001 <!--(6:22:33)--></font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">66.25.165.214</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Ochs end_name end_fields--><!--ktalk start_comment-->I'll take one.(notice the &quot;take&quot; not &quot;buy&quot;!) hehe<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 346009-992474553 --><!--ktalk start_item 138467-992403869 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>3</b> - Sarah</font> <font face=arial size=1>Tuesday, June 12, 2001 <!--(10:44:29)--></font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">63.39.4.167</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Sarah end_name end_fields--><!--ktalk start_comment-->Me too... but I don't think I know how :) I hope it's easy<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 138467-992403869 --><!--ktalk start_item 694741-992387122 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>2</b> - Olivia</font> <font face=arial size=1>Tuesday, June 12, 2001 <!--(6:05:22)--></font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">66.25.164.27</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Olivia end_name end_fields--><!--ktalk start_comment-->Lemme be an updater =)<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 694741-992387122 --><!--ktalk start_item 763947-992360634 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - Ochs</font> <font face=arial size=1>Tuesday, June 12, 2001 <!--(10:43:54)--></font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">198.133.22.71</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Ochs end_name end_fields--><!--ktalk start_comment-->Nice cube Wong... you should see where I am sitting.. in a huge computer lab! Hope Moto is going good! I've got my questions done, I am just too lazy to mail them... neways, I'll talk to ya soon! :-)<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 763947-992360634 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="992357882,50530,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->
+<!--#else -->
+<!--#include virtual="../ssi/error.shtml" -->
+<!--#endif -->

@@ -1,0 +1,27 @@
+<html>
+  <head>
+    <title>OliverWEB - Add to my Guestbook</title>
+  </head>
+
+  <!--#include virtual="../ssi/top.shtml"-->
+    <center>
+      <h2><font color="blue">Add to my Guestbook</font></h2>
+    </center>
+
+    Fill in the blanks below to add to my guestbook.  The only blanks that you 
+    have to fill in are the comments and name section.  Thanks!<hr>
+    <form method=POST action="http://www.oliverweb.com/cgi-bin/guestbook.cgi">
+      Your Name:<br><input type=text name=realname size=40 maxlength=35><br>
+      E-Mail: <br><input type=text name=username size=40 maxlength=40><br>
+      URL: (include "http://")<br><input type=text name=url size=40 maxlength=100><br>
+      City: <br><input type=text name=city size=20 maxlength=35>, State: <input type=text name=state size=2 maxlength=10>
+<br> Country: <br><input type=text value=USA name=country size=15 maxlength=35><p>
+      Comments:<br>
+      <textarea name=comments COLS=35 ROWS=4></textarea><p>
+      <input type=submit> * <input type=reset>
+    </form>
+    <hr>
+    * <a href="http://www.oliverweb.com/guestbook/index.shtml">Back to the Guestbook Entries</a><br>
+    Script and Guestbook Created by: <a href="http://worldwidemart.com/scripts/">Matt Wright</a>.
+
+  <!--#include virtual="../ssi/bottom.shtml"-->

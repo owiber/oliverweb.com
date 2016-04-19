@@ -1,0 +1,75 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:3-->
+<title>OliverWEB - Discussing: Another post by!!! ME!</title>
+</head>
+
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">Another post by!!! ME!</font> </b><font face="arial" size="1">Wednesday, January 3, 2001</font><br><font size="2" face="arial">Am I the only one posting anymore?  Gosh... 3 in a row...  OK, I would like to assure everyone, that there is room to hope for the American public... Olivers rating, with time, eventually went down to a 7... still beating me by .1, but he no longer has the highest rating... <a href = "http://www.amihotornot.com/r/?eid=NUKZNR&key=SFT">Olivia's picture</a> holds that one so far with a 7.3(?).   But fear not!  This picture rating sham is not yet over!  As there will still be pictures to rate!  =)  hehe, if you want one put up there, let me know!  I know some people deathly dont want me to either, if you dont, let me know too... just in case I forget =)<br><br>BTW... on Olivers rating... statistically speaking, there is a margin of error... I figure it to be about 70% (ha!  that math is wrong)  with a group of only 300 and not even random!  so i figure he deserved a zero... but thats just my opinion =)  sorry Oliver =)  ook!  tata!<br><b>-<a href="mailto:minix1f@aol.com">Minix</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 395071-979191313 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>3</b> - Christine</font> <font face=arial size=1>Wednesday, January 10, 2001</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">32.100.167.201</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Christine end_name end_fields--><!--ktalk start_comment-->Ranking souls!!! Good idea! =) 'Cept kinda hard to yeah... blah... heh, yup too much emphasis on physical appearance baaaaddd... *cough* people who like Keanu Reeves and Britney Spears *cough*<br>j/k =) <br><!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 395071-979191313 --><!--ktalk start_item 501923-978576858 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>2</b> - Minix</font> <font face=arial size=1>Wednesday, January 3, 2001</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">24.93.60.157</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Minix end_name end_fields--><!--ktalk start_comment-->Thats what I figured... but I also figured.... why bring that little insignificant detail up =)<br><br>and yeah, too much emphasis on appearance... no way to rank souls though... drats... <br><br><!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 501923-978576858 --><!--ktalk start_item 166967-978576723 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - <font color="#003399">Oliver</font></font> <font face=arial size=1>Wednesday, January 3, 2001</font><br>
+      <font face=arial size=1><a href=mailto:oliver@oliverweb.com>oliver@oliverweb.com</a> (<font size="1" face="Arial">IP Hidden</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email oliver@oliverweb.com end_email start_name Oliver end_name end_fields--><!--ktalk start_comment-->lol... I believe we are putting too much emphasis on physical appearance... =)<br><br>And also, since I got a 4 on the AP Stat test (3 is passing - out of 5) and you didn't even take it, I as the higher authority say that even though I deserve a zero, Minix's margin of error was 250% in the negative direction only. Which results in the actual real-life figure of negative 84.37 out of 10 rather than 6.9. =) Olivia's... I won't even get into that... j/k =)<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 166967-978576723 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="978576402,64282,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->

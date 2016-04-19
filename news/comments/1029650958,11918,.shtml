@@ -1,0 +1,33 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:0-->
+<title>OliverWEB - Discussing: Also...</title>
+</head>
+
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">Also...</font> </b><font face="arial" size="1">Sunday, August 18, 2002</font><br><font size="2" face="arial">I would like to "publish" the playlist that Andrew, Mark and I made and listened to (virtually EVERY song) on Saturday morning of the LAN party. I believe Brook woke up to Zipi Dee Doo Da... or something that had something about a happy or sunny day...<ul><li>(Eiffel 65) Blue (Da Ba Dee)</li><li>(theme)-3rd Rock From The Sun</li><li>(tv theme) - alfred hitchcock presents</li><li>Abba Teens - 01 Abba-Teens - Mama Mia-(wAx)</li><li>Aladdin - Prince Ali</li><li>All Star United - Smash Hit</li><li>Alvin And The Chipmunks - Macarana</li><li>Animaniacs - Wakko's States and Capitals</li><li>Animaniacs--Theme</li><li>Beauty and the Beast - Be Our Guest</li><li>Bee Gees - Staying Alive</li><li>Cake - Never there</li><li>Chinese-Once Upon a Time in China - Wong Fei Hong [Cantonese]</li><li>Chip And Dale Rescue Rangers - Theme</li><li>Classic Disney - Zip-A-Dee-Doo-Dah (Song Of The</li><li>Coolio - Gangsters Paradise</li><li>DC Talk - I Love Rap Music</li><li>Disney - Aladdin - Arabian Nights</li><li>Disney - Aladin - Never Had A Friend Like Me</li><li>Disney - Aladin - One Jump Ahead</li><li>Disney - Darkwing Duck theme</li><li>Disney - I Just Can't Wait to Be King</li><li>Disney - Little Mermaid - Under the Sea</li><li>Disney - Main Street Electrical Parade</li><li>Disney - Mary Poppins - Just a spoon full of sugar</li><li>Disney - Mary Poppins - Let's Go Fly A Kite</li><li>Disney - Mary Poppins - Supercalifragilisticexpialidocious</li><li>Disney - Peter Pan - Never Smile at a Crocodile</li><li>disney - peter pan - what made the red man red</li><li>Disney - Snow White - Whistle While You Work</li><li>Disney - The Bare Necessities</li><li>Disney - Tiki Tiki Tiki Room</li><li>Disney - Timon and Pumba - HakunaMatata - Lion King</li><li>Disney - Wizard of Oz-Ding Dong! The Witch is Dead</li><li> A Pirates Life For Me</li><li>Disney's Mary Poppins - Chim Chim Cher-ee</li><li>Five Iron Frenzy - Every New Day</li><li>Five Iron Frenzy Superpowers </li><li>Fraggles Et Al - Fraggle Rock Theme</li><li>Fresh Prince of Bel-Air Theme</li><li>Gummie Bears - Theme</li><li>Harold Faltermeyer - Axel F</li><li>Inner Circle - Bad boys</li><li>Inspector Gadget - Theme~1</li><li>Kris Kross - Jump</li><li>Kung Fu Fighting</li><li>Lenny Kravitz - Fly Away</li><li>Lion King - A Lovely Bunch of Coconuts</li><li>Los Del Rios - Macarana</li><li>MacGyver Theme</li><li>Main theme - Mighty Morphin Power Rangers</li><li>MC Hammer - U Can't Touch This</li><li>Movie Theme - Pink Panther</li><li>Mulan - I'll Make A Man Out Of You</li><li>New Kids on the Block - Right Stuff</li><li>Pinky and the Brain Theme</li><li>Pokemon - Pokemon Theme</li><li>Queen - Bohemian Rhapsody(2)</li><li>Sesame Street Theme</li><li>Sheb Wooley - Purple People Eater</li><li>Smash Mouth - All Star</li><li>Smurfs - Theme</li><li>St Elmos Fire (Love Theme)</li><li>Teenage Mutant Ninja Turtles - MC Hammer - Turtle Power</li><li>The Edsels - Rama Lama Ding Dong</li><li>The Wizard of Oz - Follow The Yellow Brick Road</li><li>Theme -  He-Man</li><li>Theme - Batman 70's</li><li>Theme - Care Bears</li><li>Theme - Mortal Kombat</li><li>Theme - Night Rider</li><li>Theme - Scooby Doo</li><li>Theme - Teenage Mutant Ninja Turtles </li><li>Theme - The Muppets</li><li>Theme - The Oompa Loompa Song</li><li>Theme - Transformers</li><li>Theme - Twilight Zone</li><li>Theme - Unsolved Mysteries</li><li>Theme - Voltron</li><li>Theme - We Are Vr - Vr Troopers</li><li>Theme Song - B.O.T.S. Master</li><li>Theme-Back To The Future</li><li>Themes Full House</li><li>They Might Be Giants - Particle Man</li><li>Tokens - The Lion Sleeps Tonight</li><li>Toni Basil - Hey Mickey</li><li>TV Show Theme Songs - Andy Griffith Show</li><li>TV Show Theme Songs - Tale Spin</li><li>TV Theme - Saved By The Bell</li><li>TV Themes - TV Themes - Duck Tales</li><li>TV Themes ~The Price is Right</li><li>Unknown Artist - (Veggietales) - Pirates Who Do</li><li>Unknown Artist - Ghostbusters Theme</li><li>Unknown Artist - Hampton The Hampster - The Official Hamster Dance Song</li><li>Unknown Artist - Theme - Thundercats</li><li>Vanilla Ice - Ice Ice Baby</li><li>Vanilla Ice - Ninja Rap (Go Ninja Go!)</li><li>Veggie Tales - Larry Boy</li><li>Veggie Tales-Song Of The Cebu</li><li>Village People-YMCA</li><li>Walk Like A Man</li></ul>Oh, and <a href=http://www.oliverweb.com/stuff/music.pl.txt>this</a> is the little perl script I wrote to parse the WinAmp file to extract all the names of the songs... if you're interested. ;)<br><b>-<a href="mailto:oliver@oliverweb.com">Oliver</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="1029650958,11918,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->

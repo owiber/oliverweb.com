@@ -1,0 +1,61 @@
+<style><!--
+A:link {font-family: "Arial", sans-serif; text-decoration: none}
+A:visited {font-family: "Arial", sans-serif; text-decoration: none}
+A:active {font-family: "Arial", sans-serif; text-decoration: none}
+a:hover {font-family: "Arial", sans-serif; text-decoration: underline }
+body {font-family: "Arial", sans-serif}
+td {font-family: "Arial", sans-serif}
+
+--></style>
+
+<body bgcolor="#FFFFFF" text="#000000" link="#003399" vlink="#3366CC" alink="#0000FF" topmargin="0" leftmargin="0" bottommargin="0">
+<div align="center">
+  <center>
+  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="750" id="AutoNumber1">
+    <tr>
+      <td width="100%">
+      <div align="left">
+        <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="750" id="AutoNumber2">
+          <tr>
+            <td width="270"><map name="FPMap0">
+            <area href="http://www.oliverweb.com/stuff/donotenter.shtml" shape="rect" coords="12, 126, 51, 142">
+            <area href="http://www.oliverweb.com" shape="rect" coords="4, 6, 245, 121">
+            </map>
+            <img border="0" src="http://www.oliverweb.com/images01/oliverweb.jpg" usemap="#FPMap0" width="270" height="143"></td>
+            <td width="269" align="left" valign="top">
+            <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber3">
+              <tr>
+                <td width="100%">
+                <img border="0" src="http://www.oliverweb.com/images01/quotetop.jpg" width="269" height="35"></td>
+              </tr>
+              <tr>
+                <td width="100%" background="http://www.oliverweb.com/images01/quoteback.jpg">
+                <img border="0" src="http://www.oliverweb.com/images01/transparent.gif" width="1" height="75" align="left"><b><font face="Arial" size="2">Random 
+                Quote:</font><font size="1" face="Arial"> <!--#exec cgi="../cgi-bin/rand_text.cgi"--></font></b></td>
+              </tr>
+              <tr>
+                <td width="100%">
+                <img border="0" src="http://www.oliverweb.com/images01/quotebottom.jpg" width="269" height="33"></td>
+              </tr>
+            </table>
+            </td>
+            <td width="211" align="left" valign="top"><map name="FPMap1">
+            <area href="http://www.oliverweb.com" shape="rect" coords="41, 12, 191, 142">
+            </map>
+            <img border="0" src="http://www.oliverweb.com/images01/oliverweb2.jpg" usemap="#FPMap1" width="211" height="143"></td>
+          </tr>
+        </table>
+      </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+      <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="750" id="AutoNumber4">
+        <tr>
+          <td width="195" background="http://www.oliverweb.com/images01/sidebg.jpg" valign=top align=left><OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+ codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0"
+ WIDTH=195 HEIGHT=457>
+ <PARAM NAME=movie VALUE="http://www.oliverweb.com/images01/oweb.swf"> <PARAM NAME=quality VALUE=best> <PARAM NAME=bgcolor VALUE=#FFFFFF> 
+            <EMBED src="http://www.oliverweb.com/images01/oweb.swf" quality=best bgcolor=#FFFFFF  WIDTH=195 HEIGHT=457 TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></EMBED></OBJECT>
+       </td>
+          <td width="555" align=left valign=top bgcolor="#FFFFFF">

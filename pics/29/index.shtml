@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>
+OliverWEB - Pictures
+</title></head>
+<!--#include virtual="../../ssi/top.shtml"-->
+<center><h2><font color=blue>Pics!</font></h2><p>
+<!--#include virtual="../contents.txt"-->
+
+<img src=yuck.jpg width=151 height=176><br>
+Pic from driver's permit... uh... yeah... and I thought <a href=http://www.oliverweb.com/stuff/minix.jpg>Minix's</a> was bad...<p>
+
+<img src=no.jpg width=250 height=205><br>
+Nancy and I at football game (sorry, couldn't think of a funny caption =)<p>
+
+<img src=co.jpg width=200 height=251><br>
+Can't think of a funny caption again... but if you know Chad and I... pic should be enough. =)<p>
+
+<img src=attack.jpg width=300 height=195><br>
+AH! MOM! All I did was accidently spill milk on the floor, don't hurt me... ugh! AH!!!!<p>
+
+<!--#include virtual="../contents.txt"-->
+<!--#include virtual="../../ssi/bottom.shtml"-->

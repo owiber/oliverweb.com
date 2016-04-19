@@ -1,0 +1,28 @@
+<html>
+<head>
+<title>
+OliverWEB - Pictures
+</title></head>
+<!--#include virtual="../../ssi/top.shtml"-->
+<center><h2><font color=blue>Pics!</font></h2><p>
+<!--#include virtual="../contents.txt"-->
+</center>
+Okay, I just figured out that I needed to calibrate the scanner. Doh. As you can see... 
+the pics below are much better than the other pages. Oh well, better now than never I guess.
+I could rescan all the other pics again, but nah... that'd take way too much time.. forget it. =)<p>
+<center>
+<img src=sarahsit.jpg width=300 height=250><br>
+Eat the microphone Sarah! EAT!<p>
+
+<img src=hehe.jpg width=250 height=198><br>
+*cough* Did I take this picture? I don't remember taking this picture... ummm...<p>
+
+<img src=armsniff.jpg width=200 height=273><br>
+Minix is either trying to give himself a hickey or he's testing if he put on deodorant or not.<p>
+
+<img src=girls.jpg width=350 height=180><br>
+Sarah: "Sing *A*! SING!!!"<br>
+*A*: "Talk to the hand! Talk to DA HAND!!!"<p>
+
+<!--#include virtual="../contents.txt"-->
+<!--#include virtual="../../ssi/bottom.shtml"-->

@@ -1,0 +1,50 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:1-->
+<title>OliverWEB - Discussing: WE ARE ALL GONNA DIE!!!!</title>
+</head>
+<!--#if expr="${HTTP_COOKIE} = owebenter\=uvebeentold" -->
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">WE ARE ALL GONNA DIE!!!!</font> </b><font face="arial" size="1">Tuesday, September 11, 2001 <!--(8:15:19)--></font><br><font size="2" face="arial">Not that I want to freak everyone out, but...<br><br> <a href="http://bd.tamu-commerce.edu/www/w/willmc/nostra.htm"></a> <br><b>-<a href="mailto:holyyam@aol.com">Wes</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 157634-1000257401 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - Wes</font> <font face=arial size=1>Tuesday, September 11, 2001 <!--(8:16:41)--></font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">172.155.46.24</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Wes end_name end_fields--><!--ktalk start_comment-->Oops...I screwed up and for whatever reason the link didn't show up at all...<br><br>But maybe it was for the best...the link was to some site about Nostradamus.<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 157634-1000257401 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="1000257319,88587,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->
+<!--#else -->
+<!--#include virtual="/ssi/error.shtml" -->
+<!--#endif -->

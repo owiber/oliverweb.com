@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>
+OliverWEB - Pictures
+</title></head>
+<!--#include virtual="../../ssi/top.shtml"-->
+<center><h2><font color=blue>Pics!</font></h2><p>
+<!--#include virtual="../contents.txt"-->
+
+<img src=paper.jpg width=200 height=211><br>
+Strange things happen in Fort Worth... (paper standing up on it's own! right after it fell too!) <p>
+
+<img src=wes.jpg width=250 height=246><br>
+Wes: "Ahhh! Wheaties now only $99.99!!!"<p>
+
+<img src=middleschool.jpg width=300 height=175><br>
+Middle schoolers walking home in Fort Worth. =)<p>
+
+<img src=chadamanda.jpg width=300 height=212><br>
+Chad: Kinda stinks having your face look like a bunch of blocks, huh?<br>
+Amanda: Yeah... and having people giving me bunny ears stinks too.<p>
+
+<!--#include virtual="../contents.txt"-->
+<!--#include virtual="../../ssi/bottom.shtml"-->

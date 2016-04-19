@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>
+OliverWEB - Pictures
+</title></head>
+<!--#include virtual="../../ssi/top.shtml"-->
+<center><h2><font color=blue>Pics!</font></h2><p>
+<!--#include virtual="../contents.txt"-->
+
+<img src=van.jpg width=200 height=329><br>
+Van sneezing. *Achoooo!!!*<br>
+Actually, Van is showing his impressive kick. =)<p>
+
+<img src=chad.jpg width=300 height=422><br>
+Uh... yeah.<p>
+
+<img src=leak.jpg width=300 height=417><br>
+Minix demonstrating his ability to externally use his bladder.<p>
+
+<img src=room.jpg width=300 height=202><br>
+My room! Nice and clean. Yep.<p>
+
+<!--#include virtual="../contents.txt"-->
+<!--#include virtual="../../ssi/bottom.shtml"-->

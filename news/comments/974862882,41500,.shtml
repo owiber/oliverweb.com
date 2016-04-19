@@ -1,0 +1,61 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:2-->
+<title>OliverWEB - Discussing: Fan Mail</title>
+</head>
+
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#0000FF">Fan Mail</font> </b><font face="arial" size="1">Tuesday, November 21, 2000</font><br><font size="2" face="arial">Several times a day, we now get Fan Mail for the Nine Inch Nose Hairs.  It's great!  Today however, we got my favorite fan email so far...  <br><br>Wow, not what I expected, but very funny!  I hit play at my desk at work and was diving for the speaker volume as our CFO was walking by, looking very suspiciously at my PC.  <br>"What the hell is that?" he said. <br>"I'm not sure, but they're from Austin" I replied.  <br>"Oh" he mumbled.  "Is that really Pat Buchanan?" he asked. <br>"I don't think so" I replied. <br>He went back to his office.  I don't think I'll see him near my desk for the rest of the day.  For that alone I owe you guys a big thanks<br> <br>Greetings to Austin from my dark corner cubicle in New York<br><br>Fred<br><br><br>If you're confused, we recorded a track called Buchanans Concession Speech about the elections... it was me talking, not Buchanan.  He admitted defeat, and well, its pretty funny.  If you want to hear it sometime, tell someone, we'll try and figure out a way you can.<br><br>Tata!<br><br>-<a href="mailto:minix1f@aol.com">Minix</a></p></font>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 347323-974947217 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>2</b> - Sarah</font> <font face=arial size=1>Wednesday, November 22, 2000</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">208.194.202.23</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Sarah end_name end_fields--><!--ktalk start_comment-->YEAH! HAPPY BIRTHDAY OLIVIA!!! =D Aww =( Sniff I didn't get a special birthday update. J/k, Olivia deserves it more than me. =) And DUDE Matt how come I never got my complimentary CD? =) I've never heard all this junk. I guess I'll just have to start buying... haha<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 347323-974947217 --><!--ktalk start_item 396664-974865368 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - Olivia</font> <font face=arial size=1>Tuesday, November 21, 2000</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">24.28.80.247</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Olivia end_name end_fields--><!--ktalk start_comment-->Awww, thank you very very much. =) Except I can't see the rose =*( Hehe, es ok... I think I know what rose it is, but of course, I'm probably wrong. =) Thanks!<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 396664-974865368 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="974862882,41500,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->

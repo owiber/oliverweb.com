@@ -1,0 +1,106 @@
+<html>
+
+<head>
+<title>OliverWEB</title>
+</head>
+
+<style><!--
+A:link {font-family: "Arial", sans-serif; text-decoration: none}
+A:visited {font-family: "Arial", sans-serif; text-decoration: none}
+A:active {font-family: "Arial", sans-serif; text-decoration: none}
+a:hover {font-family: "Arial", sans-serif; text-decoration: underline }
+body {font-family: "Arial", sans-serif}
+td {font-family: "Arial", sans-serif}
+
+--></style>
+
+<body text="#000000" link="#003399" vlink="#3366CC" alink="#0000FF" topmargin="0" leftmargin="0" bottommargin="0">
+
+
+<table border="0" cellspacing="0" cellpadding="0" width="750" valign="top" align="center">
+  <tr>
+    <td width="166" valign="top" align="left"><font face="Arial"><img border="0" src="http://www.oliverweb.com/images/stuff.gif" width="166" height="183"></font></td>
+    <td valign="top" align="left" width="395">
+      <table border="0" width="395" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="100%" colspan="2"><img border="0" src="http://www.oliverweb.com/images/oliver.gif" width="395" height="120"></td>
+        </tr>
+        <tr>
+          <td width="383" valign="top" align="left" background="http://www.oliverweb.com/images/quoteback.gif"><font face="Arial" size="2" color="#FFFFFF">
+            <!--exec cgi="../cgi-bin/rand_text.cgi"--></font></td>
+          <td width="12" valign="top" align="right" background="http://www.oliverweb.com/images/quoteback.gif"><img border="0" src="http://www.oliverweb.com/images/quoteright.gif" width="12" height="63"></td>
+        </tr>
+      </table>
+    </td>
+    <td valign="top" align="left" width="189"><img border="0" src="http://www.oliverweb.com/images/web.gif" width="189" height="183"></td>
+  </tr>
+  <tr>
+    <td background="http://www.oliverweb.com/images/sideleft.gif" valign="top" align="left">
+      <table border="0" width="100%" cellspacing="0" cellpadding="15">
+        <tr>
+          <td width="100%"><b><font size="2" color="#FFFFFF" face="Arial">
+            <!--#include virtual="../ssi/sidebar.shtml"--></font></b></td>
+        </tr>
+      </table>
+    </td>
+    <td valign="top" align="left" background="http://www.oliverweb.com/images/background.gif"><font face="Arial"><!--#include virtual="../news/news.txt" -->
+    <center><p><h2><a href=http://www.oliverweb.com/news/archive.shtml>News Archives</a></h2></p></center>
+    </font></td>
+    <td valign="top" align="left" background="http://www.oliverweb.com/images/rightback.gif"><img border="0" src="http://www.oliverweb.com/images/righttop.gif" width="189" height="39"><br>
+      <table border="0" width="100%" cellspacing="0" cellpadding="7">
+        <tr>
+          <td width="100%"><font face="Arial" size="2" color="#FFFFFF"><b>
+          
+<!--LINKS LIST TWO HERE-->
+<center>
+<img src=http://www.oliverweb.com/stuff/firstbig.gif width=100 height=165 alt="HAHAHAA!!!" border=0>
+</center>
+
+   <!--exec cgi="../cgi-bin/pollssi.cgi" -->
+
+<!--include virtual="../ssi/friends.shtml" -->
+<p>
+<a href="http://babelfish.altavista.digital.com" target="new" id="w">Babelfish</a><br>
+<a href="http://www.phys.unsw.edu.au/3rdyearlab/graphing/graph.html" target="new" id="w">Graph Thingy</a><br>
+<a href="http://www.roundrockisd.org/mcneil/" target="new" id="w">McNeil HS</a><br><br>
+<img src="http://www.oliverweb.com/images/button.gif" alt="OliverWEB Button" width="88" height="31"><br>
+</font><font size="1" face="Arial">My Button! =)</font><br><br>
+<a href="http://www.hardocp.com" target="_blank">
+<img src="http://www.oliverweb.com/images/hocp.gif"
+width="88" height="31" border="0"></a><br><br>
+<a href="http://www.slashdot.org" target="_blank">
+<img src="http://www.oliverweb.com/images/slashdot.gif"
+width="88" height="31" border="1"></a><br><br>
+<a href="http://www.nineinchnosehairs.com" target="_blank">
+<img src="http://www.nineinchnosehairs.com/button.gif"
+width="88" height="31" border="0"></a><br><br>
+<a href="http://www.hometown.aol.com/holyyam" target="_blank">
+<img src="http://www.oliverweb.com/images/wessomatika.jpg"
+width="88" height="31" border="0"></a><br><br>
+<a href="http://www.tiberiumsun.com" target="new"><img src="http://www.oliverweb.com/images/tumsun.jpg" alt="T1b3r1umSun.c0m!" border="0" width="88" height="31"></a><br><br>
+<img src="http://www.oliverweb.com/images/christ.gif" alt="He died for you." width="88" height="31"><br><br>
+
+<p>
+<font face=arial>
+<!--exec cgi="../cgi-bin/counter.cgi"-->
+</center>          
+          
+          </b></font></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" align="left"><img border="0" src="http://www.oliverweb.com/images/bottomleft.gif" width="166" height="29"></td>
+    <td></td>
+    <td valign="top" align="left"><img border="0" src="http://www.oliverweb.com/images/bottomright.gif" width="189" height="30"></td>
+  </tr>
+</table>
+<center>
+<font face=Arial size=2>
+Copyright &copy 1999-2001 <a href=mailto:oliver@oliverweb.com>Oliver Wong</a><br>
+All Rights Reserved. </center>
+
+</body>
+
+</html>

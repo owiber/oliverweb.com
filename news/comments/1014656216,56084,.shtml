@@ -1,0 +1,75 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:3-->
+<title>OliverWEB - Discussing: VideoGame Heaven....almost.</title>
+</head>
+
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">VideoGame Heaven....almost.</font> </b><font face="arial" size="1">Monday, February 25, 2002</font><br><font size="2" face="arial">The list of Systems/games I own, starting with the earliest:<br><br>Super Nintendo(Starfox, Super Mario World, Primal Rage, Mariokart, Teenage Mutant Ninja Turtles 4, Earthworm Jim 2)<br><br>Sega Genesis(Sonic the Hedgehog, Sonic the Hedgehog 2, Road Rash 2)<br><br>Nintendo Virtual Boy(Mario's Tennis)<br><br>Nintendo 64(Killer Instinct Gold, Zelda 64, NFL Blitz, NHL 99, Banjo Kazooie, Turok: the Dinosaur Hunter)<br><br>Sega Dreamcast(Tony Hawk's Pro Skater, Soul Reaver, Sonic Adventure, Iron Aces, Resident Evil:  Code Veronica, Vigilante 8: Second Offense, Crazy Taxi, Armada, Sword of the Berzerk: Guts Rage, F355 Challenge, and a bunch more that I can't remember right now.  Some of those are also my cousin's games that he left here a long time ago, and hasn't asked for them back)<br><br>Nintendo Gameboy Advance(Super Mario Advance, MarioKart: Super Circuit, F-14 Tomcat, Advance Wars, Sonic Advance, Robocop 2)<br><br>Nintendo GameCube(Rogue Squadron 2:  Rogue Leader, Pikmin, Super Smash Bros.  Melee)<br><br>And that is all...I think.  Couldn't remember all the dreamcast games, because I kinda just bought tons of used games pretty cheap, so yeah...<br><b>-<a href="mailto:holyyam@aol.com">Wes</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 737511-1014925113 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>3</b> - Wes</font> <font face=arial size=1>Thursday, February 28, 2002</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">152.163.201.208</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Wes end_name end_fields--><!--ktalk start_comment-->I did own one, but I gave it to my aunt, and it has since ceased to work.  On it I had Final Fantasy, Trojan, Mario 1, Mario 3, Ninja Turtles 1, Robocop, and a few others I can't recall at the moment.  I am currently seeking to buy another one.<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 737511-1014925113 --><!--ktalk start_item 706818-1014769855 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>2</b> - Sean</font> <font face=arial size=1>Tuesday, February 26, 2002</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">128.194.4.253</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Sean end_name end_fields--><!--ktalk start_comment-->You never owned a Nintendo? THose gameboy advanced are pretty nice. I dont like the screen but some of the games are good. <!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 706818-1014769855 --><!--ktalk start_item 227472-1014664676 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - <font color="#003399">Oliver</font></font> <font face=arial size=1>Monday, February 25, 2002</font><br>
+      <font face=arial size=1><a href=mailto:oliver@oliverweb.com>oliver@oliverweb.com</a> (<font size="1" face="Arial">IP Hidden</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email oliver@oliverweb.com end_email start_name Oliver end_name end_fields--><!--ktalk start_comment-->I started playing Tie Fighter again... gotta love those sprites! =)<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 227472-1014664676 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="1014656216,56084,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->

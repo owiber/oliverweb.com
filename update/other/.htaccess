@@ -1,0 +1,4 @@
+AuthUserFile /homepages/37/d87307754/htdocs/oliverweb.com/update/other/.htpasswd
+AuthName "Enter username and password please."
+AuthType Basic
+require valid-user

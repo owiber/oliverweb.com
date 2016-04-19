@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>
+OliverWEB - Pictures
+</title></head>
+<!--#include virtual="../../ssi/top.shtml"-->
+<center><h2><font color=blue>Pics!</font></h2><p>
+<!--#include virtual="../contents.txt"-->
+
+<img src=sleepy.gif width=350 height=231><br>
+I'm tired. I wanna go home. Mike agrees.<p>
+
+<img src=shadows.gif width=300 height=223><br>
+...AHHHHHH!!! ALIENS!!! RUN!!!<p>
+
+<img src=ochs.gif width=300 height=263><br>
+While I'm working, this is what Ochs does. Heh, my room's clean, eh? =)<p>
+
+<img src=chad.gif width=300 height=304><br>
+Chad: "Ehh... how does this thing work?"<p>
+
+<!--#include virtual="../contents.txt"-->
+<!--#include virtual="../../ssi/bottom.shtml"-->

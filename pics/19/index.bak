@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>
+OliverWEB - Pictures
+</title></head>
+<!--#include virtual="../../ssi/top.shtml"-->
+<center><h2><font color=blue>Pics!</font></h2><p>
+<!--#include virtual="../contents.txt"-->
+
+<img src=ochs1.jpg width=200 height=233><br>
+Ochs taking a bath. (j/k)<p>
+
+<img src=ochs2.jpg width=225 height=275><br>
+Hehehe, Ochs all dressed up.<p>
+
+<img src=ochs3.jpg width=200 height=344><br>
+The next thing that happens is that Ochs slams his head into the wall and has to be rushed to the hospital.<p>
+
+<img src=ochs4.jpg width=200 height=370><br>
+Ochs getting peed on.<p>
+
+<img src=ochs5.jpg width=300 height=264><br>
+Little Ochies!<p>
+
+<!--#include virtual="../contents.txt"-->
+<!--#include virtual="../../ssi/bottom.shtml"-->
+

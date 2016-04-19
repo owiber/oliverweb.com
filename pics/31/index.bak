@@ -1,0 +1,25 @@
+<html>
+<head>
+<title>
+OliverWEB - Pictures
+</title></head>
+<!--#include virtual="../../ssi/top.shtml"-->
+<center><h2><font color=blue>Pics!</font></h2><p>
+<!--#include virtual="../contents.txt"-->
+
+<img src=umbrella.jpg width=300 height=252><br>
+Our speech teacher, Ms.Boyd, happens to be very superstitious... Chad and I setup some surprises. =) <p>
+
+<img src=cat.jpg width=300 height=259><br>
+Picture of black cat. =)<p>
+
+<img src=superchad.jpg width=300 height=236><br>
+His face looks like it's pressed against a window.<p>
+
+<img src=vanchad.jpg width=350 height=176><br>
+Van and Chad waiting outside Hoa Hoa Restaurant eager for it to open to eat... at 1AM.<br>
+Van: "Come back! Hey you! FOOOOOOOODDDD"!<br>
+Chad: "Hail Hoa Hoa!"<p>
+
+<!--#include virtual="../contents.txt"-->
+<!--#include virtual="../../ssi/bottom.shtml"-->

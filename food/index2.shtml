@@ -1,0 +1,27 @@
+<html>
+
+<head>
+<title>OliverWEB - Food Fund</title>
+</head>
+
+<!--#include virtual="../ssi/top.shtml"-->
+
+<p><font size="2" face="Arial"><img border="0" src="foodfund.jpg"></font></p>
+<p><font size="2" face="Arial">Please send all proceeds to:</font></p>
+<p><b><font size="2" face="Arial">The UT Chad, Minix, Oliver, and ____ Food Fund<br>
+2208 Grove Drive<br>
+Round Rock, TX 78681</font></b></p>
+<p><font size="2" face="Arial">Or you could send:</font></p>
+<p><b><font size="2" face="Arial">Credit Card Number<br>
+Type of Card (AMEX, MC, VISA, etc.)<br>
+Expiration Date</font></b></p>
+<p><font size="2" face="Arial">to</font> <a href="mailto:theutchadminixoliverand__foodfund@oliverweb.com"><b><font size="2" face="Arial">theutchadminixoliverand__foodfund@oliverweb.com</font></b></a></p>
+<p><font size="2" face="Arial">We accept Master Card, American Express, Visa,
+Diner's whatever, etc. etc.</font></p>
+<p><font size="2" face="Arial">Anything will be accepted, from canned foods (we
+would prefer pre-cooked food though... because, like I said... we can't cook).
+Money will be greatly appreciated as well. Please don't give us any happy meals
+though... we've gotten sick of those from digging in the trash cans...</font></p>
+
+<p><font size="2" face="Arial">It's for a good cause.</font></p>
+<!--#include virtual="../ssi/bottom.shtml"-->

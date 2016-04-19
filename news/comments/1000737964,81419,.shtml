@@ -1,0 +1,78 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:3-->
+<title>OliverWEB - Discussing: I got lazy...</title>
+</head>
+<!--#if expr="${HTTP_COOKIE} = owebenter\=uvebeentold" -->
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">I got lazy...</font> </b><font face="arial" size="1">Monday, September 17, 2001 <!--(9:46:04)--></font><br><font size="2" face="arial">OK, I was going to do a real comic... cause I have some ideas floating in my head... but college seems to do something to people... it makes them lazy... and turn all weird... <br><br>Anyway, here's what I did - "Victim of College"<br><br><img src = "http://www.oliverweb.com/newsimages/victimofcollege.png"><br><br>No... that really hasn't happened to me... but I feel stupid and different so =)<br><b>-<a href="mailto:minix1f@aol.com">Minix</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 163165-1000914835 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>3</b> - Minix</font> <font face=arial size=1>Wednesday, September 19, 2001 <!--(10:53:55)--></font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">129.116.18.207</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Minix end_name end_fields--><!--ktalk start_comment-->I've been really lazy... and sleepy =) I'll do it... soon... if I get to the library or somewhere with Flash =) and no, not a turtleneck... just way ive been drawing shirts, and in that one it's a little overdone.<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 163165-1000914835 --><!--ktalk start_item 215818-1000860481 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>2</b> - Suneet</font> <font face=arial size=1>Tuesday, September 18, 2001 <!--(7:48:01)--></font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">64.12.102.182</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Suneet end_name end_fields--><!--ktalk start_comment-->I thought you were going to do a depiction (character) of me.<br>Where is it?  =) <!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 215818-1000860481 --><!--ktalk start_item 590008-1000782675 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - Olivia</font> <font face=arial size=1>Monday, September 17, 2001 <!--(10:11:15)--></font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">66.25.144.234</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Olivia end_name end_fields--><!--ktalk start_comment-->he wearin a turtleneck?<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 590008-1000782675 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="1000737964,81419,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->
+<!--#else -->
+<!--#include virtual="/ssi/error.shtml" -->
+<!--#endif -->

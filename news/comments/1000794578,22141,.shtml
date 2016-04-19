@@ -1,0 +1,78 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:3-->
+<title>OliverWEB - Discussing: TIME CUBE!!!!</title>
+</head>
+<!--#if expr="${HTTP_COOKIE} = owebenter\=uvebeentold" -->
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">TIME CUBE!!!!</font> </b><font face="arial" size="1">Tuesday, September 18, 2001 <!--(1:29:38)--></font><br><font size="2" face="arial">Fools!  You are ignorant of <a href="http://www.timecube.com">Time Cube</a>!  Do you not know that this is EVIL!?!?!<br><br><b>-<a href="mailto:holyyam@aol.com">Wes</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 851464-1001129502 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>3</b> - Wes</font> <font face=arial size=1>Friday, September 21, 2001 <!--(10:31:42)--></font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">152.163.201.66</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Wes end_name end_fields--><!--ktalk start_comment-->Or should I say, rather than you being uneducated, you are &quot;educated stupid.&quot;<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 851464-1001129502 --><!--ktalk start_item 235107-1001129446 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>2</b> - Wes</font> <font face=arial size=1>Friday, September 21, 2001 <!--(10:30:46)--></font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">152.163.201.66</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Wes end_name end_fields--><!--ktalk start_comment-->Yes, but it is evil also to be ignorant of TimeCube.  I'm afraid it is you, my friend, who are uneducated.<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 235107-1001129446 --><!--ktalk start_item 930797-1000924975 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - Brook</font> <font face=arial size=1>Wednesday, September 19, 2001 <!--(1:42:55)--></font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">207.193.126.124</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Brook end_name end_fields--><!--ktalk start_comment-->no...word god is evil...you are an uneducated and stupid ass...timecube is ulitmate base belonging in four days ...<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 930797-1000924975 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="1000794578,22141,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->
+<!--#else -->
+<!--#include virtual="/ssi/error.shtml" -->
+<!--#endif -->

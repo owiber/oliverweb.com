@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>
+OliverWEB - Pictures
+</title></head>
+<!--#include virtual="../../ssi/top.shtml"-->
+<center><h2><font color=blue>Pics!</font></h2><p>
+<!--#include virtual="../contents.txt"-->
+
+<img src=x.gif width=250 height=237><br>
+Someone tell me what this is. Minix, is that you?<p>
+
+<img src=minix.gif width=280 height=266><br>
+Ohh... this is Minix. *Gag*<p>
+
+<img src=pokemasta.gif width=200 height=308><br>
+I am the Pokemon Masta. Actually... to tell you the truth, I've never played or watched a Pokemon game or TV show... I only know three Pokemon.... well... five...<p>
+
+<img src=ochs.gif width=300 height=318><br>
+Ochs: "Grrrr! I cahn dooo da Mehican Mikel Jaxsun Thriller impressiones!!"<p>
+
+<!--#include virtual="../contents.txt"-->
+<!--#include virtual="../../ssi/bottom.shtml"-->

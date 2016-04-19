@@ -1,0 +1,78 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:3-->
+<title>OliverWEB - Discussing: GOOD LUCK!</title>
+</head>
+<!--#if expr="${HTTP_COOKIE} = owebenter\=uvebeentold" -->
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">GOOD LUCK!</font> </b><font face="arial" size="1">Wednesday, June 20, 2001 <!--(11:40:18)--></font><br><font size="2" face="arial">Sarah has a job interview tomorrow!! I know she'll do great but I just wanted everyone else to know... lol. =) Besides, page needs update...<br><br>And even IF (big IF) she doesn't get it... SUBWAY IS STUPID! I'LL NEVER GO BACK... j/p, but yeah. You get my point, right Sarah? Hehe... good luck Sara lee!<br><br>And Joey had his little "interview" today... that was kinda funny.. if he wants, he can say what happened in comments, HAHAHA =)<br><br>Ok, bye ^.^<br><b>-<a href="mailto:magestry@oliverweb.com">Olivia</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 901329-993178538 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>3</b> - Olivia</font> <font face=arial size=1>Thursday, June 21, 2001 <!--(9:55:38)--></font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">66.25.138.7</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Olivia end_name end_fields--><!--ktalk start_comment-->CONGRATS!! Hey Joey, why dont' you try at Subway??? Lol... anyhoo... STAY AWAY FROM GUYS! IF THEY TOUCH YOU, I KILL! J/p, but i'd be mad GRRR!!!!<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 901329-993178538 --><!--ktalk start_item 17974-993178376 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>2</b> - Sarah</font> <font face=arial size=1>Thursday, June 21, 2001 <!--(9:52:56)--></font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">63.232.115.85</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Sarah end_name end_fields--><!--ktalk start_comment-->Hehe, yeah, I got a job. =) Buuuuuuut... the two guys I'm working with are so bad he wants to fire them but he can't until I get trained... haha people are afraid they'll like, rape me. <!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 17974-993178376 --><!--ktalk start_item 689140-993178339 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - <font color="#003399">Oliver</font></font> <font face=arial size=1>Thursday, June 21, 2001 <!--(9:52:19)--></font><br>
+      <font face=arial size=1><a href=mailto:oliver@oliverweb.com>oliver@oliverweb.com</a> (<font size="1" face="Arial">IP Hidden</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email oliver@oliverweb.com end_email start_name Oliver end_name end_fields--><!--ktalk start_comment-->Shouldn't you try to get a job at a pastry place?<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 689140-993178339 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="993098418,65819,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->
+<!--#else -->
+<!--#include virtual="../ssi/error.shtml" -->
+<!--#endif -->

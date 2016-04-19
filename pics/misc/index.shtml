@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>
+OliverWEB - Pictures
+</title></head>
+<!--#include virtual="../../ssi/top.shtml"-->
+<center><h2><font color=blue>Pics!</font></h2><p>
+<!--#include virtual="../contents.txt"-->
+
+<img src=party2.jpg width=400 height=159><br>
+Heh, need I say more? Erhm... anything? =)<p>
+
+<img src=party.jpg width=350 height=244><br>
+Hehehehehehehee...<p>
+
+<img src=oliver.jpg width=250 height=192><br>
+Hehe, I put this picture up on the <a href=http://www.oliverweb.com/bpa>BPA</a> website. =)<p>
+
+<img src=van.jpg width=225 height=195><br>
+I see a resemblance, do you? =)<p>
+
+<!--#include virtual="../contents.txt"-->
+<!--#include virtual="../../ssi/bottom.shtml"-->

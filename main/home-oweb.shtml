@@ -1,0 +1,97 @@
+<html>
+<head>
+<title>OliverWEB - "Welcome To My World"</title>
+</head>
+
+<body bgcolor="#000000" text="#E1E1E1" link="#0000FF" vlink="#0000A0" alink="#008080">
+<!--C0C0C0-->
+<a name="top">&nbsp;</a>
+<style><!--
+A:link {text-decoration: none}
+A:visited {text-decoration: none}
+A:active {text-decoration: none}
+a:hover {color:blue; text-decoration: underline }
+body {font-family: "Arial", sans-serif}
+td {font-family: "Arial", sans-serif}
+
+--></style>
+
+<center>
+<table border="0" cellpadding="0" cellspacing="0" width="740">
+<tr><td border="0"  valign="bottom" cellpadding="0" cellspacing="0" width="740" height="135">
+<img src="http://www.oliverweb.com/images/top.gif" alt="Y3ah, I kn0w I'm k3wl ;)" width="500" height="135" valign="bottom">
+<a href="mailto:oliver@oliverweb.com">
+<img src="http://www.oliverweb.com/images/email2.gif" alt="Ema1l m3, I luv ema1ls =)" border="0" width="207" height="135" valign="bottom"></a></td></tr></table><table border="0" cellpadding="0" cellspacing="0" width="740">
+<tr><td border="0"  align="center" valign="top" width="225">
+<img src="http://www.oliverweb.com/images/stuff-oweb.gif" alt="5tUfF!!!" width="225" height="50" valign="top">
+<center>
+<table border="0" cellpadding="0" cellspacing="0" width="225">
+<tr><td border="0"  align="center" width="225" valign="top"><font face="Arial">
+
+<!--LINKS LIST ONE HERE-->
+<!--#include virtual="../ssi/sidebar.shtml" -->
+
+</td></tr></table>
+</center><p>
+<img src="http://www.oliverweb.com/images/starcircle.gif" alt="Just felt like putting this image here, g0t a pr0blem with that?" width="99" height="75">
+</td><td border="0"  valign="top" width="325">
+<center>
+<table border="0" cellpadding="0" cellspacing="0" width="325">
+<tr><td border="0" cellpadding="0" cellspacing="0" width="325" align="left" valign="top">
+<font size=2 face=arial>
+<!--#exec cgi="../cgi-bin/rand_text.cgi" --></font>
+</td></tr>
+<tr><td border="0" cellpadding="0" cellspacing="0" width="325" align="center" valign="top">
+<img src="http://www.oliverweb.com/images/news.gif" alt="0kay, s0 it's n0t really &quot;news&quot;... s0 what? =)" align="top" width="188" height="79">
+<img src=idiot.gif width=78 height=70 alt="S0 wh4t if I'm 4n Idi0t?">
+</td></tr></table>
+</center>
+<p>
+<font face="Arial">
+
+<!--NEWS-->
+<!--#include virtual="../news/news.txt" -->
+<center> <font face=arial size=4><a href=http://www.oliverweb.com/news/archive.shtml>Old News</a></font></center>
+<p>
+</td><td border="0"  align="center" valign="top" width="190"><center>
+<img src="http://www.oliverweb.com/images/mstuff.gif" alt="Y3s, 3v3n mor3 StUfF..." width="148" height="105">
+<font face="Arial" size="2">
+<!--LINKS LIST TWO HERE-->
+
+<!-- Begin AIM Remote -->
+<table width=140><tr align=center><td><a href="http://dynamic.aol.com/cgi/redir?
+http://www.aol.com/aim/imreg_download_template?pageset=aol&promo=106695"><img src="http://www.aol.com/aim/gr/aimver_man.gif" width=44 height=55 border=0 alt="Download AIM"></a><img src="http://www.aol.com/aim/gr/aimver_topsm.gif" width=73 height=55 border=0 alt="AIM Remote"><br><a href="aim:goim?screenname=PiFactor5&message=Oliver+is+so+cool!+=)"><img src="http://www.aol.com/aim/gr/aimver_im.gif" width=117 height=39 border=0 alt="Send me an Instant Message"></a><br><a href="aim:addbuddy?screenname=PiFactor5"><img src="http://www.aol.com/aim/gr/aimver_bud.gif" width=117 height=39 border=0 alt="Add me to Your Buddy List"></a><br><a href="mailto:oliver@oliverweb.com"><img src="http://www.aol.com/aim/gr/aimver_email.gif" width=117 height=39 border=0 alt="Send me an Email"></a><br><a href="http://dynamic.aol.com/cgi/redir?
+http://www.aol.com/aim/imreg_download_template?pageset=aol&promo=106695"><img src="http://www.aol.com//aim/gr/aimver_botdow.gif" width=117 height=29 border=0 alt="Download AOL Instant Messenger"></a><br><br></td></tr></table>
+<!-- End AIM Remote -->
+
+   <!--#exec cgi="../cgi-bin/pollssi.cgi" -->
+
+<!--#include virtual="../ssi/friends.shtml" -->
+<p>
+<a href="http://babelfish.altavista.digital.com" target="new">Babelfish</a><br>
+<a href="http://www.phys.unsw.edu.au/3rdyearlab/graphing/graph.html" target="new">Graph Thingy</a><br>
+<a href="http://www.roundrockisd.org/mcneil/" target="new">McNeil HS</a><br><br>
+<img src="http://www.oliverweb.com/images/button-oweb.gif" alt="My l33t butt0n =)" width="88" height="31"><br>
+</font><font size="1" face="Arial">My Button! =)</font><br><br>
+<a href="http://www.nineinchnosehairs.com" target="_blank">
+<img src="http://www.nineinchnosehairs.com/button.gif"
+width="88" height="31" border="0"></a><br><br>
+<a href="http://www.hometown.aol.com/holyyam" target="_blank">
+<img src="http://www.oliverweb.com/images/wessomatika.jpg"
+width="88" height="31" border="0"></a><br><br>
+<a href="http://www.dilbert.com" target="new"><img src="http://www.oliverweb.com/images/dilbert.gif" border="0" alt="D1Lb3rt! H3h, 1 Kn0w 1'm a n3rd =)" width="88" height="31"></a><br><br>
+<a href="http://www.tiberiumsun.com" target="new"><img src="http://www.oliverweb.com/images/tumsun.jpg" alt="T1b3r1umSun.c0m!" border="0" width="88" height="31"></a><br><br>
+<img src="http://www.oliverweb.com/images/christ.gif" alt="He died for you." width="88" height="31"><br><br>
+<a href="http://www.cnet.com" target="new"><img src="http://www.oliverweb.com/images/cnet.gif" alt="An0th3r n3rd s1t3!" border="0" width="88" height="31"></a><br><br>
+<a href="http://www.alladvantage.com/go.asp?refid=ANU973" target="new"><img src="http://www.oliverweb.com/images/alladvantage.gif" height="110" width="126" border="0" alt="1 w@nt m0n3y. J01n!"></a><br><br>
+
+<a href="http://www.iwin.com/login/register.asp?ibuddy=oliver@oliverweb.com" target="new"><img src="http://www.oliverweb.com/images/iwin.gif" height="76" width="75" border="0" alt="Th1s 1s c00l! Ch3ck 1t 0ut! =)"></a><br><br>
+
+<a href="http://www.hampsterdance.com" target="new"><img src="http://www.oliverweb.com/images/hampster.gif" alt="4nn0y1ng H4mst3r D4nc3 s1t3." height="70" width="60" border="0"></a><br><br>
+<p>
+<font face=arial>
+<!--#exec cgi="../cgi-bin/counter.cgi"-->
+</center></td></tr></table>
+
+<!--#include virtual="../ssi/bottom-oweb.shtml" -->
+

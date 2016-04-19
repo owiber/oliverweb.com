@@ -1,0 +1,47 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:1-->
+<title>OliverWEB - Discussing: We Be Geeks!</title>
+</head>
+
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">We Be Geeks!</font> </b><font face="arial" size="1">Monday, January 15, 2001</font><br><font size="2" face="arial">Oliver and I have been having a theoretical discussion on the quote page now for a little while, and so far no one but us has contributed.  Admittedly, it's kind of far down the page, and no one really looks down there, but underneath Wes's quote, about hoping all the guys on AIM would stop talking to her whatever, we've had this conversation<br><br><br><blockquote><i><br>Christine:  lol, point taken, Wes =P but... still Olivia's quote was an original one that you "copyrighted"... i mean plagarized? no wait never mind =P<br><br>Minix:  It would be plagiarized, but in reality, I think its Olivia that plagirized it from Wes... she got a time machine... *prepares for the philosiphical conversation thats bound to come*<br><br>Oliver: Woah... it would probably be theoretical not "philosiphical", Matt. =) But I'll spare you all this time... =) <br><br>Minix: Theoretical, whatever =) Well I'll do it instead. If she went to the future to copy the quote that Wes did, after getting the idea from Olivia, it would create sort of an infinite loop... or no quotes would show up in the first place, which creates a new dilemma... how many times in our lives, do we go into the future in a time machine, in hopes of finding something to copy, but we don't actually do anything because theres nothing to copy, because people that we were going to copy were copying what we were going to copy? Huh? huh? Interesting thought huh? =)<br><br>Oliver: Here's my theory... there's a relatively popular theory that if a time machine was ever created, it could never go back in time before it was actually invented... assuming that is true, I think that once a time machine is invented, that VERY VERY chaotic things will start happening and the Earth will soon have a TON of people on the planet from different time periods in the future, all of whom are traveling farthest in the past that is possible. Which may lead to the demise of mankind because the Earth cannot sustain that many humans... but then.. if all those people die or the relatives of those people die, how would they get there in the first place?... oohhh... ahh... Oh, and I think that according to that theory, that once the last screw (or whatever =) is attached to the time machine, that the inventor will know it worked because instantly at that point, people or at least one person will "teleport" into that room/area from a different time period. Cool, huh? =) <br><br>Minix: What if they went back into time, and killed the proffessor, and blew up the time machine?<br><br>Oliver: Then a vortex will appear and suck up all of existance into it. God would turn to Jesus and say "did we really make them in our image? they're not too bright... what is this, the 50 billionth time we had to do this?" Jesus will say "yeah, but they're cute little things running all over the place. Gotta love em." So they'll reset time and make one of the screws in the time machine malfunction so it never worked... =)<br><br>Minix: Ah... I see... so you're saying a time machine would be impossible to make?<br><br>Oliver: Lol, maybe... I really don't know. =) although there's some theoretical stuff that says even if you went back in time, there would be some kind of thing stopping you from changing it... I dunno, I saw it on TLC or the Discovery channel once =)<br><br>Minix: hmm... could you touch stuff, it just wouldn't effect anything?  <br></blockquote></i><br><br><br><br>and that's where we're at now.  We need help!  Someone else contribute!<br><br><br><b>-<a href="mailto:minix1f@aol.com">Minix</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 216753-979604465 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - Olivia</font> <font face=arial size=1>Monday, January 15, 2001</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">24.28.93.64</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Olivia end_name end_fields--><!--ktalk start_comment-->I have no clue what to say<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 216753-979604465 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="979600348,52829,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->

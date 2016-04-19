@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>
+OliverWEB - Pictures
+</title></head>
+<!--#include virtual="../../ssi/top.shtml"-->
+<center><h2><font color=blue>Pics!</font></h2><p>
+<!--#include virtual="../contents.txt"-->
+
+<img src=oliver.jpg width=249 height=350><br>
+OooOoOooohhh.. liiiiights...<p>
+
+<img src=olivia.jpg width=250 height=258><br>
+Olivia: "What's this?" [Picture from Olivia's ski trip, not NYE party.]<p>
+
+<img src=olivia2.jpg width=300 height=151><br>
+ZzZzzzzzz...<p>
+
+<img src=olivia3.jpg width=350 height=204><br>
+Olivia: "Hello boys and girls, I am Farmer Olivia!" [Picture from Olivia's ski trip, not NYE party.]<p>
+
+<!--#include virtual="../contents.txt"-->
+<!--#include virtual="../../ssi/bottom.shtml"-->

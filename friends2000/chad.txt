@@ -1,0 +1,14 @@
+<!--Oliver is da bomb! hehe-->
+<ul><li><input type="radio" name="quotenum" value="3">
+<b>"hehe... is "that's cool" keeping diverse with your vocab? =) J/K"</b> [<u><font color=#FF80C0>Christine</font></u>]
+<!--o 3--><ul>
+</ul></li></ul><p>
+<ul><li><input type="radio" name="quotenum" value="2">
+<b>"UGH I hate that too! How adults expect you to worship them... especially ones who have no respect for teenagers, but then they think they are so high above us...!"</b> [<u><font color=#8000FF>Sarah</font></u>]
+<!--o 2--><ul>
+<li>They're not. =) -<u><b><font color=#FF00FF>Amanda</font></u></b>
+</ul></li></ul><p>
+<ul><li><input type="radio" name="quotenum" value="1">
+<b>"Chicken junk? Does that mean... chicken... or junk that come from/out of chickens?"</b> [<u><font color=#0000FF>Oliver</font></u>]
+<!--o 1--><ul>
+</ul></li></ul><p>

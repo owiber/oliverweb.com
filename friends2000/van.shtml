@@ -1,0 +1,155 @@
+<!--#include virtual="topssi.shtml" -->
+
+	<h3 id=name>Van Nguyen</h3>
+
+			<img src="van.jpg" border="1" width="130" height="155" alt="Van really wants his coffee."><br>
+			17 - 5/29/83<br>
+        	?, MN?<br>
+        	<a id=w href=mailto:nguyen_van@yahoo.com>nguyen_van@yahoo.com</a><br></font>
+        	<!--br><br><img src="./EDIT/EDIT.jpg" border="1" width="130" height="105" alt="EDIT"-->
+        </td>
+        <td valign="top" width="389" background="bigpaw.gif">
+        		<h3>Van Nguyen</h3>
+            	<h1>Just Stuff</h1>
+
+          		<h2>AIM SN:</h2>
+          		<div>aoushi</div>
+
+          		<h2>Smiley Version:</h2>
+          		<div>=)</div>
+
+          		<h2>Hobbies:</h2>
+          		<div>basically watching movies I guess. American, Chinese, Japanese, I like em all. Anything with a good story I love.</div>
+
+            	<h1>Favorites</h1>
+
+          		<h2>Quote:</h2>
+          		<div>"Water can flow, and it can crash. Be like water." Bruce Lee</div>
+
+          		<h2>School Subject:</h2>
+          		<div>Math, Science, English, History? I dunno, anything I get a good grade in.</div>
+
+          		<h2>Cartoon Character:</h2>
+          		<div>I could tell you, but I don't think any of you watch anime anyway. Ahem, you may lower them to call them merely "cartoons", I won't stop you. (*cough*cough* Oliver) However they are more like movies in my opinion</div>
+
+          		<h2>Comic Character:</h2>
+          		<div>Superman all the way baby!</div>
+
+           		<h2>Color:</h2>
+          		<div>Any shade of blue is nice. Like the ocean.</div>
+
+           		<h2>Food:</h2>
+          		<div>My mom's fabulous cooking!</div>
+
+          		<h2>Book:</h2>
+          		<div>I have many, but recent ones are 20000 Leagues Under the Sea by Jules Verne, Joy Luck Club by Amy Tan, and Memoirs of a Geisha by Arthur Golden. Great stories!</div>
+
+          		<h2>Movie:</h2>
+          		<div>Chinese or American? I have too many and they keep changing. heh.</div>
+
+          		<h2>Board/Non-electronic Game:</h2>
+          		<div>Chess</div>
+
+          		<h2>Electronic Game:</h2>
+          		<div>Hmmm...Final Fantasy RPGs and most of the stuff from Squaresoft!</div>
+
+          		<h2>Type of Music:</h2>
+          		<div>Depends on my mood.</div>
+
+          		<h2>Song:</h2>
+          		<div>Again, it depends on my mood. I guess when I wanna feel romantic, I listen to Eyes on Me by Faye Wong from FF8!</div>
+
+           		<h2>Feeling:</h2>
+          		<div>Happy! Love and Peace! Love and Peace! .....but my real one is true luv once I find it! Oooooooooo</div>
+
+           		<h2>Sense:</h2>
+          		<div>Why, common sense of course. Some people I know don't have any though..........j/k! =) (but really.....)</div>
+
+           		<h2>Animal:</h2>
+          		<div>Well, birds are nice. I like how they glide around gracefully like they don't have a care in the world.....</div>
+
+           		<h2>TV Show:</h2>
+          		<div>Sienfield, when it was still on. I have tons of Chinese shows I like though.</div>
+
+           		<h2>Memory:</h2>
+          		<div>You think I'll be telling you guys? Uh uh, no way! Those are private. Oh, and don't be sick either.</div>
+
+				<h1>Other Stuff</h1>
+          		<h2>Overly-used word, phrase, or whatever:</h2>
+          		<div>huh?</div>
+
+          		<h2>Funniest Moment:</h2>
+          		<div>I don't recall any. My life is quite dull.</div>
+
+          		<h2>Pet peeve(s):</h2>
+          		<div>These stink'n things my friends force me to fill out!</div>
+
+          		<h2>Self-description</h2>
+          		<div>Mr. Coolguy! YEAH!</div>
+
+          		<h2>Nicknames:</h2>
+          		<div>...just look at my name and you can figure out the rest. [Scooter Lose =) -Oliver]</div>
+
+          		<h2>Things I call Oliver:</h2>
+          		<div>Out loud or under my breath behind his back? Either way, I might overload this server with all the things I can call that punk. =)</div>
+
+          		<h1>Yet more stuff about... me.</h1>
+           		<h2>Usually, how messy/clean is your room? (1-10, 10 being most messy):</h2>
+          		<div> 1-2 I look after my cleanliness unlike SOME. [You talking to me!?! =) -Oliver]</div>
+
+          		<h2>Where do you think you'll be in one year?</h2>
+				<div>Well....</div>
+
+          		<h2>Five years?</h2>
+				<div>Uh....</div>
+
+          		<h2>Ten years?</h2>
+				<div>I dunno now...</div>
+
+          		<h2>What do you want your future to be like?</h2>
+          		<div>I can't answer those questions inquiring my future, but I can tell you, I flow where the current of life seems to takes me and do with whatever opportunities arise before me. Deep huh?</div>
+
+				<h2>3 Wishes:</h2>
+				<div>My wishes always change also depending on what I like at the moment. Sometimes I wish to be filthy rich, get outta a boring class, wish someone dead, heh, or peace on earth if such a thing possible. I guess I have too much water in my personality! (From Joy Luck Club! er something else maybe, I forgot)</div>
+
+           		<h2>Misc.:</h2>
+          		<div>[Van is a stinky butt and didn't fill out this part. Heh.]</div>
+
+          		<h1>Rant(s)</h1>
+          		<div>I never rant. I'm always calm and composed.</div>
+
+          		<h1>Comments</h1>
+          		<form action="http://www.oliverweb.com/cgi-bin/f2000.cgi" method="POST">
+				<!--#include virtual="van.txt" -->
+				<hr width=75% align=center>
+          		<b>Add a comment to a comment</b><br><br>
+          		Text:<br>
+            	<textarea name="quote" rows="5" cols="40"></textarea><br><br>
+	           	<input type="radio" name="followup" value="1" checked>Comment<br>
+				<input type="radio" name="followup" value="2">Delete (Oliver use only =)<br><br>
+				<!--#include virtual="friends.txt" --><br><br>
+            	Password:<br>
+            	<input type="password" size="20" name="password"><br>
+            	<input type="hidden" name="page" value="van">
+				<input type="submit" value="Add comment to comment!">
+
+				</form>
+
+				<hr width=75% align=center>
+				<form action="http://www.oliverweb.com/cgi-bin/f2000.cgi" method="POST">
+				<b>Add a comment</b><br><br>
+				Text:<br>
+				<textarea name="quote" rows="5" cols="40"></textarea><br><br>
+
+				<!--#include virtual="friends.txt" --><br><br>
+				<p>Password:<br>
+				<input type="password" size="20" name="password"><br>
+			    <input type="hidden" name="page" value="van">
+			    <input type="submit" value="Add comment!">
+				</form>
+
+
+
+          		<p align=right><a id=big href=nancy.shtml>Next (Nancy) --></a></p>
+
+<!--#include virtual="bottomssi.shtml" -->

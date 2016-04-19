@@ -1,0 +1,74 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>OliverWEB</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+//-->
+</script>
+<style><!--
+A:link {font-family: "Arial", sans-serif; text-decoration: none}
+A:visited {font-family: "Arial", sans-serif; text-decoration: none}
+A:active {font-family: "Arial", sans-serif; text-decoration: none}
+a:hover {font-family: "Arial", sans-serif; text-decoration: underline }
+body {font-family: "Arial", sans-serif}
+td {font-family: "Arial", sans-serif}
+
+--></style>
+</head>
+
+<body bgcolor="#000000" text="#FFFFFF" link="#CC0000" vlink="#990000" alink="#FF0000" topmargin="0" leftmargin="0" bottommargin="0">
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><table width="800" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td width="111" align="left" valign="top"><img src="http://www.oliverweb.com/images02/topleft.gif" width="111" height="122"></td>
+          <td width="689" align="left" valign="top"><img src="http://www.oliverweb.com/images02/toprightpi.jpg" width="689" height="122"></td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <td><table width="800" border="0" cellspacing="0" cellpadding="0">
+        <tr> 
+          <td width="642" valign="top" background="http://www.oliverweb.com/images02/mainpi.jpg"> <div id="Layer1" style="position:relative; width:329px; height:116px; z-index:1; left: 239px; top: 10px; overflow: auto;"> 
+             <!--#include virtual="../images02/box.shtml" -->
+            </div>
+            <div id="Layer2" style="position:relative; width:184px; height:159px; z-index:2; left: 28px; top: -113px; overflow: hidden;"><img src="http://www.oliverweb.com/images02/temp.jpg" width="186" height="162"></div>
+            
+          </td>
+          <td width="158" align="left" valign="top"> 
+            <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="158" height="478">
+              <param name="movie" value="http://www.oliverweb.com/images02/oweb02.swf">
+              <param name="quality" value="high">
+              <embed src="http://www.oliverweb.com/images02/oweb02.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="158" height="478"></embed></object></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="top"> 
+      <div align="center"> 
+        <p><font color="#FFFFFF" size="2" face="Verdana, Arial, Helvetica, sans-serif"><br>
+          Copyright &copy; Oliver Wong 2002<br>
+          All Rights Reserved.</font></p>
+        <p>&nbsp;</p>
+        <div align="left">
+          <div id="Layer3" style="position:relative; width:470px; height:270px; z-index:3; left: 113px; top: -405px; overflow: auto;"> 
+            <!--#include virtual="../news02/news.txt" -->
+       </div>
+        </div>
+        
+      </div></td>
+  </tr>
+</table>
+<p align="center">&nbsp;</p>
+</body>
+</html>

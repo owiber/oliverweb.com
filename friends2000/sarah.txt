@@ -1,0 +1,37 @@
+<!--Oliver is da bomb! hehe-->
+<ul><li><input type="radio" name="quotenum" value="5">
+<b>"HEY! There is nothing wrong with being blonde... I dont look like it, but I bet I beat Minix, Jennifer, and Sarah in thinking blonde or whatever =) "</b> [<u><font color=#FF80C0>Christine</font></u>]
+<!--o 5--><ul>
+</ul></li></ul><p>
+<ul><li><input type="radio" name="quotenum" value="4">
+<b>"Hey! It's not a pink monkey btw it's a puffalump! Her name was Puff! OK?? hehehe"</b> [<u><font color=#8000FF>Sarah</font></u>]
+<!--o 4--><ul>
+<li>Yeah huh the real brand or whatever's name was puffalump!  -<u><b><font color=#8000FF>Sarah</font></u></b>
+<li>A PUFFALUMP!?!?! WHAT IN THE WORLD!?!? There is not such thing as a puffalump, just like there is no such thing as a flying monkey (like the ones in Wizard of Oz *coughOchscough*)... oh wait... there aren't pink monkeys either, huh? -<u><b><font color=#0000FF>Oliver</font></u></b>
+</ul></li></ul><p>
+<ul><li><input type="radio" name="quotenum" value="3">
+<b>"About Sarah putting down Clarinets in her rant..... I've played music before where Clarinets had the most important part and the flutes backed US up.(Tacobell's cannon, Livi ;) And most of the time the first clarinets have the same part as the flue, just lower. In fact, a lot of time Clarinets are given the melody BECAUSE they can go lower. So, just thought I'd say a few words on an instrument close to my heart. =)"</b> [<u><font color=#FF00FF>Amanda</font></u>]
+<!--o 3--><ul>
+<li>Of course he does.;) -<u><b><font color=#FF00FF>Amanda</font></u></b>
+<li>OH blah you don't count. =) -<u><b><font color=#8000FF>Sarah</font></u></b>
+<li>Being a huge fan of the trombone...I must say, go Trombones, but for the sake of argument, I must say go Clarinets! -<u><b><font color=#008000>Minix</font></u></b>
+<li>LoL... I seriously didn't mean this as a war against clarinets. It started as just supporting flutes... clarinets was just one example of what Olivia H. said. ANYWAY... the main point is that flute ARE essential. And trumpets are not better than anyone else. :) -<u><b><font color=#8000FF>Sarah</font></u></b>
+<li>You know what? GO AIR MOLECULES!!! -<u><b><font color=#0000FF>Oliver</font></u></b>
+<li>Trust me.... when Clarinets play high notes, we can project..... but flutes usually project more, just becuase they're higher instruments.... and really, if you ask me, all instruments are important in a band.... I mean, music just sounds flat without the small back up parts. GO CLARINETS!! =) -<u><b><font color=#FF00FF>Amanda</font></u></b>
+<li>Okay, let's end this and go... GO WOODWINDS! My gosh! =)~ -<u><b><font color=#0080C0>Olivia</font></u></b>
+<li>Well yeah, it happens Sometimes. I mean for gosh sakes sometimes a song is written for the timpani! But does that mean it's a really important instrument? Not really... but I don't really have anything against clarinets.. that was just my example. But see... clarinets don't have many huge parts written for them because they can't project well. I dunno.... GO FLUTES!! -<u><b><font color=#8000FF>Sarah</font></u></b>
+<li>YEP! GO CLARINETS! -<u><b><font color=#0080C0>Olivia</font></u></b>
+</ul></li></ul><p>
+<ul><li><input type="radio" name="quotenum" value="2">
+<b>"Yes Sarah, you really are as ditzy as we all say...don't try to hide it, you know you are!!! ;o)"</b> [<u><font color=#800080>Jennifer</font></u>]
+<!--o 2--><ul>
+<li>Yeah, that...she is too as ditzy as we say she is! :o) -<u><b><font color=#800080>Jennifer</font></u></b>
+<li>Sarah said: "I'm not that ditzy... only every once in awhile." Jennifer is replying to that I think... -<u><b><font color=#0000FF>Oliver</font></u></b>
+<li>I don't get it, what's going on? -<u><b><font color=#0080C0>Olivia</font></u></b>
+</ul></li></ul><p>
+<ul><li><input type="radio" name="quotenum" value="1">
+<b>"Sarah, you're supposed to go on and on in your rant, not just say what you could go on and on about. =)"</b> [<u><font color=#0000FF>Oliver</font></u>]
+<!--o 1--><ul>
+<li>Ah, now that's a good rant, Sarah. =) -<u><b><font color=#0000FF>Oliver</font></u></b>
+<li>Ohhhhh I get it now. Dang... I think Jennifer just won... =) Lemme change it -<u><b><font color=#8000FF>Sarah</font></u></b>
+</ul></li></ul><p>

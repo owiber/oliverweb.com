@@ -1,0 +1,103 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:5-->
+<title>OliverWEB - Discussing: </title>
+</head>
+
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399"></font> </b><font face="arial" size="1">Thursday, December 20, 2001</font><br><font size="2" face="arial">There is a LAN party today and tommorow at Mark's house... you should all come and join us!  We will have computer games, and drinks, and fun.  But no friends we will not have any of the other stuff....   http://www.salon.com/tech/feature/2001/11/06/games_drugs/index.html?xmy      cut and paste that puppy<br><br><b>-<a href="mailto:bshelley@austin.rr.com">Brook</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 511983-1009056440 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>5</b> - Nancy</font> <font face=arial size=1>Saturday, December 22, 2001</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">63.232.115.216</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Nancy end_name end_fields--><!--ktalk start_comment-->See Olga makes up words too!<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 511983-1009056440 --><!--ktalk start_item 821301-1009014062 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>4</b> - Ochs</font> <font face=arial size=1>Saturday, December 22, 2001</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">128.83.176.65</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Ochs end_name end_fields--><!--ktalk start_comment-->I would have to agree Oliver. Being almost 4 in the morning now and I still cannot get to sleep! Oh, BTW, I got a green light on the BIG LAN PARTY!!! Start planning a date or something and lmk... I'm gonna go try to read a book or something now..heh<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 821301-1009014062 --><!--ktalk start_item 150648-1009008420 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>3</b> - <font color="#003399">Oliver</font></font> <font face=arial size=1>Saturday, December 22, 2001</font><br>
+      <font face=arial size=1><a href=mailto:oliver@oliverweb.com>oliver@oliverweb.com</a> (<font size="1" face="Arial">IP Hidden</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email oliver@oliverweb.com end_email start_name Oliver end_name end_fields--><!--ktalk start_comment-->Yep, the patheticity (made up word again) of your wall caused me to stay up until 8AM and stay asleep until 3:30ish PM... my sleep pattern being out of wack is all your fault.<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 150648-1009008420 --><!--ktalk start_item 183408-1009007408 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>2</b> - Chad</font> <font face=arial size=1>Saturday, December 22, 2001</font><br>
+      <font face=arial size=1><a href=mailto:nosliwc156@aol.com>nosliwc156@aol.com</a> (<font size="1">66.25.208.56</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email nosliwc156@aol.com end_email start_name Chad end_name end_fields--><!--ktalk start_comment-->you're wall was too incredibly pathetic, and you are still in the dark ages...<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 183408-1009007408 --><!--ktalk start_item 648676-1009007047 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - Nancy</font> <font face=arial size=1>Saturday, December 22, 2001</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">63.232.113.123</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Nancy end_name end_fields--><!--ktalk start_comment-->Hey i was there....and i played that game..yeha....that game where i was in the dark ages and ya'll made fun of my wall. =(<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 648676-1009007047 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="1008880654,75778,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->

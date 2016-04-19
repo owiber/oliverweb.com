@@ -1,0 +1,89 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:4-->
+<title>OliverWEB - Discussing: Yeah...</title>
+</head>
+
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">Yeah...</font> </b><font face="arial" size="1">Wednesday, September 18, 2002</font><br><font size="2" face="arial">So I just noticed that the counter reset a while back... I'll probably just remove it... *shrug*...<br><br>Homework... too... much... M427k... ughh... pressure... must.... ahh... ughhh... oooOoOooooOoOohhh...<br><b>-<a href="mailto:oliver@oliverweb.com">Oliver</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 618459-1032488402 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>4</b> - Ochs</font> <font face=arial size=1>Thursday, September 19, 2002</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">66.68.103.212</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Ochs end_name end_fields--><!--ktalk start_comment-->I know.. and I was seeing blue monkeys in high school. Makes you wonder with even more junky hw what I'm seeing now...hehe...still blue monkeys! MWAHAHAHAHA!!!<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 618459-1032488402 --><!--ktalk start_item 963323-1032465385 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>3</b> - Andrew</font> <font face=arial size=1>Thursday, September 19, 2002</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">146.6.101.70</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Andrew end_name end_fields--><!--ktalk start_comment-->It goes down, and I mean down.....  I was just there a second ago, now I'm in this elephant graveyard.  Wait a second, was that a blue monkey!!  I'm turning into Ochs, HELP ME OLIVER!!<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 963323-1032465385 --><!--ktalk start_item 217874-1032462436 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>2</b> - <font color="#003399">Oliver</font></font> <font face=arial size=1>Thursday, September 19, 2002</font><br>
+      <font face=arial size=1><a href=mailto:oliver@oliverweb.com>oliver@oliverweb.com</a> (<font size="1" face="Arial">IP Hidden</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email oliver@oliverweb.com end_email start_name Oliver end_name end_fields--><!--ktalk start_comment-->I'm not sure... I'm in the corner, but it's pitch black and I'm not sure if this hole I'm sitting next to goes up or down...<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 217874-1032462436 --><!--ktalk start_item 432498-1032416190 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - Andrew</font> <font face=arial size=1>Thursday, September 19, 2002</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">129.116.19.236</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Andrew end_name end_fields--><!--ktalk start_comment-->Help Oliver, I'm drowning in our math homework and I can't get out.  Everytime I fight, I get sucked in deeper and deeper.  Is there an escape?  <!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 432498-1032416190 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="1032414520,66152,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->

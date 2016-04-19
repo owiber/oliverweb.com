@@ -1,0 +1,78 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:3-->
+<title>OliverWEB - Discussing: Friday</title>
+</head>
+<!--#if expr="${HTTP_COOKIE} = owebenter\=uvebeentold" -->
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">Friday</font> </b><font face="arial" size="1">Friday, March 16, 2001</font><br><font size="2" face="arial">The adventures of the evil bunny... continued!<blockquote><img src="http://www.oliverweb.com/stuff/cs.jpg" width=100 height=130 border=1 align=right alt="Counter-Strike">Somehow, HellHare ended up in Round Rock, Texas. <i>"Vhat en da heehaw havveppend? Ow vid Isa ind up en dis pase?"</i> wondered HellHare. It was there where he got mesmerized by the many computers at a local LAN party... where two of the young people (called Van and Oliver) were killing everyone else in Counter-Strike. Because of this, HellHare's small biography somehow skipped a day. <i>"Isa veleave dat dursduday wud lozz en u tem vubble ur sumding..."</i> explains HellHare.</blockquote>CONTINUE HELLHARE'S ADVENTURE ON SATURDAY!<br><br>Would also like to point out that Minix <i>did</i> do well the first/only Half-Life game we played... but Van and I kicked butt in Counter-Strike. =)<br><b>-<a href="mailto:oliver@oliverweb.com">Oliver</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 352074-984892239 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>3</b> - <font color="#003399">Oliver</font></font> <font face=arial size=1>Saturday, March 17, 2001</font><br>
+      <font face=arial size=1><a href=mailto:oliver@oliverweb.com>oliver@oliverweb.com</a> (<font size="1" face="Arial">IP Hidden</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email oliver@oliverweb.com end_email start_name Oliver end_name end_fields--><!--ktalk start_comment-->Lol... &quot;totally killed&quot;... you beat me by 10-13 kills... I dunno what Van got... 'course you also play a lot more than I do. I haven't played HL or CS in a LONG time... CS longer.<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 352074-984892239 --><!--ktalk start_item 367051-984879444 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>2</b> - Minix</font> <font face=arial size=1>Saturday, March 17, 2001</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">24.27.51.232</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Minix end_name end_fields--><!--ktalk start_comment-->Yeah, and I did good at Counter Strike once i got the hang of it! =)  ladida, if anyones curious, I totally killed Van and Oliver in half-life... I got first... they did not so well, haha haha!  =)  but they did do better than me in Counterstrike... but it was my first time!!<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 367051-984879444 --><!--ktalk start_item 182560-984798214 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - Olivia</font> <font face=arial size=1>Friday, March 16, 2001</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">24.28.80.170</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Olivia end_name end_fields--><!--ktalk start_comment-->Heyy, I was pretty good at CS... =) Sometimes... <!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 182560-984798214 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="984796794,161,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->
+<!--#else -->
+<!--#include virtual="../ssi/error.shtml" -->
+<!--#endif -->

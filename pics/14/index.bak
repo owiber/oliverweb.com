@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>
+OliverWEB - Pictures
+</title></head>
+<!--#include virtual="../../ssi/top.shtml"-->
+<center><h2><font color=blue>Pics!</font></h2><p>
+<!--#include virtual="../contents.txt"-->
+
+<img src=friends.gif width=250 height=486><br>
+Happy Halloween!<p>
+
+<img src=hah.gif width=152 height=371><br>
+I beat up Minix.<p>
+
+<img src=minix.gif width=250 height=230><br>
+Minix is hiding from me. Is that underwear on the floor?! What in the world is that?!?!<p>
+
+<img src=oliver.gif width=350 height=261><br>
+*A*: [Whisper] Olivia! I think Oliver is SOOO HOT in that costume!<br>
+Olivia: *GASP!* I know, right!?<p>
+
+<!--#include virtual="../contents.txt"-->
+<!--#include virtual="../../ssi/bottom.shtml"-->

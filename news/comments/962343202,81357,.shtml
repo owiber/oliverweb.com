@@ -1,0 +1,69 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:1-->
+<title>Discussing: TEst</title>
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000" link="#000000" vlink="#000000" alink="#000000">
+
+
+
+<p><b><font face="arial" color="#0000FF">TEst</font> </b><font face="arial" size="1">Thursday, June 29, 2000</font><br><font size="2" face="arial">test<br>-<a href="mailto:oliver@oliverweb.com">Oliver</a></p></font>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 933091-962343228 -->
+
+<div align="center"> 
+  <table border="0" width="400">
+    <tr> 
+      <td colspan="2"> <b># 1</b> </td>
+    </tr>
+    <tr> 
+      <td width="100"> <font size="1" face="Arial"> Name: </font> 
+      <td><font size="1" face="Arial">Anonymous </font> 
+    </tr>
+    <tr> 
+      <td width="100"> <font size="1" face="Arial"> E-mail: </font> </td>
+      <td> <font size="1" face="Arial"> <a href="mailto:oliver2@oliverweb.com">oliver2@oliverweb.com</a> 
+	</font> </td>
+    </tr>
+    <tr> 
+      <td width="100"> <font size="1" face="Arial"> Date: </font> </td>
+      <td> <font size="1" face="Arial"> Thursday, June 29, 2000 </font> </td>
+    </tr>
+    <tr>
+      <td width="100"><font size="1" face="Arial, Helvetica, sans-serif">ip:</font></td>
+      <td><font size="1">24.93.59.208</font>
+</td>
+    </tr>
+    <tr> 
+      <td width="100"> <font size="1" face="Arial"> Comment </font> </td>
+    </tr>
+    <tr> 
+      <td colspan="2" bgcolor="#ebebeb"> <font size="1" face="Arial"> <!--ktalk start_fields: start_email oliver2@oliverweb.com end_email start_name Oliver2 end_name end_fields--><!--ktalk start_comment-->Hello<!--ktalk end_comment--> 
+	</font> </td>
+    </tr>
+  </table>
+<br>
+  <hr noshade width="80%">
+</div>
+<!--ktalk end_item 933091-962343228 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="962343202,81357,"><!--ktalk format 1-->
+
+Name: <input type="text" name="name"><br>
+Email: <input type="text" name="email"><br>
+Password: <input type="password" name="password"><br>
+Comment: <textarea name="comment" cols="50" rows="10"></textarea><br>
+
+
+<input type="submit" value="Submit">
+<input type="reset" value="Reset" name="reset">
+
+</body>
+</html>

@@ -1,0 +1,27 @@
+<!--Oliver is da bomb! hehe-->
+<ul><li><input type="radio" name="quotenum" value="5">
+<b>"Hey, Oliver!!  This webpage is amazing!  I guess it's all because the website has such a cool name; and if you recall I came up with it :)  Anyhow, email me sometime.  And since you seem like someone who never loses an email address, I won't give it to you again (but if you have forgotten, i put it on Matt's page.) :)"</b> [<u><font color=#1BADDE>Claire</font></u>]
+<!--o 5--><ul>
+</ul></li></ul><p>
+<ul><li><input type="radio" name="quotenum" value="4">
+<b>"You should start the rant page idea sometime when you have time =)"</b> [<u><font color=#FF80C0>Christine</font></u>]
+<!--o 4--><ul>
+<li>Definetly =)  NOW NOW NOW!  I hate having no where to rant but the main page, come on =) -<u><b><font color=#008000>Minix</font></u></b>
+</ul></li></ul><p>
+<ul><li><input type="radio" name="quotenum" value="3">
+<b>"Oops, I just hit Rocker (our bird) with a football... hehe, I kicked it when Oriana threw it at me... lol lol lol. =)"</b> [<u><font color=#0000FF>Oliver</font></u>]
+<!--o 3--><ul>
+<li>heh... I heard the bird.. but.. I didn't think you hit it... ~.~ -<u><b><font color=#0080C0>Olivia</font></u></b>
+</ul></li></ul><p>
+<ul><li><input type="radio" name="quotenum" value="2">
+<b>"Good job and all Oliver, but you stink!  =)  Heh, just felt like being mean"</b> [<u><font color=#008000>Minix</font></u>]
+<!--o 2--><ul>
+<li>Minix is <i>[Adam is a dork] munchkin-pumpkin-apple-sweetiepie</i>!! Hahahahahahah -<u><b><font color=#FF80C0>Adam</font></u></b>
+<li>You stink too, Minix. =) -<u><b><font color=#0000FF>Oliver</font></u></b>
+</ul></li></ul><p>
+<ul><li><input type="radio" name="quotenum" value="1">
+<b>"Oh yeah! Who da bomb!?! No! Me you idiot. =) Commenting now works... enjoy. I should add other people to this section soon..."</b> [<u><font color=#0000FF>Oliver</font></u>]
+<!--o 1--><ul>
+<li>I guesso. =) -<u><b><font color=#0000FF>Oliver</font></u></b>
+<li>Hehe... can I answer da questions now?! -<u><b><font color=#0080C0>Olivia</font></u></b>
+</ul></li></ul><p>

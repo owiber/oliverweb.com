@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>
+OliverWEB - Pictures
+</title></head><!--#include virtual="../../ssi/top.shtml"-->
+<center><h2><font color=blue>Pics!</font></h2><p>
+<!--#include virtual="../contents.txt"-->
+
+<img src=daddywong.gif width=350 height=264><br>
+This the "Daddy Wong" look, Ochs? =)<p>
+
+<img src=ochs2.gif width=200 height=360><br>
+Ochs is having fun with Margarette.<p>
+
+<img src=ochs3.gif width=160 height=427><br>
+Like I said... <p>
+
+<img src=ochs.gif width=200 height=394><br>
+Ochs: "It's okay Marge. You can sleep with me tonight again. I'll keep you warm."<p>
+
+<!--#include virtual="../contents.txt"-->
+<!--#include virtual="../../ssi/bottom.shtml"-->

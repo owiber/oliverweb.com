@@ -1,0 +1,61 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:2-->
+<title>OliverWEB - Discussing: Nine Inch Nose Hairs</title>
+</head>
+
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#0000FF">Nine Inch Nose Hairs</font> </b><font face="arial" size="1">Sunday, July 30, 2000</font><br><font size="2" face="arial">Many of you are familiar with our "group"  some of you are not... well "we" (only Ochs and I, and one song with Chad right now) have been doing goofy songs, and soon we'll be selling our first cd.  Our group, is as the subject says the "Nine Inch Nose Hairs" We've also got a couple sub groups.  Anyway to listen to us follow the links.<BR><br><br><Center><a href = "http://www.mp3.com/ninh/">Nine Inch Nose Hairs</a><BR><BR>And Our other "groups"<BR><BR><a href = "http://www.mp3.com/matttheman">Matt-Man<BR><a href = "http://www.mp3.com/thegoofypoet">The Goofy Poet</A><BR></Center><br>Cool huh?  Lemme know what you think! =)<br>-<a href="mailto:minix1f@aol.com">Minix</a></p></font>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 559601-969223093 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>2</b> - Raging Yam</font> <font face=arial size=1>Sunday, September 17, 2000</font><br>
+      <font face=arial size=1><a href=mailto:holyyam@aol.com>holyyam@aol.com</a> (<font size="1">205.188.200.182</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email holyyam@aol.com end_email start_name Raging Yam end_name end_fields--><!--ktalk start_comment-->Oh yeah, I meant to solicit my music here.  On mp3, look up the band &quot;Wickle.&quot;  You'll want to download the song &quot;Chicken&quot; first.<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 559601-969223093 --><!--ktalk start_item 965381-969223010 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - Raging Yam</font> <font face=arial size=1>Sunday, September 17, 2000</font><br>
+      <font face=arial size=1><a href=mailto:holyyam@aol.com>holyyam@aol.com</a> (<font size="1">205.188.200.182</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email holyyam@aol.com end_email start_name Raging Yam end_name end_fields--><!--ktalk start_comment-->I went when Chad showed me all that stuff, and I was impressed.  Slightly.  I thought the stuff was funny.  Man alive, though...I just can't get that Jungle song outta mah head!  <!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 965381-969223010 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="965016040,88676,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->

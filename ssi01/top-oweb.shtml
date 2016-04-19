@@ -1,0 +1,63 @@
+<body bgcolor="#000000" text="#E1E1E1" link="#0000FF" vlink="#0000A0" alink="#008080">
+
+<a name="top">&nbsp;</a>
+<style><!--
+A:link {font-family: "Arial", sans-serif; text-decoration: none}
+A:visited {font-family: "Arial", sans-serif; text-decoration: none}
+A:active {font-family: "Arial", sans-serif; text-decoration: none}
+a:hover {font-family: "Arial", sans-serif; color:blue; text-decoration: underline }
+body {font-family: "Arial", sans-serif}
+td {font-family: "Arial", sans-serif}
+
+--></style>
+
+  <SCRIPT language="JavaScript">
+  <!--
+
+// Original JavaScript code by Duncan Crombie: dcrombie@chirp.com.au
+
+  var wabba = document.cookie; // retrieve cookie string
+
+  function getCookie(name) { // use: getCookie("name");
+    var index = wabba.indexOf(name + "=");
+    if (index == -1) return null;
+    index = wabba.indexOf("=", index) + 1;
+    var endstr = wabba.indexOf(";", index);
+    if (endstr == -1) endstr = wabba.length;
+    return unescape(wabba.substring(index, endstr));
+  }
+  if (!getCookie("owebenter")) {
+    document.write('<meta http-equiv="Refresh" content="0;URL=http://www.oliverweb.com/main/index.shtml"><NOSCRIPT><!--');
+	}
+//-->
+</SCRIPT>
+<NOSCRIPT>
+<meta http-equiv="Refresh" content="0;URL=http://www.oliverweb.com/main/index.shtml">
+</NOSCRIPT>
+
+<center>
+<table border="0" cellpadding="0" cellspacing="0" width="740">
+<tr><td border="0"  valign="bottom" cellpadding="0" cellspacing="0" width="740" height="135">
+<a href=http://www.oliverweb.com/main/home.shtml><img src="http://www.oliverweb.com/images/top.gif" alt="Y3ah, I kn0w I\'m k3wl ;)" width="500" height="135" valign="bottom" border="0"></a>
+<a href="mailto:oliver@oliverweb.com">
+<img src="http://www.oliverweb.com/images/email2.gif" alt="Ema1l m3, I luv ema1ls =)" border="0" width="207" height="135" valign="bottom"></a></td></tr></table><table border="0" cellpadding="0" cellspacing="0" width="740">
+<tr><td border="0"  align="center" valign="top" width="225">
+<img src="http://www.oliverweb.com/images/stuff.gif" alt="5tUfF!!!" width="225" height="50" valign="top">
+<center>
+<table border="0" cellpadding="0" cellspacing="0" width="225">
+<tr><td border="0"  align="center" width="225" valign="top"><font face="Arial">
+
+<!--LINKS LIST ONE HERE-->
+
+<!--#include virtual="sidebar.shtml"-->
+
+</td></tr></table>
+</center><p>
+<img src="http://www.oliverweb.com/images/starcircle.gif" alt="Just felt like putting this image here, g0t a pr0blem with that?" width="99" height="75">
+</td><td border="0" valign="top" width="415">
+<p>
+<font face="Arial">
+<font size=2>
+<!--#exec cgi="../cgi-bin/rand_text.cgi"--></font><p>
+<!--exec cgi="../cgi-bin/login.cgi"-->
+

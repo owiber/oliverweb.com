@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>
+OliverWEB - Pictures
+</title></head>
+<!--#include virtual="../../ssi/top.shtml"-->
+<center><h2><font color=blue>Pics!</font></h2><p>
+<!--#include virtual="../contents.txt"-->
+
+<img src=ochs.jpg width=250 height=276><br>
+Ochs: "Okay fine! I'll eat the microphone then!"<p>
+
+<img src=strip.jpg width=250 height=273><br>
+I was drugged I tell ya, drugged!!!<p>
+
+<img src=minix.jpg width=270 height=237><br>
+Say cheese!<p>
+
+<img src=oo.jpg width=250 height=195><br>
+Ummmmm... ??? =)<p>
+
+<!--#include virtual="../contents.txt"-->
+<!--#include virtual="../../ssi/bottom.shtml"-->

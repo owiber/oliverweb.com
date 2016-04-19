@@ -1,0 +1,345 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="http://www.movabletype.org/" />
+
+<title>OliverWEB 2005: UTC I tea see, we all... oh...</title>
+
+<link rel="stylesheet" href="http://www.oliverweb.com/stylesheet.css" type="text/css" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.oliverweb.com/index.rdf" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="http://www.oliverweb.com/atom.xml" />
+
+<link rel="start" href="http://www.oliverweb.com/" title="Home" />
+<link rel="prev" href="http://www.oliverweb.com/archives/2004/10/more_about_ee.shtml" title="More About EE" />
+
+<link rel="next" href="http://www.oliverweb.com/archives/2004/10/lunch_time.shtml" title="Lunch Time!" />
+
+
+<script type="text/javascript" language="javascript">
+<!--
+
+var HOST = 'www.oliverweb.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + (expires ? "; expires=" + expires : "") + (path ? "; path=" + path : "") + (domain ? "; domain=" + domain : "") + (secure ? "secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    now = now.toGMTString();
+    if (f.author != undefined)
+       setCookie('mtcmtauth', f.author.value, now, '/', '', '');
+    if (f.email != undefined)
+       setCookie('mtcmtmail', f.email.value, now, '/', '', '');
+    if (f.url != undefined)
+       setCookie('mtcmthome', f.url.value, now, '/', '', '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '/', '');
+    deleteCookie('mtcmthome', '/', '');
+    deleteCookie('mtcmtauth', '/', '');
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.oliverweb.com/archives/2004/10/utc_i_tea_see_w.shtml"
+    trackback:ping="http://www.oliverweb.com/mt/mt-tb.cgi/10"
+    dc:title="UTC I tea see, we all... oh..."
+    dc:identifier="http://www.oliverweb.com/archives/2004/10/utc_i_tea_see_w.shtml"
+    dc:subject="misc"
+    dc:description=" I actually took this picture yesterday in Buddhism, but it works cause my linguistics class is in UTC too (and all the rooms look the same =). After this, I gotta go eat lunch, then I have lab hours..."
+    dc:creator="Oliver"
+    dc:date="2004-10-15T13:30:40-06:00" />
+</rdf:RDF>
+-->
+
+
+
+
+</head>
+
+<body>
+<div id="all">
+<div id="headerimage">
+	<div id="links"><a href="http://www.oliverweb.com">blog</a> | <a href="http://www.oliverweb.com/gallery">gallery</a> | <a href="http://www.oliverweb.com/main/">legacy</a></div>	
+</div>
+<div id="container">
+<div class="spacer"></div>
+<div id="sidebar">
+
+<!-- START RECENT ENTRIES -->
+<!-- 
+<h2>recent entries</h2>
+
+<ul>
+<li><a href="http://www.oliverweb.com/archives/2004/10/gov310l.shtml">GOV310L</a></li>
+<li><a href="http://www.oliverweb.com/archives/2004/10/iphoto_is_the_s.shtml">iPhoto is the Suck</a></li>
+<li><a href="http://www.oliverweb.com/archives/2004/10/cameras_swarm_s.shtml">Cameras! Swarm Swarm Swarm!</a></li>
+<li><a href="http://www.oliverweb.com/archives/2004/10/bamboovanpoo.shtml">BambooVanpoo</a></li>
+<li><a href="http://www.oliverweb.com/archives/2004/10/tasa_night.shtml">TASA Night</a></li>
+<li><a href="http://www.oliverweb.com/archives/2004/10/rubiks_skills.shtml">Rubik's Skills</a></li>
+<li><a href="http://www.oliverweb.com/archives/2004/10/th_anonymous.shtml">Th. Anonymous</a></li>
+<li><a href="http://www.oliverweb.com/archives/2004/10/4am_musings.shtml">4AM Musings</a></li>
+<li><a href="http://www.oliverweb.com/archives/2004/10/3am_musings.shtml">3AM Musings</a></li>
+<li><a href="http://www.oliverweb.com/archives/2004/10/unlimited_shrim.shtml">Unlimited Shrimp!</a></li>
+
+</ul>
+<br />
+-->
+<!-- END RECENT ENTRIES -->
+
+<!-- START CATEGORIES -->
+<h2>categories</h2>
+<ul>
+  <li><a href="http://www.oliverweb.com/archives/events/index.shtml">events</a></li>
+  <li><a href="http://www.oliverweb.com/archives/friends/index.shtml">friends</a></li>
+  <li><a href="http://www.oliverweb.com/archives/misc/index.shtml">misc</a></li>
+  <li><a href="http://www.oliverweb.com/archives/news/index.shtml">news</a></li>
+  <li><a href="http://www.oliverweb.com/archives/photographs/index.shtml">photographs</a></li>
+
+</ul>
+<!-- END CATEGORIES -->
+<br />
+<!-- START ARCHIVES -->
+<h2>archives</h2>
+<ul>
+<li><a href="http://www.oliverweb.com/archives/2004/10/index.shtml">October 2004</a></li>
+
+</ul>
+<!-- END ARCHIVES -->
+<br />
+
+<!-- START LINKS -->
+<h2>links</h2>
+<ul>
+<li><a href="http://www.gizmodo.com">Gizmodo</a></li>
+<li><a href="http://www.hardocp.com">[H]ard|OCP</a></li>
+<li><a href="http://www.liquid-acc.com">Liquid</a></li>
+<li><a href="http://www.osnews.com">OSNews</a></li>
+<li><a href="http://www.slashdot.org">Slashdot</a></li>
+</ul>
+<!-- END LINKS -->
+<br />
+
+<!-- START BLOGS-->
+<h2>blogs</h2>
+<ul>
+<li><a href="http://blogs.sun.com/andrew">Andrew</a></li>
+<li><a href="http://www.mrbrook.com">Brook</a></li>
+<li><a href="http://www.xanga.com/nosliwc156">Chad</a></li>
+<li><a href="http://www.xanga.com/chix0rgirl">Kathy</a></li>
+<li><a href="http://www.xanga.com/pancy">Nancy</a></li>
+<li><a href="http://www.xanga.com/ochs">Ochs</a></li>
+<li><a href="http://www.xanga.com/cup_a_ooo">Olivia</a></li>
+<li><a href="http://www.xanga.com/OreoReoEoO">Oriana</a></li>
+<li><a href="http://www.xanga.com/your_shadow">Sam</a></li>
+<li><a href="http://www.bamboovanpoo.com">Van</a></li>
+</ul>
+<!-- END BLOGS-->
+<br />
+
+<!-- START SEARCH-->
+<h2>search</h2>
+<form method="get" action="http://www.oliverweb.com/mt/mt-search.cgi">
+<input type="hidden" name="IncludeBlogs" value="1" />
+<input id="search" name="search" size="20" /><br />
+<input type="submit" value="Search" />
+</form>
+<!-- END SEARCH-->
+
+<br />
+
+</div> <!-- END SIDEBAR -->
+
+<div id="content">
+<div id="contentblurb">
+<p>Welcome to OliverWEB 2005, where all your dreams come true!  Even Sam's!  Just follow the yellow brick road!  Becoz, becoz, becoz, becoz, becoz!!  No one gets in to see the wizard, not no way, not no how! <br /><br /> ...*ahem*... so, if you're curious where all the old OliverWEB stuff on the sidebar went... it's gone. Yes yes, I've decided to drop all the old stuff and create an entirely new site including backend, layout, etc.  The <a href="http://www.oliverweb.com/main">old OliverWEB</a> can still be found by clicking on the "legacy" link at the top right of this page. Enjoy!</p>
+</div>
+<br />
+<!-- START BLOGS -->
+
+<div id="blogs">
+
+<a href="http://www.oliverweb.com/archives/2004/10/more_about_ee.shtml">&laquo; More About EE</a> |
+
+<a href="http://www.oliverweb.com/">Main</a>
+| <a href="http://www.oliverweb.com/archives/2004/10/lunch_time.shtml">Lunch Time! &raquo;</a>
+
+
+<br /><br />
+<h2>&gt;&gt; October 15, 2004</h2>
+
+<h3><a href="http://www.oliverweb.com/archives/2004/10/utc_i_tea_see_w.shtml">UTC I tea see, we all... oh...</a></h3>
+
+<p><img alt="utc.jpg" src="http://www.oliverweb.com/images05/blog/utc.jpg" width="400" height="325" /><br />
+I actually took this picture yesterday in Buddhism, but it works cause my linguistics class is in <a href="http://www.utexas.edu/maps/main/buildings/utc.html">UTC</a> too (and all the rooms look the same =). After this, I gotta go eat lunch, then I have lab hours for 2 hours, 30 minute break, <a href="http://www.utexas.edu/admin/utpd/defensive.html">defensive driving</a> from 5:30 - 8:30, then it's camping time!  I think.  Here's hoping I don't get lost on the way. =)</p>
+
+<p>I found a <a href="http://www.chrispederick.com/work/firefox/webdeveloper/">cool extension</a> for <a href="http://www.mozilla.com/firefox">Firefox</a> the other day.  It lets you change/edit style sheets dynamically, display borders around table/block elements and all kinds of other crazy stuff.  It's the HOTNESS.</p>
+
+<p>Hmmm... I should make a "HOTNESS" stamp/button or something...</p>
+
+<div id="a000011more"><div id="more">
+
+</div></div>
+
+<p class="posted"><img src="/mt/images/mininav-entries.gif" border="0" alt="posted" /> posted by Oliver at October 15, 2004 01:30 PM</p>
+
+<h2 id="trackbacks">Trackback Pings</h2>
+<p class="techstuff">TrackBack URL for this entry:<br />
+http://www.oliverweb.com/mt/mt-tb.cgi/10</p>
+
+
+
+
+
+<h2 class="comments">Comments</h2>
+
+<div class="comment">
+<div id="c14">
+<p class="posted">posted by: Ochs  at October 15, 2004 02:07 PM</p><p>yea for oliver actually bloggin on a daily basis! btw.. enjoy being a "complete" minor one last time. oh wait.. for some reason i think you will always be a complete minor my strawberry-shortcake-honey-bun. *muah* </p>
+
+<p></p>
+
+<p>uh.. i have no idea what came over me. im just pumped about camping. haha<br />
+</p>
+</div>
+</div>
+<div class="comment">
+<div id="c22">
+<p class="posted">posted by: <a href="mailto&#58;susanew2001&#64;yahoo&#46;com">Mommy</a>  at October 17, 2004 09:53 PM</p><p>Son,</p>
+
+<p>Defensive Driving?  Do I know about this?  </p>
+
+<p>Love,<br />
+Mommy</p>
+</div>
+</div>
+
+
+
+
+<br />
+
+<h2 class="comments">Post a comment</h2>
+
+ 
+
+
+
+<form method="post" action="http://www.oliverweb.com/mt/mt-comments.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="11" />
+
+<div id="name_email">
+<p><label for="author">Name:</label><br />
+<input tabindex="1" id="author" name="author" /></p>
+
+<p><label for="email">Email Address:</label><br />
+<input tabindex="2" id="email" name="email" /></p>
+</div>
+
+
+
+<p><label for="url">URL:</label><br />
+<input tabindex="3" type="text" name="url" id="url" />
+Remember Me?
+<input type="radio" id="remember" onclick="rememberMe(this.form)" name="bakecookie" /><label for="remember">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" />
+</p>
+
+<p><label for="text">Comments:</label> <br/>
+<textarea tabindex="4" name="text" rows="10" cols="50"></textarea></p>
+
+<div align="center">
+<input type="submit" name="preview" tabindex="5" 
+    value="&nbsp;Preview&nbsp;" />
+<input style="font-weight: bold;" type="submit" name="post" 
+    tabindex="6" value="&nbsp;Post&nbsp;" />
+</div>
+</form>
+
+
+
+
+<script type="text/javascript" language="javascript">
+<!--
+if (document.comments_form.email != undefined)
+    document.comments_form.email.value = getCookie("mtcmtmail");
+if (document.comments_form.author != undefined)
+    document.comments_form.author.value = getCookie("mtcmtauth");
+if (document.comments_form.url != undefined)
+    document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth") || getCookie("mtcmthome")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+
+
+
+
+</div>
+<!-- END BLOGS -->
+
+</div>
+<div class="spacer"></div>
+</div>
+<div id="bottombar">
+<div id="text">
+
+<a href="http://www.oliverweb.com/atom.xml"><img src="/images05/rssbadge.gif" width="36" height="14" border="0" alt="" /></a>
+
+Powered by <a href="http://www.movabletype.org">Movable Type 3.121</a>
+</div>
+</div>
+</div>
+</body>
+
+</html>

@@ -1,0 +1,89 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:4-->
+<title>OliverWEB - Discussing: Rain, Rain, go away....</title>
+</head>
+
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#0000FF">Rain, Rain, go away....</font> </b><font face="arial" size="1">Friday, October 20, 2000</font><br><font size="2" face="arial">Yo, man...it's rainin' here, and I'm feelin' kinda mellow...man.  I feel grrooooooooovyyy.....yeah...<br><br>Well, yeah I made another pointless update.  So what?  You got a problem wit' dat?  I didn't think so....Uhm....peace out, yo.  Oh, and enjoy my spam.<br><br><img src="C:\My Documents\Wes-Files\c3_animation.gif"><br>-<a href="mailto:holyyam@aol.com">Wes</a></p></font>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 542510-972618780 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>4</b> - Olivia</font> <font face=arial size=1>Thursday, October 26, 2000</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">24.27.15.212</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Olivia end_name end_fields--><!--ktalk start_comment-->I suppose nothing... just... lol =) <!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 542510-972618780 --><!--ktalk start_item 903932-972263371 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>3</b> - Wes</font> <font face=arial size=1>Sunday, October 22, 2000</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">205.188.200.147</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Wes end_name end_fields--><!--ktalk start_comment-->right....'swrong with that?<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 903932-972263371 --><!--ktalk start_item 534181-972248442 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>2</b> - olivia</font> <font face=arial size=1>Sunday, October 22, 2000</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">24.93.59.250</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name olivia end_name end_fields--><!--ktalk start_comment-->Eh.. spam?<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 534181-972248442 --><!--ktalk start_item 989137-972100478 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - Wes</font> <font face=arial size=1>Friday, October 20, 2000</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">172.130.147.184</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Wes end_name end_fields--><!--ktalk start_comment-->Wes feels stupid, for not having actually uploaded the above picture....<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 989137-972100478 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="972074054,17373,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->

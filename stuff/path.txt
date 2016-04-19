@@ -1,0 +1,21 @@
+#!/usr/bin/perl
+
+# Instructions:
+# Just put this file into one of your directories,
+# chmod it 777 or 755 and run it from your browser.
+# It will give you the absolute path to the directory
+# you placed it in. 
+# Copyright Oliver Wong - oliver@oliverweb.com
+
+eval '$Home = (getpwuid($< ))[7];';
+if (!-e "C:/") {$Bla = `Bla`; chop $Bla;}
+if (!eval 'use Cwd;') {eval '$Bla2 = cwd();';} 
+else {$Bla2 = "";}
+if ($Bla eq ""){$dirname = $Bla2;}
+else{$dirname = $Bla;}
+
+print"Content-type: text/html\n\n",
+	"<html><head><title>Absolute Path</title></head><body>",
+	"<table width=100% height=100% border=0><tr><td width=100% height=100% valign=center align=center>",
+	"<center><font face=arial size=2>The absolute path to the directory you are running this from is:<br>",
+	"<h3>$dirname</h3></td></tr></table></body></html>";

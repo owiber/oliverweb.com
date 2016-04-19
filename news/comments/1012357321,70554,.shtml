@@ -1,0 +1,47 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:1-->
+<title>OliverWEB - Discussing: SITE!</title>
+</head>
+
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">SITE!</font> </b><font face="arial" size="1">Tuesday, January 29, 2002</font><br><font size="2" face="arial">Hey! Guess what? Oliver bought me a domain awhile ago and Cathy and I put it up yesterday. Well, Cathy put it up because I don't know how. =) But anyway, check it out<br><br> <a href="http://www.hidden-smile.net">Hidden-Smile.net</a> <br><br>Yeah, well, just hope it works... dot easy hates me =( Like, right now (8:20pm)... it's not working > . <<br><b>-<a href="mailto:magestry@oliverweb.com">Olivia</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 174791-1012363762 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - Ochs</font> <font face=arial size=1>Tuesday, January 29, 2002</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">129.116.19.53</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Ochs end_name end_fields--><!--ktalk start_comment-->Neat site! Kudos to both of you. Keep up the HTML'ing Cat and teach Olivia some of your tricks. =)<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 174791-1012363762 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="1012357321,70554,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->

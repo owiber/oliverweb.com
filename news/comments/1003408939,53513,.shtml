@@ -1,0 +1,61 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:2-->
+<title>OliverWEB - Discussing: About Chad...</title>
+</head>
+
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">About Chad...</font> </b><font face="arial" size="1">Thursday, October 18, 2001</font><br><font size="2" face="arial">If you pay careful attention to this site, you will notice that the post directly below this one, as well as a few others on this page, came from Chad... trying to show off his webpage... You have to look carefully, because I do believe the addition of his name sort of camoflauges any post, but it is there.  When you find it, I have a request... do not, under any circumstances, post a comment, as this will surely make him sad.  Chad enjoys his posts having no comments, and if that were ever to change, Chad would surely explode (or implode, research data still out) So remember, no commenting... he hates us, we should ignore him =)<br><b>-<a href="mailto:minix1f@aol.com">Minix</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 292508-1003431005 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>2</b> - Chad</font> <font face=arial size=1>Thursday, October 18, 2001</font><br>
+      <font face=arial size=1><a href=mailto:nosliwc156@aol.com>nosliwc156@aol.com</a> (<font size="1">129.116.18.207</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email nosliwc156@aol.com end_email start_name Chad end_name end_fields--><!--ktalk start_comment-->Feel my wrath.  The slightly cool weather is a result of me and my season changing superpowers.  You will all perish from a rain of sulfur...<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 292508-1003431005 --><!--ktalk start_item 886581-1003413715 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - Suneet</font> <font face=arial size=1>Thursday, October 18, 2001</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">128.83.101.69</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Suneet end_name end_fields--><!--ktalk start_comment-->It's not like I comment frequently anyways.  =)<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 886581-1003413715 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="1003408939,53513,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->

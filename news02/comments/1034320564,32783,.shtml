@@ -1,0 +1,33 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:0-->
+<title>OliverWEB - Discussing: New Layout!</title>
+</head>
+
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#CC0000">New Layout!</font> </b><font face="arial" size="1">Friday, October 11, 2002</font><br><font size="2" face="arial">Well, here it is... and it's late... and there are still a few things I want to add and no doubt a few bugs... so I'll fix them later. =)<br><br>I also started fresh with the news (the old one still exists, don't worry... I'll link to it later =) so it should go faster now... I may even switch to another news script while I'm at it.. *shrug*<br><br>As a result, I'm the only one with access to the update script right now... cause I may be fooling around with it. So if you can<br><b>-<a href="mailto:oliver@oliverweb.com">Oliver</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="1034320564,32783,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->

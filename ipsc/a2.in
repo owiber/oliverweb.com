@@ -1,0 +1,116 @@
+---------------------------- BEGIN C CODE ----------------------------
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+int randseed=47;
+int A[7][7], B[7][7], C[7][7], D[7], E, F;
+char ch;
+
+int RANDOM() { return randseed=(randseed*5621+1)%65536; }
+
+void combine() {
+  int i,j,k;
+  for (i=0;i<7;i++) for (j=0;j<7;j++) {
+    C[i][j]=0; 
+    for (k=0;k<7;k++) C[i][j] += (A[i][k] * B[k][j]);
+    C[i][j]%=26;
+  }
+}
+
+int reduce(int x, int y) { if (!(x*y)) return x+y; return reduce(y,x%y); }
+
+int main(void){
+  int i,j,loop;
+  
+  for (i=0;i<7;i++) for (j=0;j<7;j++) A[i][j]=(i==j);
+  for (loop=0;loop<134620173;loop++) {
+    for (i=0;i<7;i++) for (j=0;j<7;j++) B[i][j]=(i==j);
+    i=RANDOM()%7; j=RANDOM()%7;
+    if (i==j) {
+      i=RANDOM()%26; while (reduce(i,26)>=2) i=RANDOM()%26;
+      B[j][j]=i; 
+    } else B[i][j]=1;
+    combine(); 
+    memcpy(A,C,sizeof(A));
+  }
+  
+  E=0;
+  while (!feof(stdin)) {
+    scanf("%c",&ch); if (ch<'A') continue; if (ch>'Z') continue;
+    D[E++]=ch-'A'; 
+
+    if (E==7) { 
+      for (i=0;i<7;i++) {
+        F=0; for (j=0;j<7;j++) F+=D[j]*A[j][i]; F%=26; 
+        printf("%c",F+'A');
+      }
+      E=0;
+    }
+  }
+  printf("\n");
+  return 0;
+}
+
+---------------------------- END C CODE ----------------------------
+
+---------------------------- BEGIN PASCAL CODE ----------------------------
+
+const rndseed : longint = 47; 
+var A, B, C : array[0..6,0..6] of longint; 
+    D : array[0..6] of longint;
+    E, F : longint; { assumption: longint = 32 bit signed int }
+    ch : char;
+
+function RND() : longint; begin rndseed:=(rndseed*5621 + 1) mod 65536; RND:=rndseed; end;
+
+procedure combine();
+var i, j, k : longint;
+begin
+   for i:=0 to 6 do for j:=0 to 6 do begin
+      C[i][j]:=0;
+      for k:=0 to 6 do C[i][j] := C[i][j] + A[i][k]*B[k][j];
+      C[i][j]:=C[i][j] mod 26;
+   end;
+end;
+
+function reduce(a,b : longint) : longint;
+begin if (a*b=0) then reduce:=a+b else reduce:=reduce(b,a mod b); end;
+
+var i,j,loop : longint;
+
+begin
+   for i:=0 to 6 do for j:=0 to 6 do if (i=j) then A[i][j]:=1 else A[i][j]:=0;
+   for loop:=0 to 134620172 do begin
+      for i:=0 to 6 do for j:=0 to 6 do if (i=j) then B[i][j]:=1 else B[i][j]:=0;
+      i:=RND() mod 7; j:=RND() mod 7;
+      if (i=j) then begin
+         i:=RND() mod 26; while (reduce(i,26)>=2) do i:=RND() mod 26;
+         B[j][j]:=i; 
+      end else B[i][j]:=1;
+      combine();
+      for i:=0 to 6 do for j:=0 to 6 do A[i][j]:=C[i][j];
+   end;
+
+   E:=0;
+   while not eof do begin
+      read(ch); if (ord(ch)<65) then continue; if (ord(ch)>90) then continue;
+      D[E]:=ord(ch)-65; inc(E);
+
+      if (E=7) then begin
+         for i:=0 to 6 do begin
+            F:=0; for j:=0 to 6 do F:=F + D[j]*A[j][i]; F:=F mod 26;
+            write(chr(F+65));
+         end;
+         E:=0;
+      end;
+   end;
+   writeln;
+end.
+
+---------------------------- END PASCAL CODE ----------------------------
+
+---------------------------- BEGIN OUTPUT FILE ----------------------------
+IPSCISAREALLYGREATCONTESTANDWEENJOYITVERYVERYMUCH
+---------------------------- END OUTPUT FILE ----------------------------

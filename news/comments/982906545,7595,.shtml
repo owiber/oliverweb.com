@@ -1,0 +1,106 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:5-->
+<title>OliverWEB - Discussing: ET Icon Fan Club</title>
+</head>
+<!--#if expr="${HTTP_COOKIE} = owebenter\=uvebeentold" -->
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">ET Icon Fan Club</font> </b><font face="arial" size="1">Thursday, February 22, 2001</font><br><font size="2" face="arial">I'm starting the ET Icon Fan Club... save one of the following pics and make it your AIM buddy icon. =)<br><br><center><img src=http://www.oliverweb.com/stuff/et.gif width=48 height=48 alt="ET!" border=1> <img src=http://www.oliverweb.com/stuff/et.gif width=48 height=48 alt="ET!" border=1> <img src=http://www.oliverweb.com/stuff/et.gif width=48 height=48 alt="ET!" border=1></center><br><br>All the same? Bah, use one of them anyways. =)<br><b>-<a href="mailto:oliver@oliverweb.com">Oliver</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 450587-984359396 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>5</b> - Cat</font> <font face=arial size=1>Sunday, March 11, 2001</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">24.27.15.30</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Cat end_name end_fields--><!--ktalk start_comment-->i have a firewall and i can still use AIM O.o<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 450587-984359396 --><!--ktalk start_item 118652-984256378 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>4</b> - Christine</font> <font face=arial size=1>Saturday, March 10, 2001</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">192.35.232.99</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Christine end_name end_fields--><!--ktalk start_comment-->i see... not really, i dont get it either, hehe<br>and im mad cuz i cant use aim cuz there's a firewall<br>or whatever that is!!!!!<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 118652-984256378 --><!--ktalk start_item 810935-984247141 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>3</b> - Cat</font> <font face=arial size=1>Saturday, March 10, 2001</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">4.40.162.67</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Cat end_name end_fields--><!--ktalk start_comment-->wells, i still don't get its... o.o;;...<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 810935-984247141 --><!--ktalk start_item 544430-983232661 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>2</b> - Sarah</font> <font face=arial size=1>Monday, February 26, 2001</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">63.11.186.10</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Sarah end_name end_fields--><!--ktalk start_comment-->hahaha.... I didn't get it until Olivia's comment<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 544430-983232661 --><!--ktalk start_item 86988-982982325 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - Olivia</font> <font face=arial size=1>Friday, February 23, 2001</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">24.93.59.132</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Olivia end_name end_fields--><!--ktalk start_comment-->You are so so so so so sosneotihweoirhnlwkejr;o2i3y5h;oiUS:)($#*_(@U#OIA!H$ )(*!#_(!I_# MEAN!!!!!!!!<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 86988-982982325 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="982906545,7595,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->
+<!--#else -->
+<!--#include virtual="../ssi/error.shtml" -->
+<!--#endif -->

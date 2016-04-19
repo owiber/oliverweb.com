@@ -1,0 +1,56 @@
+<html><head><title>OliverWEB - Login</title></head>
+<style><!-- 
+A:link {text-decoration: none}
+A:visited {text-decoration: none}
+A:active {text-decoration: none} 
+a:hover {color:blue; text-decoration: underline }
+--></style>
+
+<!--WHAT YOU LOOKING AT THIS SOURCE CODE FOR? HUH? YOU THINK YOU CAN FIND OUT A CLUE AS TO WHAT THE PASSWORD IS? WELL, YOU TELL ME WHAT IT IS! =)-->
+
+<body bgcolor="#000000" text="#E1E1E1" link="#0000FF" vlink="#0000A0" alink="#008080">
+<table width=100% height=100% cellpadding=0 cellspacing=0><tr>
+<td width=100% height=100% align=center valign=center>
+<center>
+<font face=arial>
+  <SCRIPT language="JavaScript">
+  <!--
+
+// Original JavaScript code by Duncan Crombie: dcrombie@chirp.com.au
+
+  var wabba = document.cookie; // retrieve cookie string
+
+  function getCookie(name) { // use: getCookie("name");
+    var index = wabba.indexOf(name + "=");
+    if (index == -1) return null;
+    index = wabba.indexOf("=", index) + 1;
+    var endstr = wabba.indexOf(";", index);
+    if (endstr == -1) endstr = wabba.length;
+    return unescape(wabba.substring(index, endstr));
+  }
+  if (getCookie("owebenter")) {
+    document.write('<meta http-equiv="Refresh" content="0;URL=http://www.oliverweb.com/main/home.shtml"><NOSCRIPT><!--');	
+	}
+//-->
+</SCRIPT>
+
+<img src=http://www.oliverweb.com/images/login.jpg width=434 height=212><br>
+<table cellpadding=0 cellspacing=0 border=0 align=center valign=top>
+<tr>
+<td align=center valign=center border=0><font face=arial>
+<form method=POST action="http://www.oliverweb.com/cgi-bin/login.cgi">
+PASSWORD: 
+<input type=password name='password' size=20 maxlength=20 style='font-family: Verdana; font-size: 15; background-color: rgb(0,0,0); color: rgb(192,192,192); border: 1px solid rgb(0,0,255)'>
+<input type=hidden name='login' value='1'>
+</td>
+<td align=center valign=center border=0><font face=arial>
+<input type=image src=../images/enter.jpg width=87 height=58 alt="Enter" border=0></form>
+</font>
+</td></tr></table>
+<font face=arial size=2>
+If you know me, but don't have the password, just <a href=mailto:oliver@oliverweb.com>mail me</a> and I'll send you the password today (usually, I'm online everyday.. heh =) sometime...<br><br>JavaScript and cookies required to enter OliverWEB.<br>
+<font size=1>Yes, a 'cookie' is an actual technical term, I'm not trying to be funny... if you don't know what it is, then don't worry about it. =)</font>
+</td></tr></table>
+</body></html>
+
+<!--I KNOW I'M DA BOMB-->

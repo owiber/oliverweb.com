@@ -1,0 +1,75 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:3-->
+<title>OliverWEB - Discussing: I'm back</title>
+</head>
+
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">I'm back</font> </b><font face="arial" size="1">Friday, July 12, 2002</font><br><font size="2" face="arial">I haven't posted on here in some time.  That's a shame, and it should be rectified.  I will do so now.<br><br>First of all, a <a href="http://www.mp3.com/phunky_eyelids">plug</a>.  Just click.<br><br>Anyway, I'm bored at the moment, and there are a few sites I visit to alleviate my boredom.  I have exhausted most of them, but I think I will give you all links to follow if you are also bored.<br><br><a href="http://www.x-entertainment.com">X-Entertainment</a>(don't worry, it's not pornography.  It is a review site.)<br><a href="http://www.mp3.com/phunky_eyelids">Once again, my plug =)</a><br><a href="http://www.penny-arcade.com">Penny Arcade</a><br><a href="http://www.homestarrunner.com">Homestarrunner</a><br><a href="http://www.whattheheck.com">What the heck?</a><br><a href="http://www.cafepress.com/ubershirts">buy stuff</a><br><a href="http://www.mp3.com/phunky_eyelids">pluggity plug plug</a><br><a href="http://www.weezer.com">Weezer!!!</a><br><br>Oh, and remember this?<br><br><img src="http://www.oliverweb.com/newsimages/SupermanSmall.jpg"><br><b>-<a href="mailto:phunkyeyelids@aol.com">Wes</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 44150-1026549923 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>3</b> - Wes</font> <font face=arial size=1>Saturday, July 13, 2002</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">152.163.189.234</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Wes end_name end_fields--><!--ktalk start_comment-->Darn.  I forgot you can't do that in the comments =(<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 44150-1026549923 --><!--ktalk start_item 176901-1026549886 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>2</b> - Wes</font> <font face=arial size=1>Saturday, July 13, 2002</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">152.163.189.234</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Wes end_name end_fields--><!--ktalk start_comment-->&lt;a href=&quot;http://www.mp3.com/phunky_eyelids&quot;&gt;=)&lt;/a&gt;<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 176901-1026549886 --><!--ktalk start_item 583455-1026520558 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - Minix</font> <font face=arial size=1>Friday, July 12, 2002</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">66.68.129.175</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Minix end_name end_fields--><!--ktalk start_comment-->Wow, its good that you reminded me of that picture, because just yesterday I forgot all about it, but now it's in my memory for atleast another 4 weeks =)  you're the greatest Wes!<br><br>... no, seriously, you are.<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 583455-1026520558 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="1026456994,18041,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->

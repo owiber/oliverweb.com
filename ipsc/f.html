@@ -1,0 +1,90 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Strict//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <meta name="description" content="Internet Problem Solving Contest (IPSC) is an online programming contest for teams up three people.">
+  <meta name="keywords" content="IPSC, programming, contest, online contest">
+  <title>IPSC 2004 -  Problem&nbsp;F - Fat Rat</title>
+  <link rel="stylesheet" type="text/css" href="main.css">
+  </head>
+  <body>
+<div class="title">
+<div class="ipscimg">
+<a href="http://ipsc.ksp.sk/index.php?auth=1"><img src="ipsc.gif"
+alt="IPSC Logo"></a>
+</div>
+<div class="nadpis">
+<h1>Internet Problem Solving Contest</h1>
+<h2>IPSC 2004<br> Problem&nbsp;F - Fat Rat</h2>
+</div>
+</div>
+<div class="telo">
+<ul>
+<li><a href="f1.in">Easy input data set - F1</a></li>
+<li><a href="f2.in">Difficult input data set - F2</a></li>
+</ul>
+
+<p>
+Johnny the Rat lives in the sewer system. He enjoys walking through
+the pipes.  Johnny is quite fat; actually it is almost impossible to
+distinguish him from a sphere, yet he used to be able to pass through
+all the pipes comfortably.
+</p>
+
+<p>
+Unfortunately, things have changed now.  With the expansion of the
+Internet, some providers place their cables even in the sewer pipes!
+Johnny is worried that he may get stuck in one of his favourite
+pipes. Please help him to determine through which pipes he can still
+pass.
+</p>
+
+<h3>Input Specification</h3>
+<p>
+The first line of the input file contains two numbers: <b>J</b> &ndash; diameter of
+Johnny the Rat and <b>P</b> &ndash; the number of Johnny's favourite pipes. The
+specification of the <b>P</b> pipes follows.
+</p>
+
+<p>
+Description of each pipes starts with a line containing two numbers: <b>D</b>
+&ndash; diameter of the pipe and <b>N</b> &ndash; the number of cables crossing
+the pipe. The shape of the pipe is a cylinder of an infinite height, with
+diameter <b>D</b>, and its axis coincides with the <b>z</b>-axis of the
+coordinate system.  Each of the next N lines contains 7 real numbers
+(<b>x<sub>1</sub></b>, <b>y<sub>1</sub></b>, <b>z<sub>1</sub></b>,
+<b>x<sub>2</sub></b>, <b>y<sub>2</sub></b>, <b>z<sub>2</sub></b>, <b>d</b>)
+specifying one cable. Shape of a cable is a cylinder of an infinite height,
+with axis
+<b>[x<sub>1</sub>,y<sub>1</sub>,z<sub>1</sub>][x<sub>2</sub>,y<sub>2</sub>,z<sub>2</sub>]</b>,
+and with diameter <b>d</b>.
+</p>
+
+<h3>Output specification</h3>
+<p>
+Output file should contain one line for each pipe with a single word "YES",
+if it is possible for Johnny to walk through the pipe without crossing the
+cables, or "NO" otherwise.
+</p>
+
+<h3>Example</h3>
+<b>Input:</b><br>
+<pre>
+3 2
+7 1
+-2 0 0 -2 1 0 1.5
+7 2
+-2 0 0 -2 1 0 1.5
+2 0 0 2 1 0 1.5
+</pre>
+
+<b>Output:</b><br>
+<pre>
+YES
+NO
+</pre>
+
+</div>
+
+</body>
+</html>

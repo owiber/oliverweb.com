@@ -1,0 +1,50 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:1-->
+<title>OliverWEB - Discussing: Kickin' it in the hizouse on the west saiyeed</title>
+</head>
+<!--#if expr="${HTTP_COOKIE} = owebenter\=uvebeentold" -->
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">Kickin' it in the hizouse on the west saiyeed</font> </b><font face="arial" size="1">Saturday, April 14, 2001 <!--(7:21:49)--></font><br><font size="2" face="arial">^that's eubonics...or however you spell that...or should I say <i>spizznell</i>?  Hardy har har.  Anyway....I decided that since i haven't put in any kind of news in a while, that I should.  So that's what's going on.  Having fun yet?  I thought so.  Well, I suppose I'll tell you what's going on in Wes's Life.<br><br>Last night, two of my friends and I went to downtown Fort Worth in my redneck rig(my truck).  Sitting in the back were a bunch of instruments and my friend Josh...just to make sure nothing flew out or got jacked while we sat at a red light.  We drove around forever, trying to find a corner where we could park and unload and stuff, but we couldn't...then we pulled up to this stoplight, and my friend Cliff hopped out and grabbed a guitar and ran to a corner.  Then the other guy, Josh, and I drove around for eternity trying to find somewhere close by to park.  Finally, we parked at another red light right by the corner Cliff had claimed, and they unloaded the truck with blinding speed that would shame superman!  Then I went to a parking garage and proceeded up, then foolishly drove in the same circle for about five minutes before realizing that I had seen one car in particular about three times already...I felt positively stupid.  Well, I finally parked and grabbed the bass guitar that was in there, and went to the corner, recieving a Christian track thingy on the way that said "Are You a Survivor?" like the show...  Well anyway I got to the corner, and we set up and started by playing "Friends in Low Places," and a couple more, and then....a cop came and told us to quiet down.  Someone in the apartmets across the street had complained.  Darn.  So we went acoustics, but the drummer couldn't hear me, so I hooked up to the little amp, and we played quite quietly, gaining about four bucks because we so good, and then....lo and behold here came the cop.  Darn.  So they began packing up, and I walked to the parking garage a few blocks away, then right as I had gotten up three flights of stairs, then walked one level up, I checked my pockets, and.....<B>NO KEYS!!!  WHERE ARE MY KEYYYS!?!?!  I JUST WALKED FOR TEN MINUTES TO GET HERE AND I HAVE NO KEYS!!!!</B> <i>Okay....calm....deep breaths...let's just calm down...there must be some way out of this nasty situation....  </I> Then, I remembered something.  I reached deep into my pockets, and I fished around a bit, pulled out my wallet, and opened it, only to discover.....*triumphant music*  KEYS!!! I always keep a spare set of keys in my wallet for events JUST LIKE THIS!!! YYAYAYAAAAAAAAYYYY!!!  Well, the rest is really quite inconsequential.  I went to the corner, we packed up, drove around for a parking space, for the garage thing was absolutely out of the question, then we went into a lot, right as someone was leaving, and spent a looong time trying to pack a big amplifier, a bass drum, three toms, two snares, four cymbals, a small amp, a head, and three guitars into the cab of my truck so they wouldn't be stolen by the evil folk of downtown.  Good thing too, because it started raining later...Well, when it began raining, we ran into this place called the Coffee Haus, where I got a root beer, Josh got a Dr. Pepper, and Cliff got their strongest coffee drink:  Rocket Fuel, into which he placed about 8 chocolate-covered espresso beans, and about 12 packets of sugar(and it was so strong that even after all that sugar, it was still incredibly bitter and coffee-tasting).  He did not sleep that night.  Well, we played some chess, and then the nice employees to which we are eternally grateful granted us some trash bags to cover our equipment with when we moved it to the back of my truck.  All in all, I'd say it was a pretty good night, which I enjoyed quite a bit.  I will do this again next friday, but this time, we'll get a permit to play guitar and drums and All Manner of Things on the street corner.  <br><br><br>Sorry that this is so long...I don't have anywhere else to put it...however, as an apology, here is a sandwich!!!<br><center><img src="http://hometown.aol.com/holyyam/images/eat the sammich.jpg"></center><br><b>-<a href="mailto:holyyam@aol.com">Wes</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 323129-987358299 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - Olivia</font> <font face=arial size=1>Sunday, April 15, 2001 <!--(1:11:39)--></font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">24.27.52.186</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Olivia end_name end_fields--><!--ktalk start_comment-->Very interesting life you got there Wes... let's see... last night I just went out to eat and saw a movie... oooh... lol =)<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 323129-987358299 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="987294109,70913,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->
+<!--#else -->
+<!--#include virtual="../ssi/error.shtml" -->
+<!--#endif -->

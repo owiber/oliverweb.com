@@ -1,0 +1,75 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:3-->
+<title>OliverWEB - Discussing: The Funniest joke ever!!!</title>
+</head>
+
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">The Funniest joke ever!!!</font> </b><font face="arial" size="1">Sunday, January 6, 2002</font><br><font size="2" face="arial">It's because I'm nice, that I'm granting you all the <a href = "http://www.boston.com/news/daily/20/jokes.htm">"Scientifically funniest joke of all time"</a><br><br><i><center>"Sherlock Holmes and Dr. Watson go camping, and pitch their tent under the stars. During the night, Holmes wakes his companion and says: 'Watson, look up at the stars, and tell me what you deduce.'<br><br>Watson says: 'I see millions of stars, and even if a few of those have planets, it's quite likely there are some planets like Earth, and if there are a few planets like Earth out there, there might also be life.'<br><br>Holmes replies: 'Watson, you idiot. Somebody stole our tent'."</i></center><br><br>personally... I don't agree, but ahwell =)<br><br><b>-<a href="mailto:minix@mail.utexas.edu">Minix</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 650617-1010485520 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>3</b> - nancy</font> <font face=arial size=1>Tuesday, January 8, 2002</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">63.232.119.122</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name nancy end_name end_fields--><!--ktalk start_comment-->yup i expected more<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 650617-1010485520 --><!--ktalk start_item 888808-1010446581 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>2</b> - Brook</font> <font face=arial size=1>Monday, January 7, 2002</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">24.27.16.194</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Brook end_name end_fields--><!--ktalk start_comment-->Haha i get it... cuz there should be a tent there... ha... stars... im thirsty now... get me a drink.<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 888808-1010446581 --><!--ktalk start_item 879297-1010377630 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - Olivia</font> <font face=arial size=1>Sunday, January 6, 2002</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">66.25.208.43</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Olivia end_name end_fields--><!--ktalk start_comment-->How... funny...<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 879297-1010377630 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="1010375218,55122,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->

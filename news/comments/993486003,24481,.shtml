@@ -1,0 +1,92 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:4-->
+<title>OliverWEB - Discussing: Memorable Moments</title>
+</head>
+<!--#if expr="${HTTP_COOKIE} = owebenter\=uvebeentold" -->
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">Memorable Moments</font> </b><font face="arial" size="1">Monday, June 25, 2001 <!--(11:20:03)--></font><br><font size="2" face="arial">Was looking through the quote archives... just thought I'd throw some of the quotes up here for fun. =)<blockquote><i>"Yes, my Hard Drive is being used up at a constantly increasing rate no thanks to your no good scum sucking emails so if you don't mind, then STOP GIVING ME THOSE !#$%!!$! THINGS!!!!!! Ahem, if you see me in the halls next year you better either run real fast or else smash yourself into the brick wall and save me the trouble, okay? Oh yeah, have a nice day." -Van<br><br>"I AM YODA!!!!" -Olivia<br><br>"Backstreet Boys and NSync are almost exactly alike, I don't know how people can say one is better than the other. Personally, I like NSync better." - "Anon"<br><br>"stupid Sarah " -Oliver<br><br>"If I were a fruit, I'd like to be one with pink tights and fake boobys like you see on 6th street." -Chad<br><br>"Hey, is that Santa Claus? He gives me lovely presents, just like my furry easter rabitts hand out eggs, to iraq got bombed today in a series of star wars is a bad movie" -Minix<br><br>"Stuff that not mean we think was stuff that was we dont" -Minix<br><br>LASSIE'S A BLONDE TOOOOOOO! yay!!!! " -Sarah</i></blockquote><br>Well, those are a few that stood out for now... I'd just like to note that a lot of Minix's quotes seem like random words just thrown in there and make no sense at all. =) Speaking of quotes, I think I'm goin to redo the whole random quote generator thing up there... hasn't had a revamp in a year or so. =)<br><b>-<a href="mailto:oliver@oliverweb.com">Oliver</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 65653-993514314 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>4</b> - Olivia</font> <font face=arial size=1>Monday, June 25, 2001 <!--(7:11:54)--></font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">66.25.138.7</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Olivia end_name end_fields--><!--ktalk start_comment-->Btw, random quote thing sounds good =) Adding/changing it.. yeah =)<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 65653-993514314 --><!--ktalk start_item 464031-993514211 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>3</b> - Olivia</font> <font face=arial size=1>Monday, June 25, 2001 <!--(7:10:11)--></font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">66.25.138.7</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Olivia end_name end_fields--><!--ktalk start_comment-->Haha... I am yoda... I was jumping on the bed when I said that I think... yeah.. stupid me =)<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 464031-993514211 --><!--ktalk start_item 626608-993498064 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>2</b> - Minix</font> <font face=arial size=1>Monday, June 25, 2001 <!--(2:41:04)--></font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">66.25.138.7</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Minix end_name end_fields--><!--ktalk start_comment-->Lala, got the html code, and did a search for different colors and name... =) meaning that some of the original ones werent counted, but I thought, ahwell... Counting the number of times people were quoted would be interesting but much harder... almost have to be manual, because a lot of them weren't just &quot; -Minix  they're &quot; -The Big tall idiotnamed minix... a few would probably be missed... but i can try.<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 626608-993498064 --><!--ktalk start_item 134211-993486138 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - <font color="#003399">Oliver</font></font> <font face=arial size=1>Monday, June 25, 2001 <!--(11:22:18)--></font><br>
+      <font face=arial size=1><a href=mailto:oliver@oliverweb.com>oliver@oliverweb.com</a> (<font size="1" face="Arial">IP Hidden</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email oliver@oliverweb.com end_email start_name Oliver end_name end_fields--><!--ktalk start_comment-->Hey Matt, why don't you count the number of times people were quoted? =)<br><br>Also, how did you count the comments/quotes on the page? I doubt you did it manually... unless if you were REALLY bored... did you do a search/replace?<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 134211-993486138 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="993486003,24481,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->
+<!--#else -->
+<!--#include virtual="../ssi/error.shtml" -->
+<!--#endif -->

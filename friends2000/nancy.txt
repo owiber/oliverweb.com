@@ -1,0 +1,9 @@
+<!--Oliver is da bomb! hehe-->
+<ul><li><input type="radio" name="quotenum" value="2">
+<b>"That general in Mulan is not cute! He's like weird looking, haha... no offense... Now Terry from Batman Beyond... =) *Cough* =) lol Ne'er mind =) tee hee"</b> [<u><font color=#FF80C0>Christine</font></u>]
+<!--o 2--><ul>
+</ul></li></ul><p>
+<ul><li><input type="radio" name="quotenum" value="1">
+<b>"Jeah! =) Hey, I read A Tree Grows in Brooklyn, Grace made me. =) Or do I not count because I'm 95% not male? *sigh*... Oh yeah, and the angel smiley face is O:-) =)"</b> [<u><font color=#0000FF>Oliver</font></u>]
+<!--o 1--><ul>
+</ul></li></ul><p>

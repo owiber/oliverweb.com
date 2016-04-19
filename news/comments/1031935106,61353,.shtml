@@ -1,0 +1,75 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:3-->
+<title>OliverWEB - Discussing: IT'S.... FRIDAY!!!!</title>
+</head>
+
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">IT'S.... FRIDAY!!!!</font> </b><font face="arial" size="1">Friday, September 13, 2002</font><br><font size="2" face="arial">The week is <i>done!</i> w00t =)<br><br>Now... gotta take a shower and turn in CS336 homework, then weekend time! =)<br><br>So, I think I'm gonna get a new wireless AP cause the one I have right now is not the bomb... probably will get a "cheap" $80ish d-link one... unless if anyone else has any suggestions or negative comments regarding the d-link...<br><br>I think Van got that one though and it's been working well?<br><br>I've been surprised by my abilities to wake up on time these past few weeks... I even get up before my alarm clock goes off sometimes! Perhaps it's the re-aquirement of a regular sleep pattern... =)<br><b>-<a href="mailto:oliver@oliverweb.com">Oliver</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 862775-1031980061 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>3</b> - <font color="#003399">Oliver</font></font> <font face=arial size=1>Friday, September 13, 2002</font><br>
+      <font face=arial size=1><a href=mailto:oliver@oliverweb.com>oliver@oliverweb.com</a> (<font size="1" face="Arial">IP Hidden</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email oliver@oliverweb.com end_email start_name Oliver end_name end_fields--><!--ktalk start_comment-->Eh, I don't want a router... and why would I go for something more expensive off of ebay?<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 862775-1031980061 --><!--ktalk start_item 968512-1031971914 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>2</b> - Ochs</font> <font face=arial size=1>Friday, September 13, 2002</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">67.64.79.33</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Ochs end_name end_fields--><!--ktalk start_comment-->Yeah.. agreed Minix! I work all week long for real... then onthe weekend.. i get to do HW!... SIGH! Wong- I think you can find the LinkSYS WAP/ROUTER for like 125 or so on ebay... not a bad deal considering the combo...Van's D-Link is 1337! =) Go EVIL VAN GO! hehe<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 968512-1031971914 --><!--ktalk start_item 26638-1031954497 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - Minix</font> <font face=arial size=1>Friday, September 13, 2002</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">66.136.200.79</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Minix end_name end_fields--><!--ktalk start_comment-->WEEKEND! WAHOO!!  Now for work.<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 26638-1031954497 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="1031935106,61353,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->

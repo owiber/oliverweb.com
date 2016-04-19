@@ -1,0 +1,258 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Strict//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <meta name="description" content="Internet Problem Solving Contest (IPSC) is an online programming contest for teams up three people.">
+  <meta name="keywords" content="IPSC, programming, contest, online contest">
+  <title>IPSC 2004 -  Problem&nbsp;G - Gets and Puts</title>
+  <link rel="stylesheet" type="text/css" href="main.css">
+  </head>
+  <body>
+<div class="title">
+<div class="ipscimg">
+<a href="http://ipsc.ksp.sk/index.php?auth=1"><img src="ipsc.gif"
+alt="IPSC Logo"></a>
+</div>
+<div class="nadpis">
+<h1>Internet Problem Solving Contest</h1>
+<h2>IPSC 2004<br> Problem&nbsp;G - Gets and Puts</h2>
+</div>
+</div>
+<div class="telo">
+<ul>
+<li>This problem has no input</li>
+</ul>
+
+<p> Last year, the IPSC contestants had a hard time to understand a
+piece of code written in PostScript.  Our invesigation revealed that
+the main cause was the use of a stack.  To make this year's problems
+easier, we decided to replace stacks with much more intuitive data
+structure: a queue.  </p>
+
+<p> <i> A queue is a data structure that supports two operations: Put
+(insert an element into the queue) and Get (remove and return the
+element that has been in the queue for the longest time). Just like a
+queue in a shop &ndash; new customers are "inserted into the queue" at
+the end while the customer at the beginning of the queue is served and
+leaves.  </i> </p>
+
+<p> We will define a simple programming language <b>Quack</b>. Quack
+uses a single queue to store (almost) all the data. At the start of
+the program, this queue is empty.  The only data type in Quack is
+<b>number</b>: an integer from the range 0-65535.  All mathematical
+operations are computed modulo 65536. (For example,
+<b>65530+10=4</b>.) In addition to the queue, Quack has 26 registers
+denoted by lowercase letters (i.e. <b>a-z</b>). Each register holds
+one <b>number</b>.  </p>
+
+<p> A program is a sequence of commands separated by whitespaces.  The
+first character determines the command, optionally followed by
+parameters. The commands are defined below: </p>
+
+<h4>Arithmetic operations</h4>
+
+<table border=1 cellspacing=0>
+  <tr>
+    <th>operation</th>
+    <th>description</th>
+  </tr>
+  <tr>
+    <td><b>+</b></td>
+    <td>Addition: get <b>x</b>, get <b>y</b>, put <b>(x+y) modulo 65536</b>.</td>
+  </tr>
+  <tr>
+    <td><b>-</b></td>
+    <td>Subtraction: get <b>x</b>, get <b>y</b>, put <b>(x-y) modulo 65536</b>.</td>
+  </tr>
+  <tr>
+    <td><b>*</b></td>
+    <td>Multiplication: get <b>x</b>, get <b>y</b>, put <b>(x*y) modulo 65536</b>.</td>
+  </tr>
+  <tr>
+    <td><b>/</b></td>
+    <td>Integer division: get <b>x</b>, get <b>y</b>, put <b>x div y</b>. (<b>y</b> mustn't be zero)</td>
+  </tr>
+  <tr>
+    <td><b>%</b></td>
+    <td>Modulo: get <b>x</b>, get <b>y</b>, put <b>x modulo y</b>. (<b>y</b> mustn't be zero)</td>
+  </tr>
+</table>
+
+<p>&nbsp;</p>
+
+<h4>Operations with the queue and the registers</h4>
+  
+<table border=1 cellspacing=0>
+  <tr>
+    <th>Command</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><b>&gt;</b>[register]</td>
+    <td>Get into register: get <b>x</b>, set the value of [register] to <b>x</b>.</td>
+  </tr>
+  <tr>
+    <td><b>&lt;</b>[register]</td>
+    <td>Put from register: put the value of [register].</td>
+  </tr>
+  <tr>
+    <td><b>P</b></td>
+    <td>Print: get <b>x</b>, print <b>x</b> to the standard output, print a newline.</td>
+  </tr>
+  <tr>
+    <td><b>P</b>[register]</td>
+    <td>Print register: print the value of [register] to the standard output, print a newline.</td>
+  </tr>
+  <tr>
+    <td><b>C</b></td>
+    <td>Print as char: get <b>x</b>, print the character with ASCII code
+        <b>x modulo 256</b> to the standard output.</td>
+  </tr>
+  <tr>
+    <td><b>C</b>[register]</td>
+    <td>Print register as char: print the character with ASCII code
+        <b>x modulo 256</b> (where <b>x</b> is the value of [register]) to the standard output.</td>
+  </tr>
+</table>
+
+<p>&nbsp;</p>
+
+<h4>Jumps</h4>
+
+<table border=1 cellspacing=0>
+  <tr>
+    <th>Command</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><b>:</b>[label]</td>
+    <td>Label: this line of the program has the label [label].</td>
+  </tr>
+  <tr>
+    <td><b>J</b>[label]</td>
+    <td>Jump (unconditional): the execution of the program continues on the line with the label [label].</td>
+  </tr>
+  <tr>
+    <td><b>Z</b>[register][label]</td>
+    <td>Jump if zero: if the value of [register] is zero, 
+        the execution of the program continues on the line with the label [label].</td>
+  </tr>
+  <tr>
+    <td><b>E</b>[register1][register2][label]</td>
+    <td>Jump if equal: if the values of [register1] and [register2] are equal, 
+        the execution of the program continues on the line with the label [label].</td>
+  </tr>
+  <tr>
+    <td><b>G</b>[register1][register2][label]</td>
+    <td>Jump if greater: if the value of [register1] is greater than the value of [register2], 
+        the execution of the program continues on the line with the label [label].</td>
+  </tr>
+</table>
+
+<p>&nbsp;</p>
+
+<h4>Other</h4>
+
+<table border=1 cellspacing=0>
+  <tr>
+    <th>Command</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><b>Q</b></td>
+    <td>Quit: terminate the execution of the program. The program also 
+        terminates if the instruction pointer reaches the end of 
+        the program.</td>
+  </tr>
+  <tr>
+    <td>[number]</td>
+    <td>Put a number: <b>If the first letter of a command doesn't 
+        match any of the previous lines</b>, try to convert the 
+        command to a number and put in in the queue.</td>
+  </tr>
+</table>
+
+<p>&nbsp;</p>
+
+<h4>Example</h4>
+
+<p>
+The following program computes the sum 1 + 2 + ... + 20. 
+</p>
+
+<pre>
+20
+0
+:start
+&gt;a
+Zaend
+&lt;a
+&lt;a
+1
++
+-
+&gt;b
+&lt;b
+Jstart
+:end
+P
+</pre>
+
+<p>
+Every time the execution of this program reaches the third line (the
+line with the label "start"), the queue contains exactly two numbers:
+the first is <b>N</b>, the second is the sum <b>(N+1) + ... +
+20</b>. The number <b>N</b> is loaded into the register <b>a</b>.  If
+it is already zero, the program jumps to the line with the label
+"end", prints the computed sum, and quits. Otherwise, we want to add
+<b>N</b> to the partial sum and decrease it.  After the eighth
+instruction (put 1) the queue contains the values: <b>PartialSum, N,
+N, 1</b>.  The following two instructions compute <b>PartialSum+N</b>
+and <b>N-1</b>. Finally, we place them in the correct order and repeat
+the loop.  </p>
+
+<p>&nbsp;</p>
+
+<h3>Interpreter</h3>
+
+<p>
+For your convenience we provide you with an interpreter of this
+programming language. You may either <a
+href="http://foja.dcs.fmph.uniba.sk/~misof/quack/interpreter.cc">download
+and compile it</a> (you need a C++ compiler and STL to compile it) or
+use this <a href="http://foja.dcs.fmph.uniba.sk/~misof/quack/">web
+form</a>. Please don't overuse the web form so that everyone gets a
+chance to use it.  </p>
+
+<h3>Task</h3>
+
+<ul> <li> <b>Easy:</b> Write a sorting program in Quack. The input is
+a sequence of positive <b>numbers</b> which is placed in the queue
+before your program is executed. Your program should print these
+numbers in non-descending order. Your program will be tested on
+various sequences. Each sequence will contain at least 1 and at most
+250 numbers.
+
+<i>(Note that you may test your program by simply writing the input
+sequence as the first few lines of the code.)</i>
+
+<li> <b>Hard:</b> Write a quine in Quack. A quine is a program that
+prints its own source. Due to various encodings of a newline on
+different platforms we allow the program and its output to slightly
+differ in whitespaces (i.e. we will use <a
+href="http://www.hmug.org/man/1/diff.html">diff -b</a> to compare the
+program and its output).
+
+</ul>
+
+<h3>Limits</h3>
+
+<p> Execution of your program may not take more than one million steps
+to finish.  If this limit is exceeded, the program will be
+terminated. In such case you will receive a message "Too many steps."
+and your submission will be rejected.
+</p>
+</div>
+
+</body>
+</html>

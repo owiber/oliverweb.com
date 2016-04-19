@@ -1,0 +1,89 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:4-->
+<title>OliverWEB - Discussing: For you</title>
+</head>
+
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">For you</font> </b><font face="arial" size="1">Thursday, October 3, 2002</font><br><font size="2" face="arial">RISC TAK3R: going with the flow.. dancing in the street<br>RISC TAK3R: addidas on my feet<br>RISC TAK3R: yo as i flow .. with my homie at my side.... rolling in my ride..<br>RISC TAK3R: a 93 camry red is the color , toyota is the make<br>RISC TAK3R: i can run all day.. a porsche i cant take..<br>RISC TAK3R: lol..<br>RISC TAK3R: and i could keep going..<br>RISC TAK3R: man.. i have been getting good at flowing! =)<br><b>-<a href="mailto:minix@mail.utexas.edu">Minix</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 794113-1034309510 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>4</b> - Minix</font> <font face=arial size=1>Thursday, October 10, 2002</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">66.141.43.60</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Minix end_name end_fields--><!--ktalk start_comment-->scary scary<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 794113-1034309510 --><!--ktalk start_item 727847-1034195228 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>3</b> - Ochs</font> <font face=arial size=1>Wednesday, October 9, 2002</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">128.83.173.77</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Ochs end_name end_fields--><!--ktalk start_comment-->That would be me,Cant you see, Quite c-o-n, contrar...y,Bustin up da rhymes, To make the time go by,Sittin here at business school,Showin up sean da fool,Cause he dont know da golden rule,Do one unto another, As you would do yoself,Practice what you preach boi,O then again learn how to spell...ok...that was another lame attempt at me rapping. I actually did come up with those lyrics in &quot;real time&quot;....hehe just joking too Sean.. we know you dun mean no harm.. btw.. when you gonna have a free weekend for all of us coming down. Well.. not all of us.. but Viraj and I.. and whoever wants to come watch viraj and I bicker and fight all weekend long...Hehe! =)<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 727847-1034195228 --><!--ktalk start_item 601140-1034177581 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>2</b> - Sean</font> <font face=arial size=1>Wednesday, October 9, 2002</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">128.194.131.87</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Sean end_name end_fields--><!--ktalk start_comment-->Add in gay to your hybrid mix and I think you hit the combo right on the bat Ochs. That would definetly be you. JK, somewhat.<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 601140-1034177581 --><!--ktalk start_item 178326-1033706295 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - Minix</font> <font face=arial size=1>Thursday, October 3, 2002</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">66.141.43.60</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Minix end_name end_fields--><!--ktalk start_comment-->RISC TAK3R: im not eminiem yet.. but i am no lame whitie either<br>RISC TAK3R: i am somwhere.. in the middle..<br>RISC TAK3R: i am a hybird black, white, azian wannabe<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 178326-1033706295 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="1033706172,18457,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->

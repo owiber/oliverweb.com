@@ -1,0 +1,50 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:1-->
+<title>OliverWEB - Discussing: Tuesday</title>
+</head>
+<!--#if expr="${HTTP_COOKIE} = owebenter\=uvebeentold" -->
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">Tuesday</font> </b><font face="arial" size="1">Tuesday, March 13, 2001</font><br><font size="2" face="arial">Yes, it's time for the OliverWEB Spring Break mini-series to continue!<blockquote><img src=http://www.oliverweb.com/stuff/hellhare.jpg width=150 height=111 align=right border=0 alt="HellHare - by Wes">...so in order to take over every nuclear silo in the world, BadGuyBunnyRabbit turned into... HellHare! <font size=1>(HellHare a creation of <a href=http://www.hometown.aol.com/holyyam target=new>Wes</a>)</font> So off went HellHare... he started off in Vatican City, Andorra, Barbados, and Tuvalu, but soon discovered... that those countries don't have any nuclear weapons and are among the smallest in the world. <i>"Seelly raaavvvit,"</i> it said to itself. On to the United States of America!!! It was at this very moment that HellHare saw a small chicken cross a small dirt road in the country of Palau, just as a truck full of hay was nearing...</blockquote>WILL THE CHICKEN SURVIVE THE CROSSING OF THE ROAD?!<br><br>WILL HELLHARE TAKE OVER THE WORLD?!<br><br>STAY TUNED, RABBITWATCHERS, AT THE SAME RABBITTIME (well, not really), THE SAME RABBITCHANNEL (well... no), THE SAME RABBITDATE (nope), AND THE SAME RABBITWEBSITE (well... alright)!!!<br><b>-<a href="mailto:oliver@oliverweb.com">Oliver</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 566538-984530772 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - Olivia</font> <font face=arial size=1>Tuesday, March 13, 2001</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">24.28.80.117</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Olivia end_name end_fields--><!--ktalk start_comment-->Very... amusing =)<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 566538-984530772 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="984530709,17467,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->
+<!--#else -->
+<!--#include virtual="../ssi/error.shtml" -->
+<!--#endif -->

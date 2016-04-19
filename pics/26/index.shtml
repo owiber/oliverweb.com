@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>
+OliverWEB - Pictures
+</title></head>
+<!--#include virtual="../../ssi/top.shtml"-->
+<center><h2><font color=blue>Pics!</font></h2><p>
+<!--#include virtual="../contents.txt"-->
+
+<img src=van.jpg width=180 height=220><br>
+Van: "Hey." =) <p>
+
+<img src=opencup.jpg width=250 height=315><br>
+Van keeps on taking surprise pictures of me... =)<p>
+
+<img src=olivertired.jpg width=300 height=159><br>
+We didn't get too much sleep on the ride to Plano...<p>
+
+<img src=vantired.jpg width=300 height=170><br>
+...so we fell asleep pretty fast... =)<p>
+
+<!--#include virtual="../contents.txt"-->
+<!--#include virtual="../../ssi/bottom.shtml"-->

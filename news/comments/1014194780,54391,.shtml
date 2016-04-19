@@ -1,0 +1,75 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:3-->
+<title>OliverWEB - Discussing: OliverWEB</title>
+</head>
+
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">OliverWEB</font> </b><font face="arial" size="1">Wednesday, February 20, 2002</font><br><font size="2" face="arial">Ugh, I know I know... OWeb's been dead lately. I've kinda run into a problem... whenever I feel creative, I try to invest that creativity into <a href=http://www.mrtechhappy.com>MrTechHappy</a>. Which is good and all, except that I run out of ideas for OWeb. =/<br><br>Well, I do have my camera again, so I guess I can put up more pics, but I'm just going to go now after I've talked a bit here about how neglected OWeb's become. =)<br><br>I need ideas... hmmm...<br><b>-<a href="mailto:oliver@oliverweb.com">Oliver</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 667434-1014733441 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>3</b> - Suneet</font> <font face=arial size=1>Tuesday, February 26, 2002</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">128.83.101.63</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Suneet end_name end_fields--><!--ktalk start_comment-->Interesting idea, Sean. This site would then turn into a &quot;slam table&quot; (us UT folks know what that is). Not sure if that's what Oliver wants.  =)<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 667434-1014733441 --><!--ktalk start_item 232851-1014219832 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>2</b> - Sean</font> <font face=arial size=1>Wednesday, February 20, 2002</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">165.91.172.163</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Sean end_name end_fields--><!--ktalk start_comment-->HOw about you do a special article on messing with the minds of MrTechHappy Competition. Go out and find other online comics and just do crap to them. It will be great. post the results here.<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 232851-1014219832 --><!--ktalk start_item 939133-1014218389 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - Ochs</font> <font face=arial size=1>Wednesday, February 20, 2002</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">129.116.18.194</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Ochs end_name end_fields--><!--ktalk start_comment-->Hmmm....I can't really think of anything. Maybe you should make some special articles or something.... =)<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 939133-1014218389 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="1014194780,54391,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->

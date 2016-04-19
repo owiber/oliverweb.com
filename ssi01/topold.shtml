@@ -1,0 +1,62 @@
+<style><!--
+A:link {font-family: "Arial", sans-serif; text-decoration: none}
+A:visited {font-family: "Arial", sans-serif; text-decoration: none}
+A:active {font-family: "Arial", sans-serif; text-decoration: none}
+a:hover {font-family: "Arial", sans-serif; text-decoration: underline }
+body {font-family: "Arial", sans-serif}
+td {font-family: "Arial", sans-serif}
+
+--></style>
+
+<body text="#000000" link="#003399" vlink="#3366CC" alink="#0000FF" topmargin="0" leftmargin="0" bottommargin="0">
+
+  <SCRIPT language="JavaScript">
+  <!--
+
+// Original JavaScript code by Duncan Crombie: dcrombie@chirp.com.au
+
+  var wabba = document.cookie; // retrieve cookie string
+
+  function getCookie(name) { // use: getCookie("name");
+    var index = wabba.indexOf(name + "=");
+    if (index == -1) return null;
+    index = wabba.indexOf("=", index) + 1;
+    var endstr = wabba.indexOf(";", index);
+    if (endstr == -1) endstr = wabba.length;
+    return unescape(wabba.substring(index, endstr));
+  }
+  if (!getCookie("owebenter")) {
+    window.location='http://www.oliverweb.com/main/index.shtml';
+  }
+//-->
+</SCRIPT>
+<NOSCRIPT>
+<meta http-equiv="Refresh" content="0;URL=http://www.oliverweb.com/main/index.shtml">
+</NOSCRIPT>
+
+<table border="0" cellspacing="0" cellpadding="0" align="center" width="750">
+  <tr>
+    <td width="166" valign="top" align="left"><font face="Arial"><img border="0" src="http://www.oliverweb.com/images/stuff.gif" width="166" height="183"></font></td>
+    <td valign="top" align="left" width="395">
+      <table border="0" width="395" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="100%" colspan="2"><img border="0" src="http://www.oliverweb.com/images/oliver.gif" width="395" height="120"></td>
+        </tr>
+        <tr>
+          <td width="383" valign="top" align="left" background="http://www.oliverweb.com/images/quoteback.gif"><font face="Arial" size="2" color="#FFFFFF">
+            <!--#exec cgi="../cgi-bin/rand_text.cgi"--></font></td>
+          <td width="12" valign="top" align="right" background="http://www.oliverweb.com/images/quoteback.gif"><img border="0" src="http://www.oliverweb.com/images/quoteright.gif" width="12" height="63"></td>
+        </tr>
+      </table>
+    </td>
+    <td valign="top" align="left" width="189"><img border="0" src="http://www.oliverweb.com/images/webnonmain.gif" width="189" height="122"></td>
+  </tr>
+  <tr>
+    <td background="http://www.oliverweb.com/images/sideleft.gif" valign="top" align="left">
+      <table border="0" width="100%" cellspacing="0" cellpadding="15">
+        <tr>
+          <td width="100%"><b><font size="2" color="#FFFFFF" face="Arial"><!--#include virtual="sidebar.shtml"--></font></b></td>
+        </tr>
+      </table>
+    </td>
+    <td valign="top" align="left" colspan="2" background="http://www.oliverweb.com/images/background.gif"><font face="Arial">

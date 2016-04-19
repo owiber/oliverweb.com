@@ -1,0 +1,45 @@
+<!--Oliver is da bomb! hehe-->
+<ul><li><input type="radio" name="quotenum" value="7">
+<b>"Hey, Matt!  Just wanted to say "hi" because it's been so long.  Hope everything's going okay.  Email me sometime.  Here's my address if u forgot: wakko7blue@yahoo.com  :)"</b> [<u><font color=#1BADDE>Claire</font></u>]
+<!--o 7--><ul>
+</ul></li></ul><p>
+<ul><li><input type="radio" name="quotenum" value="6">
+<b>"I've changed a lot... I'm beginning to hate this page =)  not changed a super lot, but heh... yeah, not me anymore."</b> [<u><font color=#008000>Minix</font></u>]
+<!--o 6--><ul>
+<li>More and more changing =)  -<u><b><font color=#008000>Minix</font></u></b>
+</ul></li></ul><p>
+<ul><li><input type="radio" name="quotenum" value="5">
+<b>"you know what bugs ME? =) Rude people. Dont worry about being mean to Vincent. Just dont mention my name =) Im gonna switch churches though... Hopefully to RRCoC, but ACC, if my mom wont take me that far =P"</b> [<u><font color=#FF80C0>Christine</font></u>]
+<!--o 5--><ul>
+</ul></li></ul><p>
+<ul><li><input type="radio" name="quotenum" value="4">
+<b>"'Gaw-Gaw', and 'Muy-Muy', and 'Mush-Mush'"</b> [<u><font color=#FF80C0>Adam</font></u>]
+<!--o 4--><ul>
+<li>Ahhhh.... lol, I'm not going to tell you Matt. Ask Adam......... and I'm not paying you anything Adam!! You either tell nobody or Adrianne and I are going to follow you every time that you go to the pool, and she'll ride on your back and pull your hair every time that you're mean to me!! ;) Muhahahaha!! =) -<u><b><font color=#FF00FF>Amanda</font></u></b>
+<li>I dont really care...Im not sure I even know what mush mush is yet anyway... -<u><b><font color=#008000>Minix</font></u></b>
+<li>Depends on how much you're willin' to pay for my silence.... -<u><b><font color=#FF80C0>Adam</font></u></b>
+<li>AAAAHHHHAAAA!!! ADAM!!! You'd better not explain that to anyone!! *blush* And it's not true ne ways. =) -<u><b><font color=#FF00FF>Amanda</font></u></b>
+<li>Im sure none of you get it, except for Amanda, <i>[Adam is a dork] munchkin-pumpkin-apple-sweetiepie</i>, and me! It involves Amanda and <i>[Adam is a dork] munchkin-pumpkin-apple-sweetiepie</i>. Leave the rest to your imaginations. -<u><b><font color=#FF80C0>Adam</font></u></b>
+</ul></li></ul><p>
+<ul><li><input type="radio" name="quotenum" value="3">
+<b>"Eh...Oliver...I think I'll give you some pictures...ok?"</b> [<u><font color=#008000>Minix</font></u>]
+<!--o 3--><ul>
+<li>Hehe, I love all those pics Minix.. MUHAHAHA! -<u><b><font color=#0080C0>Olivia</font></u></b>
+<li>NO! You have to leave those pictures up!!! MUHAHAHA!!!! -<u><b><font color=#0080C0>Olivia</font></u></b>
+<li>Ah... HAHAHAHAHHAHA!!! Blame Olivia, she gave them to me. =) But yeah, you can give me more pics... like 7 from "little" Minix to BIG Minix (lol, j/k =) -<u><b><font color=#0000FF>Oliver</font></u></b>
+<li>Danget!  Even my drivers license picture is better than those!!! -<u><b><font color=#008000>Minix</font></u></b>
+</ul></li></ul><p>
+<ul><li><input type="radio" name="quotenum" value="2">
+<b>"You call Oliver "my sweetie" and you're a      man, got that? =)"</b> [<u><font color=#FF00FF>Amanda</font></u>]
+<!--o 2--><ul>
+<li>I call him <i>[Adam is a dork] munchkin-pumpkin-apple-sweetiepie</i>! -<u><b><font color=#FF80C0>Adam</font></u></b>
+<li>Lol, j/k. =) -<u><b><font color=#0000FF>Oliver</font></u></b>
+<li>=( *Sniff* Why not? =( -<u><b><font color=#0000FF>Oliver</font></u></b>
+<li>Oliver?  My sweetie?  Never... -<u><b><font color=#008000>Minix</font></u></b>
+<li>*sigh*, a word was blocked in my comment..... in-between the words 'a' and 'man'.... starts with a d..... ends with a d.... e and a in-between.... you figure it out. =P -<u><b><font color=#FF00FF>Amanda</font></u></b>
+</ul></li></ul><p>
+<ul><li><input type="radio" name="quotenum" value="1">
+<b>"Okay! Now if anyone wants to know what to put in their rant... look at Minix's for an example. =) Rants DO NOT have to be logically thought out... ;)"</b> [<u><font color=#0000FF>Oliver</font></u>]
+<!--o 1--><ul>
+<li>Trying to say my rant wasn't logical Oliver?  Ah... I guess it wasn't...ahwell -<u><b><font color=#008000>Minix</font></u></b>
+</ul></li></ul><p>

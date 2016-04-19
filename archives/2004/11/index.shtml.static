@@ -1,0 +1,369 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="http://www.movabletype.org/" />
+
+<title>OliverWEB 2005: November 2004 Archives</title>
+
+<link rel="stylesheet" href="http://www.oliverweb.com/stylesheet.css" type="text/css" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.oliverweb.com/index.rdf" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="http://www.oliverweb.com/atom.xml" />
+<link rel="start" href="http://www.oliverweb.com/" title="Home" />
+<link rel="prev" href="http://www.oliverweb.com/archives/2004/10/index.shtml" title="October 2004" />
+
+
+
+</head>
+
+<body>
+<div id="all">
+<div id="headerimage">
+	<div id="links"><a href="http://www.oliverweb.com">blog</a> | <a href="http://www.oliverweb.com/gallery">gallery</a> | <a href="http://www.oliverweb.com/main/">legacy</a></div>	
+</div>
+<div id="container">
+<div class="spacer"></div>
+<div id="sidebar">
+
+<!-- START ME -->
+<h2>me</h2>
+<p>
+name: oliver wong<br>
+major: computer science<br>
+location: ut austin<br>
+dob: 10.16.83<br>
+status: alive ;)
+</p>
+<!-- END ME -->
+
+<!-- START EQUIPMENT-->
+<h2>toys</h2>
+<p>
+apple powerbook 12"<br>
+athlon 64 3200+<br>
+geforce 6800gt oc<br>
+4g ipod 20gb<br>
+canon eos digital rebel<br>
+sony ericsson t610
+</p>
+<!-- END EQUIPMENT-->
+
+<!-- START CATEGORIES -->
+<h2>categories</h2>
+<ul>
+  <li><a href="http://www.oliverweb.com/archives/events/index.shtml">events</a></li>
+  <li><a href="http://www.oliverweb.com/archives/friends/index.shtml">friends</a></li>
+  <li><a href="http://www.oliverweb.com/archives/misc/index.shtml">misc</a></li>
+  <li><a href="http://www.oliverweb.com/archives/news/index.shtml">news</a></li>
+  <li><a href="http://www.oliverweb.com/archives/photographs/index.shtml">photographs</a></li>
+
+</ul>
+<!-- END CATEGORIES -->
+<br />
+<!-- START ARCHIVES -->
+<h2>archives</h2>
+<ul>
+<li><a href="http://www.oliverweb.com/archives/2004/11/index.shtml">November 2004</a></li>
+<li><a href="http://www.oliverweb.com/archives/2004/10/index.shtml">October 2004</a></li>
+
+</ul>
+<!-- END ARCHIVES -->
+<br />
+
+<!-- START LINKS -->
+<h2>links</h2>
+<ul>
+<li><a href="http://www.gizmodo.com">Gizmodo</a></li>
+<li><a href="http://www.hardocp.com">[H]ard|OCP</a></li>
+<li><a href="http://www.liquid-acc.com">Liquid</a></li>
+<li><a href="http://www.osnews.com">OSNews</a></li>
+<li><a href="http://www.slashdot.org">Slashdot</a></li>
+</ul>
+<!-- END LINKS -->
+<br />
+
+<!-- START SEARCH-->
+<h2>search</h2>
+<form method="get" action="http://www.oliverweb.com/mt/mt-search.cgi">
+<input type="hidden" name="IncludeBlogs" value="1" />
+<input id="search" name="search" size="20" /><br />
+<input type="submit" value="Search" />
+</form>
+<!-- END SEARCH-->
+
+<br />
+
+</div> <!-- END SIDEBAR -->
+
+<div id="content">
+<div id="contentblurb">
+<p>Welcome to OliverWEB 2005, where all your dreams come true!  Even Sam's!  Just follow the yellow brick road!  Becoz, becoz, becoz, becoz, becoz!!  No one gets in to see the wizard, not no way, not no how! <br /><br /> ...*ahem*... so, if you're curious where all the old OliverWEB stuff on the sidebar went... it's gone. Yes yes, I've decided to drop all the old stuff and create an entirely new site including backend, layout, etc.  The <a href="http://www.oliverweb.com/main">old OliverWEB</a> can still be found by clicking on the "legacy" link at the top right of this page. Enjoy!</p>
+</div>
+<br />
+<!-- START BLOGS -->
+<div id="blogs">
+
+
+<p align="left">
+<a href="http://www.oliverweb.com/archives/2004/10/index.shtml">&laquo; October 2004</a> |
+
+<a href="http://www.oliverweb.com/">Main</a>
+
+</p>
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.oliverweb.com/archives/2004/11/index.shtml#000043"
+    trackback:ping="http://www.oliverweb.com/mt/mt-tb.cgi/42"
+    dc:title="RSS Headline Reader"
+    dc:identifier="http://www.oliverweb.com/archives/2004/11/index.shtml#000043"
+    dc:subject="misc"
+    dc:description="Well, I wrote a quick script to grab RSS feeds from various blogs/sites. You can see the result on the left over there. =) Apparently, I pounded away on the /. servers a bit too much as I&apos;m banned at..."
+    dc:creator="Oliver"
+    dc:date="2004-11-04T18:59:08-06:00" />
+</rdf:RDF>
+-->
+
+
+<h2>November 04, 2004</h2>
+
+
+<h3 id="a000043">RSS Headline Reader</h3>
+
+<p>Well, I wrote a quick script to grab RSS feeds from various blogs/sites.  You can see the result on the left over there. =)  Apparently, I pounded away on the <a href="http://www.slashdot.org">/.</a> servers a bit too much as I'm banned at the moment (which explains the headlines underneath that).  Anyways, that ban should go away in a bit as I've changed my reader to update every 35 minutes instead of every 10 which they didn't like so much.</p>
+
+
+
+<p class="posted">
+posted by Oliver at <a href="http://www.oliverweb.com/archives/2004/11/rss_headline_re.shtml">06:59 PM</a>
+| <a href="http://www.oliverweb.com/archives/2004/11/rss_headline_re.shtml#comments">Comments (0)</a>
+
+| <a href="http://www.oliverweb.com/archives/2004/11/rss_headline_re.shtml#trackbacks">TrackBack</a>
+
+</p>
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.oliverweb.com/archives/2004/11/index.shtml#000042"
+    trackback:ping="http://www.oliverweb.com/mt/mt-tb.cgi/41"
+    dc:title="BUSH WINS!"
+    dc:identifier="http://www.oliverweb.com/archives/2004/11/index.shtml#000042"
+    dc:subject="events"
+    dc:description="I&apos;m going to go ahead and say this before the major news networks do. Bush wins. Unless if I&apos;m being outright lied to or there is some crazy fact I am not aware of, I don&apos;t see how Ohio is..."
+    dc:creator="Oliver"
+    dc:date="2004-11-03T03:59:37-06:00" />
+</rdf:RDF>
+-->
+
+
+<h2>November 03, 2004</h2>
+
+
+<h3 id="a000042">BUSH WINS!</h3>
+
+<p>I'm going to go ahead and say this before the major news networks do.  Bush wins.  Unless if I'm being outright lied to or there is some crazy fact I am not aware of, I don't see how Ohio is considered a "too close to call."  Same for New Mexico (although I'm a bit less sure about that as I don't know how many provisional/absentee ballots are out there for NM, but I doubt enough to swing 11k in favor of Bush).</p>
+
+<p>Let's look at the numbers.  Right now, with 99% precints reporting in Ohio, Bush has 2,777,645 votes and Kerry 2,632,547.  So that's about a 145k lead.  Let's say there's a generous 250k absentee and provisional ballots still out there and ALL of them are valid.  So, in order for Kerry to tie (x is percentage of votes Kerry needs):</p>
+
+<blockquote><pre>250x = 250(1-x) + 145
+250x = 250 - 250x + 145
+x = 395/500 = .79 = 79%</pre></blockquote>
+
+<p>So essentially, Kerry needs to get 80% or more of the absentee/provisional ballots to win.  Does that seem likely? I think not. It seriously seems like the media is trying to make this another Florida '00.</p>
+
+
+
+<p class="posted">
+posted by Oliver at <a href="http://www.oliverweb.com/archives/2004/11/bush_wins.shtml">03:59 AM</a>
+| <a href="http://www.oliverweb.com/archives/2004/11/bush_wins.shtml#comments">Comments (1)</a>
+
+| <a href="http://www.oliverweb.com/archives/2004/11/bush_wins.shtml#trackbacks">TrackBack</a>
+
+</p>
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.oliverweb.com/archives/2004/11/index.shtml#000041"
+    trackback:ping="http://www.oliverweb.com/mt/mt-tb.cgi/40"
+    dc:title="Project: Samiticus Buttmonger"
+    dc:identifier="http://www.oliverweb.com/archives/2004/11/index.shtml#000041"
+    dc:subject="misc"
+    dc:description="It is now time to Google &quot;Samiticus Buttmonger&quot;! You can do &quot;I&apos;m Feeling Lucky&quot; too... not showing up on Google Images yet though... Update: I think perhaps Google picked up on my lame attempt to have it indexed quickly... maybe?..."
+    dc:creator="Oliver"
+    dc:date="2004-11-02T17:40:36-06:00" />
+</rdf:RDF>
+-->
+
+
+<h2>November 02, 2004</h2>
+
+
+<h3 id="a000041">Project: Samiticus Buttmonger</h3>
+
+<p>It is now time to <a href="http://www.google.com">Google</a> "Samiticus Buttmonger"!  You can do "I'm Feeling Lucky" too... not showing up on Google Images yet though...</p>
+
+<p><b>Update:</b> I think perhaps Google picked up on my lame attempt to have it indexed quickly... maybe? 'Cause now it's not showing up anymore. =(</p>
+
+
+
+<p class="posted">
+posted by Oliver at <a href="http://www.oliverweb.com/archives/2004/11/project_samitic.shtml">05:40 PM</a>
+| <a href="http://www.oliverweb.com/archives/2004/11/project_samitic.shtml#comments">Comments (0)</a>
+
+| <a href="http://www.oliverweb.com/archives/2004/11/project_samitic.shtml#trackbacks">TrackBack</a>
+
+</p>
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.oliverweb.com/archives/2004/11/index.shtml#000040"
+    trackback:ping="http://www.oliverweb.com/mt/mt-tb.cgi/39"
+    dc:title="In Buddhism"
+    dc:identifier="http://www.oliverweb.com/archives/2004/11/index.shtml#000040"
+    dc:subject="misc"
+    dc:description="These are the things I find in Buddhism: lol, Enjoy...."
+    dc:creator="Oliver"
+    dc:date="2004-11-02T15:00:31-06:00" />
+</rdf:RDF>
+-->
+
+
+
+
+<h3 id="a000040">In Buddhism</h3>
+
+<p>These are the things I find in Buddhism:</p>
+
+<p><img alt="churchsign.jpg" src="http://www.oliverweb.com/images05/blog/churchsign.jpg" width="313" height="232" /><br />
+lol, <a href="http://www.churchsigngenerator.com">Enjoy</a>.</p>
+
+
+
+<p class="posted">
+posted by Oliver at <a href="http://www.oliverweb.com/archives/2004/11/in_buddhism.shtml">03:00 PM</a>
+| <a href="http://www.oliverweb.com/archives/2004/11/in_buddhism.shtml#comments">Comments (0)</a>
+
+| <a href="http://www.oliverweb.com/archives/2004/11/in_buddhism.shtml#trackbacks">TrackBack</a>
+
+</p>
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.oliverweb.com/archives/2004/11/index.shtml#000039"
+    trackback:ping="http://www.oliverweb.com/mt/mt-tb.cgi/38"
+    dc:title="Oohhhh Baby"
+    dc:identifier="http://www.oliverweb.com/archives/2004/11/index.shtml#000039"
+    dc:subject="misc"
+    dc:description="I just had a great idea for an experiment to try... more details later. It will be called: &quot;Project: Samiticus Buttmonger&quot;... bwahahahahaa! Update: I present to you, Project: Samiticus Buttmonger!!..."
+    dc:creator="Oliver"
+    dc:date="2004-11-01T13:12:03-06:00" />
+</rdf:RDF>
+-->
+
+
+<h2>November 01, 2004</h2>
+
+
+<h3 id="a000039">Oohhhh Baby</h3>
+
+<p>I just had a great idea for an experiment to try... more details later.  It will be called: "Project: Samiticus Buttmonger"... bwahahahahaa!</p>
+
+<p><b>Update:</b> I present to you, Project: <a href="http://www.cs.utexas.edu/users/oliver/samiticus/">Samiticus Buttmonger</a>!!</p>
+
+
+
+<p class="posted">
+posted by Oliver at <a href="http://www.oliverweb.com/archives/2004/11/oohhhh_baby.shtml">01:12 PM</a>
+| <a href="http://www.oliverweb.com/archives/2004/11/oohhhh_baby.shtml#comments">Comments (0)</a>
+
+| <a href="http://www.oliverweb.com/archives/2004/11/oohhhh_baby.shtml#trackbacks">TrackBack</a>
+
+</p>
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.oliverweb.com/archives/2004/11/index.shtml#000038"
+    trackback:ping="http://www.oliverweb.com/mt/mt-tb.cgi/37"
+    dc:title="Fishy"
+    dc:identifier="http://www.oliverweb.com/archives/2004/11/index.shtml#000038"
+    dc:subject="misc"
+    dc:description="lol, I don&apos;t know why but Philmore&apos;s Fishy song (I think Chad played it for me way back in high school... man... long time ago) just popped into my head. Here&apos;s the beginning: Sometimes I wonder If I&apos;ll ever find..."
+    dc:creator="Oliver"
+    dc:date="2004-11-01T03:28:51-06:00" />
+</rdf:RDF>
+-->
+
+
+
+
+<h3 id="a000038">Fishy</h3>
+
+<p>lol, I don't know why but Philmore's Fishy song (I think Chad played it for me way back in high school... man... long time ago) just popped into my head.  Here's the beginning:</p>
+
+<blockquote>Sometimes I wonder
+If I'll ever find her
+The one that God's chosen for me
+And what if I find her,
+But she doesn't like me,
+I guess that disproves destiny
+But I should know better,
+The sea is much wetter
+With plenty of fishes to see
+(For you and me)
+And I know my Father
+Has scoped out the water
+And picked out a fishy for me</blockquote>
+
+<p>I never really got what the rest of the song said cause I couldn't make them out (and didn't listen to it enough to decipher it), but I just read the <a href="http://lyrics.rare-lyrics.com/P/Philmore/Fishy.html">rest of the lyrics</a>, and it's the hotness.  </p>
+
+<p>The other day, Van sucked Mark and I into watching some <a href="http://www.spcnet.tv/reviews/review.php?rID=192">Good Luck!!</a> with him.  Man, dramas are so much more enjoyable watching them with Van because he gets so into them.  Watching them makes me feel kinda girly though... I don't think that's good...</p>
+
+
+
+<p class="posted">
+posted by Oliver at <a href="http://www.oliverweb.com/archives/2004/11/fishy.shtml">03:28 AM</a>
+| <a href="http://www.oliverweb.com/archives/2004/11/fishy.shtml#comments">Comments (3)</a>
+
+| <a href="http://www.oliverweb.com/archives/2004/11/fishy.shtml#trackbacks">TrackBack</a>
+
+</p>
+
+
+
+</div>
+<!-- END BLOGS -->
+
+</div>
+<div class="spacer"></div>
+</div>
+<div id="bottombar">
+<div id="text">
+
+<a href="http://www.oliverweb.com/atom.xml"><img src="/images05/rssbadge.gif" width="36" height="14" border="0" alt="" /></a>
+
+Powered by <a href="http://www.movabletype.org">Movable Type 3.121</a>
+</div>
+</div>
+</div>
+</body>
+
+</html>

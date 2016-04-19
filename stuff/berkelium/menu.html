@@ -1,0 +1,120 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+   <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+   <META NAME="Author" CONTENT="Oliver Wong">
+   <META NAME="GENERATOR" CONTENT="Mozilla/4.5b2 [en] (Win98; I) [Netscape]">
+   <TITLE>Menu</TITLE>
+<SCRIPT language="JavaScript">
+<!-- Hide the script from old browsers --
+function scrollit(seed)
+{
+   var m1  =  " Give me an 'A'... Give me an 'A'... this webpage is the best project you have ever seen... :) hehe  ";
+   var msg=m1;   var out = " ";
+   var c = 0;
+
+   if (seed > 100)
+     {
+     seed--;
+     var cmd="scrollit(" + seed + ")";
+     timerTwo=window.setTimeout(cmd,7);
+     }
+   else
+     if (seed <= 100 && seed > 0)
+       {
+       for (c=0 ; c < seed ; c++)
+         {
+         out+=" ";
+         }
+       out+=msg;
+       seed--;
+       var cmd="scrollit(" + seed + ")";
+       window.status=out;
+       timerTwo=window.setTimeout(cmd,7);
+       }
+     else if (seed <= 0)
+       {
+       if (-seed < msg.length)
+         {
+         out+=msg.substring(-seed,msg.length);
+         seed--;
+         var cmd="scrollit(" + seed + ")";
+         window.status=out;
+         timerTwo=window.setTimeout(cmd,7);
+         }
+       else
+         {
+         window.status=" ";
+         timerTwo=window.setTimeout("scrollit(100)",75);
+         }
+       }
+}
+// --End Hiding Here -->
+</SCRIPT>
+<SCRIPT LANGUAGE="JavaScript"><!--
+ 
+/***** Designed and written by Robert Gasiorowski -- gasior@snet.net
+*****/
+
+var browser=false;
+if((navigator.appName=="Netscape")&&(parseInt(navigator.appVersion)>=3))
+browser=true;
+
+if (browser){
+var object=new Array();
+
+object['home']= new objectdata(100,40,"home2.gif","home.gif","Go Back Home");
+object['quiz']= new objectdata(100,40,"quiz2.gif","quiz.gif","Go to Quiz page");
+object['puzzles']= new objectdata(120,40,"puzzles2.gif","puzzles.gif","Go to Word Search page");
+object['biblio']= new objectdata(120,40,"biblio2.gif","biblio.gif","Go to Bibliography");
+
+// add more objects above this line
+}
+
+function objectdata(hsize,vsize,replaceimg,restoreimg,mess)
+{if(browser) 
+{                this.mess=mess;
+                        this.simg=new Image(hsize,vsize);
+                        this.simg.src=replaceimg;
+                        this.rimg=new Image(hsize,vsize);
+                        this.rimg.src=restoreimg;                                                                                        }}
+
+function ReplaceOrig(name)
+{if(browser) 
+{window.status=object[name].mess;
+document[name].src=object[name].simg.src;}} 
+
+function RestoreOrig(name)
+{if(browser) 
+{window.status="";
+document[name].src=object[name].rimg.src;}} 
+
+
+// End of JavaScript -->
+</SCRIPT>
+</HEAD>
+<BODY onLoad="timerONE=window.setTimeout('scrollit(100)',500)">
+
+<CENTER><IMG SRC="berk.gif" HEIGHT=40 WIDTH=120 ALIGN=CENTER>
+<BR><A HREF="bk.html" target="home" OnMouseOver="ReplaceOrig('home');return true;" OnMouseOut="RestoreOrig('home');"><IMG SRC="home.gif" NAME="home" BORDER=0 NATURALSIZEFLAG="0" HEIGHT=35 WIDTH=100 ALIGN=CENTER></A>
+<BR><A HREF="quiz.html" target="home" OnMouseOver="ReplaceOrig('quiz');return true;" OnMouseOut="RestoreOrig('quiz');"><IMG SRC="quiz.gif" NAME="quiz" BORDER=0 NATURALSIZEFLAG="0" HEIGHT=33 WIDTH=100 ALIGN=CENTER></A>
+<BR><A HREF="puzzles.html" target="home" OnMouseOver="ReplaceOrig('puzzles');return true;" OnMouseOut="RestoreOrig('puzzles');"><IMG SRC="puzzles.gif" NAME="puzzles" BORDER=0 NATURALSIZEFLAG="0" HEIGHT=43 WIDTH=120 ALIGN=CENTER></A>
+<BR><A HREF="bibliography.html" target="home" OnMouseOver="ReplaceOrig('biblio');return true;" OnMouseOut="RestoreOrig('biblio');"><IMG SRC="biblio.gif" NAME="biblio" BORDER=0 NATURALSIZEFLAG="0" HEIGHT=37 WIDTH=120 ALIGN=CENTER></A>
+<BR><FONT SIZE=-2>This page best view with:</FONT>
+<BR><IMG SRC="netbevel.gif" HEIGHT=31 WIDTH=88 ALIGN=ABSCENTER>
+<BR><FONT SIZE=-2>JavaScript may not function</FONT>
+<BR><FONT SIZE=-2>properly in Internet Explorer.</FONT>
+<P><FONT SIZE=-2>&copy; 1998 Oliver Wong</FONT>
+<BR><FONT SIZE=-2>All rights reserved.</FONT></CENTER>
+
+<BR>&nbsp;
+<P><BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+</BODY>
+</HTML>

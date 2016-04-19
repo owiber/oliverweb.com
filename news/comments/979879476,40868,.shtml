@@ -1,0 +1,47 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:1-->
+<title>OliverWEB - Discussing: Zortoch 2</title>
+</head>
+
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">Zortoch 2</font> </b><font face="arial" size="1">Thursday, January 18, 2001</font><br><font size="2" face="arial"><blockquote><font face="Times New Roman"><b><FONT COLOR="#ff0000">WabbaMan</B></FONT><FONT COLOR="#ff0000">:</FONT><FONT COLOR="#000000"> </FONT><FONT COLOR="#0000ff" FACE="Arial" SIZE=2>I am Zortoch, the alien nosepicker. Surrender your planet or face the consequences!!!<BR><B></FONT><FONT COLOR="#0000ff" SIZE=3>Saraleepastry03 signed off at 10:29:54 PM</B></FONT><FONT COLOR="#0000ff">.</FONT><FONT COLOR="#000000"> </FONT></font></blockquote><br><b>-<a href="mailto:oliver@oliverweb.com">Oliver</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 286808-979962606 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - Sarah</font> <font face=arial size=1>Friday, January 19, 2001</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">63.11.189.92</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Sarah end_name end_fields--><!--ktalk start_comment-->Lol, I never got that. I think you did that right as I got off =)<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 286808-979962606 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="979879476,40868,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->

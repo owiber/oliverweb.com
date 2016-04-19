@@ -1,0 +1,26 @@
+<html>
+<head>
+<title>
+OliverWEB - Pictures
+</title></head>
+<!--#include virtual="../../ssi/top.shtml"-->
+<center><h2><font color=blue>Pics!</font></h2><p>
+<!--#include virtual="../contents.txt"-->
+
+<img src=jennifer.jpg width=300 height=303><br>
+Cookies! Cookies!!! Oh, hey Jennifer... =)<p>
+
+<img src=jensar.jpg width=300 height=196><br>
+Jennifer is practicing her kissing skills while Sarah is umm... dreaming about me. Yeah, that's it... (j/k! =)<p>
+
+<img src=jennifersarah.jpg width=300 height=312><br>
+Sarah: "I sense a disturbance in the force..."<p>
+
+<img src=girls.jpg width=350 height=211><br>
+Amanda: "I wonder what Olivia is doing."<br>
+Jennifer: "...and that makes you larger than life!..."<br>
+Sarah: "Hmmm... what are the words to this song again?"<br>
+Olivia: "Look! I can look like a clam!"<p>
+
+<!--#include virtual="../contents.txt"-->
+<!--#include virtual="../../ssi/bottom.shtml"-->

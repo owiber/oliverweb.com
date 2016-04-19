@@ -1,0 +1,25 @@
+<html>
+<head>
+<title>
+OliverWEB - Pictures
+</title></head>
+<!--#include virtual="../../ssi/top.shtml"-->
+<center><h2><font color=blue>Pics!</font></h2><p>
+<!--#include virtual="../contents.txt"-->
+
+<img src=olivia.gif width=300 height=364><br>
+[*Heart beat sound - Spooky music plays*]<br>
+Weee seeeee yooouuuuu.<br>
+Olivia: *I sense a disturbance in the force... is anyone there?*<p>
+
+<img src=a.gif width=200 height=221><br>
+Don't worry, *A*'s okay. *A* likes talking to the sofa.<p>
+
+<img src=wabba.gif width=250 height=206><br>
+*SMOOCH* Pikachu was jealous of Grace and my sisters, so it gave me a kiss too... with Matt's help. Erhm... wait... that didn't sound right...<p>
+
+<img src=a2.gif width=250 height=163><br>
+I noticed that *A* gives me weird looks a lot. She's checking me out.<br>You know, we could probably find a lot of fallacies, rhetorical and stylistic devices on my page... =)<p>
+
+<!--#include virtual="../contents.txt"-->
+<!--#include virtual="../../ssi/bottom.shtml"-->

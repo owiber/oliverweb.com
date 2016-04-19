@@ -1,0 +1,33 @@
+<style><!--
+#w {font-family: "Arial", sans-serif; color: #FFFFFF}
+--></style>
+
+<!--#if expr="${HTTP_COOKIE} = /owebenter\=uvebeentold/" -->
+<a href="http://www.oliverweb.com/main/home.shtml" id="w">Home</a><br><br>
+
+<a href="http://www.oliverweb.com/boredom2/index.html" id="w">Boredom2!</a><br>
+<font size=2>-<a href="http://www.oliverweb.com/boredom2/quotes/index.shtml" id="w">Quotes!</a><br></font>
+<a href="http://www.oliverweb.com/cgi-bin/ultraboard/UltraBoard.pl" id="w">Forum</a><br>
+<a href="http://www.oliverweb.com/guestbook/index.shtml" id="w">Guestbook!</a><br><br>
+
+<a href="http://www.oliverweb.com/chad/index.shtml" id="w">Chad Stuff</a><br>
+<a href="http://www.oliverweb.com/pics/index.shtml" id="w">Pics!</a><br>
+<a href="http://www.oliverweb.com/articles/index.shtml" id="w">Articles</a><br>
+<a href="http://www.oliverweb.com/chats/chats.shtml" id="w">Ch@ts!</a><br>
+<a href="http://www.oliverweb.com/friends2000/index.shtml" id="w">Friends 2000</a><br>
+<a href="http://www.oliverweb.com/friends2001/index.shtml" id="w">Friends 2001</a><br><br>
+
+<a href="http://www.oliverweb.com/stuff/stuff.shtml" id="w">StUfF!</a><br>
+<font size=2>-<a href="http://www.oliverweb.com/stuff/olivetti.shtml" id="w">Olivetti!</a><br></font>
+<font size=2>-<a href="http://www.oliverweb.com/stuff/oliverwarez.shtml" id="w">OliverWAREZ!</a><br></font>
+<font size=2>-<a href="http://www.oliverweb.com/stuff/house.shtml" id="w">My House!</a><br></font>
+<a href="http://www.oliverweb.com/stuff/donotenter.shtml" id="w">DO NOT ENTER</a><br><br>
+
+<a href="http://www.oliverweb.com/pointlessjunk/index.shtml" id="w">Pointless Junk!</a><br>
+<a href="http://www.oliverweb.com/about/index.shtml" id="w">About OliverWEB</a><br>
+<font size=2>-<a href="http://www.oliverweb.com/about/thanks.shtml" id="w">Special Thanks</a></font><br>
+<font size=2>-<a href="http://www.oliverweb.com/main/home-oweb.shtml" id="w">Old Layout</font> <font size=1>(1999-2000)</a></font><br>
+</font>
+<!--#endif -->
+<font face=arial>
+<p>

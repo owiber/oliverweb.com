@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>
+OliverWEB - Jiggly Puff!
+</title>
+</head> 
+<!--#include virtual="../../ssi/top.shtml"--><center>
+<h2><font color=blue>Jiggly Puff!</font></h2><font size=1>(Not the Pokemon - just named after it)<p></center>
+
+<p align="center">
+<img border="1" src="jiggly1.jpg" width="300" height="380"></p>
+<p align="center">
+<img border="1" src="jiggly2.jpg" width="250" height="202"></p>
+<p align="center">
+<img border="1" src="jiggly3.jpg" width="250" height="242"></p>
+<p align="center">
+<img border="1" src="jiggly4.jpg" width="350" height="359"></p>
+<p align="center">
+<img border="1" src="jiggle5.jpg" width="400" height="278"></p>
+
+
+<!--#include virtual="../../ssi/bottom.shtml"--> 

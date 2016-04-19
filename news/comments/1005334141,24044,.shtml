@@ -1,0 +1,33 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:0-->
+<title>OliverWEB - Discussing: I'm here</title>
+</head>
+
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">I'm here</font> </b><font face="arial" size="1">Friday, November 9, 2001</font><br><font size="2" face="arial">Hey hey...I'm not dead, Chad.  I'm alive.  Not dead.  So there.  By the way, Chad, do you know Aaron's E-mail address?  you should give it to me.  Btw, our account with AOL got cancelled, and now I have a new screen name(still have Wessomatika, but not WretchedMeerkat).  Now I am PhunkyEyelids.  E-mail me, Chad.  With Aaron's address.  Lest ye die.<br><b>-<a href="mailto:holyyam@aol.com">Wes</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="1005334141,24044,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->

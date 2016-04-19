@@ -1,0 +1,61 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:2-->
+<title>OliverWEB - Discussing: Check Out Next Cover!</title>
+</head>
+
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#0000FF">Check Out Next Cover!</font> </b><font face="arial" size="1">Monday, November 20, 2000</font><br><font size="2" face="arial"><img src="http://www.oliverweb.com/ninh/ninhpresidentsfinal.jpg" alt="We are 0h so cool and sexy" border="0" width="400" height="397" <a><br>-<a href="mailto:minix1f@aol.com">Minix</a></p></font>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 569182-974856139 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>2</b> - Sarah</font> <font face=arial size=1>Tuesday, November 21, 2000</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">208.194.202.178</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Sarah end_name end_fields--><!--ktalk start_comment-->Those are really funny! I like the inside where you're making fun of the &quot;confusing&quot; presidential ballots by the arrows and stuff. And I like the connect the dots. And I like the reviews on the front. =)<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 569182-974856139 --><!--ktalk start_item 127152-974776037 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - <font color="#00FF00">Oliver</font></font> <font face=arial size=1>Monday, November 20, 2000</font><br>
+      <font face=arial size=1><a href=mailto:oliver@oliverweb.com>oliver@oliverweb.com</a> (<font size="1" face="Arial">IP Hidden</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email oliver@oliverweb.com end_email start_name Oliver end_name end_fields--><!--ktalk start_comment-->I've got the first draft of the inside done:<br><a href=http://www.oliverweb.com/ninh/ninhprezinside.jpg>http://www.oliverweb.com/ninh/ninhprezinside.jpg</a><!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 127152-974776037 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="974765557,58456,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->

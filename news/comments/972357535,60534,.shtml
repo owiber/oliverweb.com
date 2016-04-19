@@ -1,0 +1,75 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:3-->
+<title>OliverWEB - Discussing: English Project</title>
+</head>
+
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#0000FF">English Project</font> </b><font face="arial" size="1">Monday, October 23, 2000</font><br><font size="2" face="arial">English English English.  English is probably my hardest class this year (in the sense of the most work). Anyways, Van and I are working on our version of the Cantebery/Cantebury/Canteboooooga/Cantelala (however you spell that wierd word =) Tales and if you wanna read what we've got so far, it's <a href=http://www.oliverweb.com/stuff/Tale.htm>here</a>. I will keep it updated as much as possible. As of this posting, it's got up to the first tale written... have fun. =)<br>-<a href="mailto:oliver@oliverweb.com">Oliver</a></p></font>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 488164-972359437 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>3</b> - Wes</font> <font face=arial size=1>Monday, October 23, 2000</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">64.12.105.36</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Wes end_name end_fields--><!--ktalk start_comment-->Man, my english class is the worst in the world.  I've been in the AP class for three years, and due to circumstances beyond my control, I was stuck in the dumb kids' class this year.  It's horrible.  I want so badly to go back to AP.  Today, I got to add the suffix -tion to four words, and then put them in blanks...guh.  I hate my class.  I haven't learned a single thing this year, and the teacher doesn't even know some of the curriculum she's teaching us.  Right now we're starting on the Canterbury tales, and on the first day, you know...the introduction of the Canterbury tales....we were instructed to write a two-page long report on the style of Geoffrey Chaucer's writing and his history...isn't that...outlandish?<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 488164-972359437 --><!--ktalk start_item 572546-972358784 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>2</b> - <font color="#00FF00">Oliver</font></font> <font face=arial size=1>Monday, October 23, 2000</font><br>
+      <font face=arial size=1><a href=mailto:oliver@oliverweb.com>oliver@oliverweb.com</a> (<font size="1" face="Arial">IP Hidden</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email oliver@oliverweb.com end_email start_name Oliver end_name end_fields--><!--ktalk start_comment-->Well, we've got three more tales to add and an epilogue... there's no minimum length... but we have to have a prologue with at least four characters and a tale to go along with each of them...<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 572546-972358784 --><!--ktalk start_item 850179-972358365 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - Christine</font> <font face=arial size=1>Monday, October 23, 2000</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">63.232.112.234</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Christine end_name end_fields--><!--ktalk start_comment-->i didnt read so cant comment on the the quality... but quantity... DANG THATS LONG! how much longer does it have to be?!<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 850179-972358365 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="972357535,60534,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->

@@ -1,0 +1,75 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:3-->
+<title>OliverWEB - Discussing: LOSER! =D</title>
+</head>
+
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">LOSER! =D</font> </b><font face="arial" size="1">Wednesday, December 19, 2001</font><br><font size="2" face="arial">HAHA... okay.. this is so FUNNY... go  <a href="http://www.chimp.ca/">here</a> ... and AFTER you look at that... go  <a href="http://www.geocities.com/mike_yip16/index.html">HERE</a>.<br><br>HAHA, sorry... that second guy goes to my church and he was just makin fun of the poor kid... i had a good laugh over it... =)<br><b>-<a href="mailto:magestry@oliverweb.com">Olivia</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 458030-1008821369 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>3</b> - Olivia</font> <font face=arial size=1>Wednesday, December 19, 2001</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">66.25.208.43</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Olivia end_name end_fields--><!--ktalk start_comment-->It's FREAKY... but it's so FUNNY... kinda sad tho that some 11 year old would do that O.o if it's even real O.o...<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 458030-1008821369 --><!--ktalk start_item 499289-1008818651 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>2</b> - Nancy</font> <font face=arial size=1>Wednesday, December 19, 2001</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">63.232.118.22</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Nancy end_name end_fields--><!--ktalk start_comment-->I hate that website..it freaks me out. But yeah, it is kinda funny...<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 499289-1008818651 --><!--ktalk start_item 316482-1008816017 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - CHristine</font> <font face=arial size=1>Wednesday, December 19, 2001</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">192.35.232.99</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name CHristine end_name end_fields--><!--ktalk start_comment-->hahaha, who is that kid?<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 316482-1008816017 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="1008748945,86021,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->

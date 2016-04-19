@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:admin="http://webns.net/mvcb/"
+xmlns:cc="http://web.resource.org/cc/"
+xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="http://www.oliverweb.com/">
+<title>OliverWEB 2006</title>
+<link>http://www.oliverweb.com/</link>
+<description></description>
+<dc:creator></dc:creator>
+<dc:date>2006-09-01T18:22:39-06:00</dc:date>
+<admin:generatorAgent rdf:resource="http://www.movabletype.org/?v=3.2" />
+
+
+<items>
+<rdf:Seq><rdf:li rdf:resource="http://www.oliverweb.com/archives/2006/09/sunscreen_tatto.php" />
+<rdf:li rdf:resource="http://www.oliverweb.com/archives/2006/09/yay.php" />
+<rdf:li rdf:resource="http://www.oliverweb.com/archives/2006/08/pink.php" />
+<rdf:li rdf:resource="http://www.oliverweb.com/archives/2006/08/ut.php" />
+<rdf:li rdf:resource="http://www.oliverweb.com/archives/2006/08/owiber.php" />
+<rdf:li rdf:resource="http://www.oliverweb.com/archives/2006/08/mountain_of_glo.php" />
+<rdf:li rdf:resource="http://www.oliverweb.com/archives/2006/08/poo.php" />
+<rdf:li rdf:resource="http://www.oliverweb.com/archives/2006/08/florida_day_3_4.php" />
+<rdf:li rdf:resource="http://www.oliverweb.com/archives/2006/08/florida_day_2.php" />
+<rdf:li rdf:resource="http://www.oliverweb.com/archives/2006/08/florida_day_1.php" />
+<rdf:li rdf:resource="http://www.oliverweb.com/archives/2006/08/were_off.php" />
+<rdf:li rdf:resource="http://www.oliverweb.com/archives/2006/08/oink_50mm_f14.php" />
+<rdf:li rdf:resource="http://www.oliverweb.com/archives/2006/08/messages.php" />
+<rdf:li rdf:resource="http://www.oliverweb.com/archives/2006/08/hey.php" />
+<rdf:li rdf:resource="http://www.oliverweb.com/archives/2006/08/yay_concierge.php" />
+</rdf:Seq>
+</items>
+
+</channel>
+
+<item rdf:about="http://www.oliverweb.com/archives/2006/09/sunscreen_tatto.php">
+<title>Sunscreen Tattoos</title>
+<link>http://www.oliverweb.com/archives/2006/09/sunscreen_tatto.php</link>
+<description>Okay, I felt kinda weird taking these (and posting them), haha, but I&apos;ll do it anyways for all of you to admire my hot bod. ;) So at the beach in Florida, Megan and Kathy drew stuff on me with...</description>
+<dc:subject>photographs</dc:subject>
+<dc:creator>Oliver</dc:creator>
+<dc:date>2006-09-01T18:22:39-06:00</dc:date>
+</item>
+<item rdf:about="http://www.oliverweb.com/archives/2006/09/yay.php">
+<title>Yay!</title>
+<link>http://www.oliverweb.com/archives/2006/09/yay.php</link>
+<description>Went running yesterday with Kathy and Olivia, and this time successfully did not lose Olivia, haha. I also got really hungry yesterday for some reason and after eating dinner, I ate a turkey leg, chunks of cheese, an apple and...</description>
+<dc:subject>misc</dc:subject>
+<dc:creator>Oliver</dc:creator>
+<dc:date>2006-09-01T13:25:07-06:00</dc:date>
+</item>
+<item rdf:about="http://www.oliverweb.com/archives/2006/08/pink.php">
+<title>Pink!</title>
+<link>http://www.oliverweb.com/archives/2006/08/pink.php</link>
+<description>I know Andrew loves my love for pink. So this change is dedicated to him. =) Don&apos;t worry, entirely new layout (not comprising pink) is due in a month-ish... &quot;(Ooh love Ooh lover boy) What ya doin&apos; tonight, (hey boy)...</description>
+<dc:subject>events</dc:subject>
+<dc:creator>Oliver</dc:creator>
+<dc:date>2006-08-31T01:25:53-06:00</dc:date>
+</item>
+<item rdf:about="http://www.oliverweb.com/archives/2006/08/ut.php">
+<title>UT</title>
+<link>http://www.oliverweb.com/archives/2006/08/ut.php</link>
+<description>Have a good semester/year, peeps. =) Was around campus a few times the past week or two and it made me start to miss it a lot. Poo. Maybe it won&apos;t be so bad once everyone I know there has...</description>
+<dc:subject>events</dc:subject>
+<dc:creator>Oliver</dc:creator>
+<dc:date>2006-08-30T09:38:28-06:00</dc:date>
+</item>
+<item rdf:about="http://www.oliverweb.com/archives/2006/08/owiber.php">
+<title>Owiber</title>
+<link>http://www.oliverweb.com/archives/2006/08/owiber.php</link>
+<description>So yesterday I went on an &apos;owiber&apos; registration spree and registered owiber@gmail.com and owiber.com. I tried to make an owiber Blogger account, but apparently I already had one, so I just made a post instead. Doing a Google search for...</description>
+<dc:subject>misc</dc:subject>
+<dc:creator>Oliver</dc:creator>
+<dc:date>2006-08-29T17:06:15-06:00</dc:date>
+</item>
+<item rdf:about="http://www.oliverweb.com/archives/2006/08/mountain_of_glo.php">
+<title>Mountain of Glooooooom</title>
+<link>http://www.oliverweb.com/archives/2006/08/mountain_of_glo.php</link>
+<description>I don&apos;t know if it&apos;s just the weather, the having to go back to work after a great vacation, the missing school-feeling or what, but I felt rather gloomy today. When I run, I set landmarks for myself that I...</description>
+<dc:subject>misc</dc:subject>
+<dc:creator>Oliver</dc:creator>
+<dc:date>2006-08-29T16:32:44-06:00</dc:date>
+</item>
+<item rdf:about="http://www.oliverweb.com/archives/2006/08/poo.php">
+<title>Poo</title>
+<link>http://www.oliverweb.com/archives/2006/08/poo.php</link>
+<description>I don&apos;t want to go back to work. More vacation, please. =( &quot;And if he falls in love tonight, It can be assumed His carefree days with us are history. In short, our pal is doomed.&quot; - Timon &amp; Pumbaa...</description>
+<dc:subject>misc</dc:subject>
+<dc:creator>Oliver</dc:creator>
+<dc:date>2006-08-28T23:24:40-06:00</dc:date>
+</item>
+<item rdf:about="http://www.oliverweb.com/archives/2006/08/florida_day_3_4.php">
+<title>Florida - Day 3 + 4</title>
+<link>http://www.oliverweb.com/archives/2006/08/florida_day_3_4.php</link>
+<description>Yesterday, we went to church and then did a bunch of nothing to recooperate from the Busch Gardens and beach trips the prior two days. Had nice mid-day naps. Yaaaay! Then we watched The New World, which was a horrible...</description>
+<dc:subject>events</dc:subject>
+<dc:creator>Oliver</dc:creator>
+<dc:date>2006-08-28T13:36:37-06:00</dc:date>
+</item>
+<item rdf:about="http://www.oliverweb.com/archives/2006/08/florida_day_2.php">
+<title>Florida - Day 2</title>
+<link>http://www.oliverweb.com/archives/2006/08/florida_day_2.php</link>
+<description>Today we went to some beach four hours away and woke up really early to do so. Was quite a bit of fun, but I think all of us (except for Andrew) got burnt. I did, however, put a small...</description>
+<dc:subject>events</dc:subject>
+<dc:creator>Oliver</dc:creator>
+<dc:date>2006-08-27T01:06:14-06:00</dc:date>
+</item>
+<item rdf:about="http://www.oliverweb.com/archives/2006/08/florida_day_1.php">
+<title>Florida - Day 1</title>
+<link>http://www.oliverweb.com/archives/2006/08/florida_day_1.php</link>
+<description>So Day 1 in Florida (not counting the day we arrived) was spent at Busch Gardens. In the following video, you can see Andrew, Van and I slightly confused as far as amusement parks go... (Floridians will probably not understand...</description>
+<dc:subject>misc</dc:subject>
+<dc:creator>Oliver</dc:creator>
+<dc:date>2006-08-25T23:12:47-06:00</dc:date>
+</item>
+<item rdf:about="http://www.oliverweb.com/archives/2006/08/were_off.php">
+<title>We&apos;re Off!</title>
+<link>http://www.oliverweb.com/archives/2006/08/were_off.php</link>
+<description>...well, soon anyways. See ya, Texas! &quot;So kiss me and smile for me Tell me that you&apos;ll wait for me Hold me like you&apos;ll never let me go cause I&apos;m leavin on a jet plane Don&apos;t know when I&apos;ll be...</description>
+<dc:subject>events</dc:subject>
+<dc:creator>Oliver</dc:creator>
+<dc:date>2006-08-24T14:09:52-06:00</dc:date>
+</item>
+<item rdf:about="http://www.oliverweb.com/archives/2006/08/oink_50mm_f14.php">
+<title>Oink - 50mm f/1.4</title>
+<link>http://www.oliverweb.com/archives/2006/08/oink_50mm_f14.php</link>
+<description> Took this shot with my new 50mm f/1.4. I think I&apos;m gonna try it out for a bit and maybe sell off my 85L. I don&apos;t think I&apos;ll even bring my 85L to Florida... well, maybe I will... hmm,...</description>
+<dc:subject>photographs</dc:subject>
+<dc:creator>Oliver</dc:creator>
+<dc:date>2006-08-23T23:54:06-06:00</dc:date>
+</item>
+<item rdf:about="http://www.oliverweb.com/archives/2006/08/messages.php">
+<title>Messages</title>
+<link>http://www.oliverweb.com/archives/2006/08/messages.php</link>
+<description> I like leaving messages for my roomies. Sometimes they&apos;re nice, sometime&apos;s they&apos;re not. =) On an entirely unrelated note, I tried the &quot;shortcut swim&quot; again, but this time giving Kathy my shoes before doing so and it went oh...</description>
+<dc:subject>misc</dc:subject>
+<dc:creator>Oliver</dc:creator>
+<dc:date>2006-08-23T02:54:18-06:00</dc:date>
+</item>
+<item rdf:about="http://www.oliverweb.com/archives/2006/08/hey.php">
+<title>Hey!</title>
+<link>http://www.oliverweb.com/archives/2006/08/hey.php</link>
+<description>You guys need to blog more, I can&apos;t keep the blog count up for everyone here. What am I supposed to do when I&apos;m waiting for a kernel to finish compiling, huh? I was thinking of cool things to do...</description>
+<dc:subject>misc</dc:subject>
+<dc:creator>Oliver</dc:creator>
+<dc:date>2006-08-22T16:12:23-06:00</dc:date>
+</item>
+<item rdf:about="http://www.oliverweb.com/archives/2006/08/yay_concierge.php">
+<title>Yay Concierge!</title>
+<link>http://www.oliverweb.com/archives/2006/08/yay_concierge.php</link>
+<description>Freescale has a concierge service (which I think they contract from another company or something) which I&apos;ve found useful on a few occasions. Today, I had the guy take my car to get an oil change. Wheeee! Although, I just...</description>
+<dc:subject>misc</dc:subject>
+<dc:creator>Oliver</dc:creator>
+<dc:date>2006-08-22T12:19:01-06:00</dc:date>
+</item>
+
+
+</rdf:RDF>

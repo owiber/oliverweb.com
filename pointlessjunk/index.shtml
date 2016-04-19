@@ -1,0 +1,37 @@
+<html>
+<head>
+<title>
+OliverWEB - ThE pOiNtLeSs JuNk! LiSt
+</title>
+</head>
+<!--#include virtual="../ssi/top.shtml"--><center>
+<h2><font color="blue">ThE pOiNtLeSs JuNk! LiSt</font></h2></center>
+
+If you love to get TONS of emails and like to just chat/talk/email about anything, this list is for you. =)<p>
+We (people subscribed to the list) send email back and forth all day about anything from 
+rolly pollies about to take over the world to the SAT. Be warned though, the amount of email received
+per day fluctuates A LOT, sometimes you may only get 5-10 emails in one night, but then tomorrow, you
+may get 100+ emails!<p>
+The list is a lot of fun and is basically a multiperson email chat. If you would like to join, just <a href=mailto:oliver@oliverweb.com>send me</a> an email. =)<p><center>
+<!--
+
+<form method="post" action="http://www.listbot.com/cgi-bin/subscriber">
+<table border=0 width=200><tr><td colspan=2>
+</td></tr><tr><td>
+<input type=text name="e_mail">
+<input type=hidden name="list_id" value="pointlessjunk">
+</td><td>
+<input type=image src="joinbutton.gif" border=0 width=88 height=31 alt="Click here to join our mailing list!">
+</td></tr>
+<tr><td colspan=2>
+<font size=1 face="arial">
+<input type="radio" name="Act" value="subscribe_list" CHECKED> Subscribe
+<input type="radio" name="Act" value="unsubscribe_list"> Unsubscribe
+</font>
+</td></tr><tr><td colspan=2>
+<font size=1 face="arial"><a href="http://www.listbot.com/" target="new">Powered by ListBot</a></font><br>
+</td></tr></table>
+</form></center>
+-->
+
+<!--#include virtual="../ssi/bottom.shtml"-->

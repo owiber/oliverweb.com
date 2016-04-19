@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>
+OliverWEB - Pictures
+</title></head>
+<!--#include virtual="../../ssi/top.shtml"-->
+<center><h2><font color=blue>Pics!</font></h2><p>
+<!--#include virtual="../contents.txt"-->
+
+<img src=ochs.gif width=250 height=262><br>
+Ochs: "Manly Manly! I am Manly Ochs Cook."<p>
+
+<img src=olivia.gif width=250 height=324><br>
+Olivia: "Blaaaaaaaaaahhhhhhh!!!!" [Hehe, yeah, I put the pic upside down ;) Messes up your head, huh?]<p>
+
+<img src=oriana.gif width=250 height=297><br>
+Oriana: "I can't find my food! All I see are butts! Butts, butts, butts... everywhere! Ugh! I hate being short..."<p>
+
+<img src=bloodsucking.gif width=350 height=271><br>
+Ahhhh! Blood-sucking insects! HELP!!!...<p>
+
+<!--#include virtual="../contents.txt"-->
+<!--#include virtual="../../ssi/bottom.shtml"-->

@@ -1,0 +1,89 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Strict//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <meta name="description" content="Internet Problem Solving Contest (IPSC) is an online programming contest for teams up three people.">
+  <meta name="keywords" content="IPSC, programming, contest, online contest">
+  <title>IPSC 2004 -  Problem&nbsp;E - Electrical Circuits</title>
+  <link rel="stylesheet" type="text/css" href="main.css">
+  </head>
+  <body>
+<div class="title">
+<div class="ipscimg">
+<a href="http://ipsc.ksp.sk/index.php?auth=1"><img src="ipsc.gif"
+alt="IPSC Logo"></a>
+</div>
+<div class="nadpis">
+<h1>Internet Problem Solving Contest</h1>
+<h2>IPSC 2004<br> Problem&nbsp;E - Electrical Circuits</h2>
+</div>
+</div>
+<div class="telo">
+<ul>
+<li><a href="e1.in">Easy input data set - E1</a></li>
+<li><a href="e2.in">Difficult input data set - E2</a></li>
+</ul>
+
+<p>
+Ian has an "Electric Circuits Soldering" exam today.  At the
+begining of the test, each student is given an unfinished printed
+circuit board with some unconnected contacts. The task is to recognize
+the board and to finish connecting corresponding contacts. At the end,
+every contact should be connected to exactly one other contact.  As
+Ian was too lazy to prepare for the exam, he must now guess which
+pairs of contacts to connect.  Fortunately, he recognizes that some
+pairs of the contacts are incompatible and cannot be connected to each
+other. What is the probability that Ian will guess the correct
+answer?
+</p>
+
+<h3>Task specification</h3>
+<p>
+Given the number of unconnected circuit contacts, their positions on
+the printed circuit board, and a list of pairs of contacts that can be
+connected to each other, count the number of all possible solutions of
+the test.
+</p>
+
+<h3>Input file specification</h3>
+<p>
+The input file describes several circuit boards; the number of the
+boards is given on the first line. Description of each board begins
+with two integers N and M - the number of unconnected contacts and the
+number of possible contact pairs.  The contacts are numbered
+1,2,...,N. The following N lines describe position of each contact
+by (x,y) coordinates on the board. Finally, the following M lines
+list the pairs of contacts that can be connected to each other (one
+pair per line).
+</p>
+
+<h3>Output file specification</h3>
+<p>
+For each test case output a line with number P &ndash; the number of different
+solutions for the test case.
+</p>
+
+<h3>Example</h3>
+
+<b>Input file</b><br>
+<pre>
+1
+4 4
+1 1
+1 3
+3 3
+3 1
+1 2
+2 3
+3 4
+4 1
+</pre>
+
+<b>Output file</b><br>
+<pre>
+2
+</pre>
+</div>
+
+</body>
+</html>

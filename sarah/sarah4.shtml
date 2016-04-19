@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>OliverWEB - Happy Birthday!</title>
+</head>
+<!--#include virtual="../ssi/top.shtml"-->
+
+<p align="center"><img
+        src="cake.gif" width="160" height="150"><img
+        src="happybday.gif" width="279" height="166"><img
+        src="present.gif" width="80" height="75"></p>
+        <p align="left">I know I
+        could have gotten you a &quot;real&quot; present like
+        those other lazy bums... but I didn't think you were
+        worth that much money. LOL, Just kidding =) Have a good
+        one. ;)</p>
+<!--#include virtual="../ssi/bottom.shtml"-->

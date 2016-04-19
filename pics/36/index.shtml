@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>
+OliverWEB - Pictures
+</title></head>
+<!--#include virtual="../../ssi/top.shtml"-->
+<center><h2><font color=blue>Pics!</font></h2><p>
+<!--#include virtual="../contents.txt"-->
+
+ <img border="1" src="com.jpg" width="400" height="211"><br>
+All: &quot;WITH OUR POWERS COMBINED!...&quot;<br>
+<p><img border="1" src="minix.jpg" width="300" height="298"><br>
+Minix: &quot;I think Chad just stuck one of these things up my butt... it...
+hurts...&quot;<br>
+<p><img border="1" src="mo.jpg" width="250" height="403"><br>
+Minix: &quot;Hyuck, Oliver just killed me for the 150th time in
+Half-Life...&quot;<br>
+Oriana: &quot;I can act like a rabit!&quot;<br>
+<p>
+
+<img border="1" src="oliver.jpg" width="300" height="369"><br>
+Not only am I mesmerized by <a href="http://www.oliverweb.com/pics/24/index.shtml">lights</a>,
+but hanging stuffed angels as well...<br>
+Oliver: &quot;Can I... touch it?&quot;<p>
+
+<!--#include virtual="../contents.txt"-->
+<!--#include virtual="../../ssi/bottom.shtml"-->

@@ -1,0 +1,92 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:4-->
+<title>OliverWEB - Discussing: Story Time!!!</title>
+</head>
+<!--#if expr="${HTTP_COOKIE} = owebenter\=uvebeentold" -->
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">Story Time!!!</font> </b><font face="arial" size="1">Thursday, September 20, 2001 <!--(1:06:01)--></font><br><font size="2" face="arial">Once upon a time, there lived a boy.  This boy really badly wanted to be a fisherman when he grew up.  He dreamt about it every night.  While he was awake, he would imagine plans for getting to such a high post.  One day, he told his father that he wanted to be a fisherman.<br><br>"Daddy!  I want to be a fisherman!"<br><br>His father groaned, and after a long pause, responded.  "Son... You know how I've always told you you could be anything you wanted to be, if you set your mind to it?"<br><br>"Oh yes daddy!"<br><br>"Well I lied... the truth is the world is a huge trap.  You grow up, you dream, your dreams get stuffed into your throat, and you're placed somewhere with just enough money to survive, and you're forced to stay there, because if you leave, you starve."<br><br>"No no daddy!  That's not true!" Shouted the little boy.  "I will be the exception!"<br><br>And the boy tried to be the exception, he did everything he could... but unfourtanetly, he didn't realize, that everyone else was also trying to be the exception... they all got trapped, including the ambitious little boy, and everyone went about their lives with their heads held low, pretending to be happy, but inside, knowing that they were nothing and unimportant.<br><b>-<a href="mailto:minix1f@aol.com">Minix</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 192239-1001225949 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>4</b> - <font color="#003399">Oliver</font></font> <font face=arial size=1>Sunday, September 23, 2001</font><br>
+      <font face=arial size=1><a href=mailto:oliver@oliverweb.com>oliver@oliverweb.com</a> (<font size="1" face="Arial">IP Hidden</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email oliver@oliverweb.com end_email start_name Oliver end_name end_fields--><!--ktalk start_comment-->Testing123<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 192239-1001225949 --><!--ktalk start_item 394596-1001129342 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>3</b> - Wes</font> <font face=arial size=1>Friday, September 21, 2001 <!--(10:29:02)--></font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">152.163.201.66</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Wes end_name end_fields--><!--ktalk start_comment-->I should really stop showing my third-person autobiography to people.<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 394596-1001129342 --><!--ktalk start_item 524300-1001097714 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>2</b> - Minix</font> <font face=arial size=1>Friday, September 21, 2001 <!--(1:41:54)--></font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">129.116.18.207</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Minix end_name end_fields--><!--ktalk start_comment-->yup... but while this story was meant to be depressing, I'm hoping life isnt really always like that =)<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 524300-1001097714 --><!--ktalk start_item 636377-1001082884 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - Suneet</font> <font face=arial size=1>Friday, September 21, 2001 <!--(9:34:44)--></font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">128.83.206.159</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Suneet end_name end_fields--><!--ktalk start_comment-->Yep...life's tough.<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 636377-1001082884 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="1001009160,67003,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->
+<!--#else -->
+<!--#include virtual="/ssi/error.shtml" -->
+<!--#endif -->

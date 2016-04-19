@@ -1,0 +1,81 @@
+<html>
+<head>
+<title>
+OliverWEB - Contacts Page
+</title>
+</head>
+<!--#include virtual="../ssi/top.shtml"--><center>
+
+<script language="JavaScript">
+<!--
+function Out(){
+	document.write('<form action=../cgi-bin/contacts.cgi method=POST>' +
+		'<input type=hidden name=mode value=edit>' +
+		'<input type=hidden name=name value="' + Out.arguments[1] + '">' +
+		'<input type=hidden name=email value="' + Out.arguments[2] + '">' +
+		'<input type=hidden name=grad value="' + Out.arguments[3] + '">' +
+		'<input type=hidden name=dest value="' + Out.arguments[4] + '">' +
+		'<input type=hidden name=website value="' + Out.arguments[5] + '">' +
+		'<input type=hidden name=comments value="' + Out.arguments[6] + '">' +
+		'<input type=hidden name=id value="' + Out.arguments[0] +
+		'"><font size=4>' + Out.arguments[1] + 
+		'</font> <font size=1>(<a href=mailto:' + Out.arguments[2] + '>' + 
+		Out.arguments[2] + '</a>)</font><br><font size=2>Graduating:' +
+		Out.arguments[3] + '<br>Going to: ' + 
+		Out.arguments[4] + '<br><a href=' + Out.arguments[5] + 'target=\"_blank\">' +
+		Out.arguments[5] + '</a><br>' + Out.arguments[6] + 
+		'<br><input type=submit value=Edit></form>');
+}
+//-->
+</script>
+
+<h2><font color="#003399">Contacts Page!</font></h2></center>
+
+<font size=2>
+<p>Here's OliverWEB's contact page, where the graduating people (or anyone actually)
+can add their names and contact info here for others to see and keep in touch.
+Entries aren't sorted in any way at all,
+just from top to bottom in order of who submitted their information first.</p><p>To add yourself
+to the list, go to the <a href="#form">bottom</a> of the page. You may also edit your 
+information later by selecting your entry by clicking the EDIT button next to your name. Please
+have the consideration not to edit someone else's information. If you have any questions/comments
+please feel free to <a href=mailto:oliver@oliverweb.com>email me</a>. Thanks... enjoy. =)</p>
+
+<hr width=75% align=center><br>
+<table width=95% bgcolor="#000000" cellspacing="1">
+<!--#include virtual="contacts.data" -->
+
+
+</table>
+</form>
+</font>
+<br>
+<hr width=75% align=center><br>
+<a name="form"><b>Add Yourself to the List!</b> <font color="FF0000">No HTML</font></a>
+<form action=../cgi-bin/contacts.cgi method="POST">
+<input type=hidden name=mode value=add>
+  <table border="0" cellspacing="0" cellpadding="3" background="#000000" bgcolor="#000000">
+    <tr>
+      <td valign="top" align="left" background="#FFFFFF" bgcolor="#FFFFFF"><font face=arial size=2>
+  <p>Name:<br>
+  <input type="text" name="name" size="20" maxlength="50"></p>
+  <p>Email Address:<br>
+  <input type="text" name="email" size="20" maxlength="50"></p>
+  <p>Website (leave alone if none):<br>
+  <input type="text" name="website" size="20" value="http://" maxlength="100"></p>
+  <p>Place you'll be going to:<br>
+  <input type="text" name="dest" size="20" maxlength="100"></p>
+      </td>
+      <td valign="top" align="left" background="#FFFFFF" bgcolor="#FFFFFF"><font face=arial size=2>
+      <p>Year and School Graduating from:<br>
+      <input type="text" name="grad" size="20" maxlength="100"></p>
+      <p>Additional information/Comments/Snail Mail
+        Address/Misc.<br>
+        <textarea rows="5" name="comments" cols="40"></textarea>
+        <p align="center"><input type="submit" value="Add Me!"></p>
+      </td>
+    </tr>
+  </table>
+</form>
+
+<!--#include virtual="../ssi/bottom.shtml"-->

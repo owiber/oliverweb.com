@@ -1,0 +1,30 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <title>OliverWEB - Merry Christmas!</title>
+</head>
+<body text="#FFFFFF" bgcolor="#000000">
+
+<center><table BORDER=0 CELLSPACING=0 CELLPADDING=0 COLS=3 >
+<tr>
+<td ALIGN=RIGHT VALIGN=TOP><img SRC="bellblk.gif" height=50 width=60>
+<br>&nbsp;
+<br>&nbsp;
+<p><img SRC="branchblk.gif" BORDER=0 height=100 width=167>
+<br>&nbsp;
+<p><img SRC="bearpresent.gif" height=115 width=150></td>
+
+<td><center><img SRC="christmas.jpg" BORDER=0 height=400 width=400><br><font face=arial size=2>Note to Minix: Don't take it personally... I just thought you would be the best Scrooge ;) Hehe...</td>
+
+<td ALIGN=LEFT VALIGN=TOP><img SRC="bellblk.gif" height=50 width=60>
+<br>&nbsp;
+<br>&nbsp;
+<p><img SRC="angelLtBLK.gif" height=100 width=83>
+<br>&nbsp;
+<p><img SRC="presents.gif" height=115 width=150></td>
+</tr>
+</table><p>
+<EMBED SRC="wewish.mid" AUTOSTART=TRUE Hidden=false></center>
+
+</body>
+</html>

@@ -1,0 +1,75 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:3-->
+<title>OliverWEB - Discussing: LAN Party</title>
+</head>
+
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">LAN Party</font> </b><font face="arial" size="1">Friday, August 16, 2002</font><br><font size="2" face="arial">We're at the LAN party, here's what Andrew has to say:<blockquote><i>Well I'm here destroying Ochs at pretty much everything.  He's horrible at all these computer games, especially counter strike.  Sean and I are teaching him "TOTAL DOMINATION."  Oliver is a little girl who can't play counterstrike worth anything.  Scooter and Oliver wasted their money on the g-boxes because it doesn't cover up their shabby skills.  Maybe skills isn't the right word, perhaps flaws.  They are gonna be knifed all night long.  To quote a wise old sage: "Can you smell what the Rock is cooking."  To quote a stupid young sage (Oliver): "I'm a little, frail girly woman who can't play counterstrike worth a crap." </i></blockquote>They're just jealous. =)Here's Van (Scooter):<blockquote><i>I shall kill you all.</i></blockquote><br><b>-<a href="mailto:oliver@oliverweb.com">Oliver</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 17268-1029637170 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>3</b> - Ochs</font> <font face=arial size=1>Saturday, August 17, 2002</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">67.64.79.33</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Ochs end_name end_fields--><!--ktalk start_comment-->Did you have to mention how girlie they were. I personally thought they were good &quot;manly&quot; tears! =)<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 17268-1029637170 --><!--ktalk start_item 383404-1029599197 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>2</b> - Andrew and Sean</font> <font face=arial size=1>Saturday, August 17, 2002</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">67.64.79.33</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Andrew and Sean end_name end_fields--><!--ktalk start_comment-->We can safely say that our prediction skills area as sharp as our CS skills.  Ochs not only got dominated, but he broke into girlish tears as we massacred him over and over again.  <!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 383404-1029599197 --><!--ktalk start_item 261333-1029558983 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - Ochs</font> <font face=arial size=1>Friday, August 16, 2002</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">67.64.79.33</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Ochs end_name end_fields--><!--ktalk start_comment-->Hmm.. well.. considering Ochs wasn't even playing when that was written.. yeah... we shall see who will be dominated! MWAHAHAHAHAHA!=)<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 261333-1029558983 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="1029557993,23134,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->

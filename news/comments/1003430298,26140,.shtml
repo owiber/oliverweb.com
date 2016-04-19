@@ -1,0 +1,33 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:0-->
+<title>OliverWEB - Discussing: Even Still...</title>
+</head>
+
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">Even Still...</font> </b><font face="arial" size="1">Thursday, October 18, 2001</font><br><font size="2" face="arial">Though Chad still continues to hate all entities that post on this website (excluding Wes, he rocks).  As a manifestation of anger, i will not allow any comments to a post set forth by me.  Recent data has indicated that i might implode, but this data was inconclusive and found to be an isolated incident.  Further sampling has found that the only results of no commenting is incessant posting on the web page carrying one underlying motif: hatred.  Hatred does make the world turn.  The common consensus states that, as evil as war is, spurns the movement of life.  Absence of war would indicate, in turn, the absence of flaws in humanity.  So i shall forgive the failure of insolent whelps such as all of you have in commenting, whereas it simply exemplifies the warlike nature of your flawed minds, and also your desire to bomb every country in the world, cause that's where terrorists live.<br><br>http://www.mrtechhappy.com/chad/<br><b>-<a href="mailto:nosliwc156@aol.com">Chad</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="1003430298,26140,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->

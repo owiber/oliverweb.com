@@ -1,0 +1,145 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:8-->
+<title>OliverWEB - Discussing: 572 Lines of Assembly</title>
+</head>
+
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">572 Lines of Assembly</font> </b><font face="arial" size="1">Wednesday, May 1, 2002</font><br><font size="2" face="arial">I'm... going 1000011 1010010 1000001 1011010 1011001 !!!!<br><br>But I'm done.<br><br>HALT<br><b>-<a href="mailto:oliver@oliverweb.com">Oliver</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 776897-1020836326 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>8</b> - <font color="#003399">Oliver</font></font> <font face=arial size=1>Tuesday, May 7, 2002</font><br>
+      <font face=arial size=1><a href=mailto:oliver@oliverweb.com>oliver@oliverweb.com</a> (<font size="1" face="Arial">IP Hidden</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email oliver@oliverweb.com end_email start_name Oliver end_name end_fields--><!--ktalk start_comment-->There are always disassemblers too... but in my assembler class, we used LC2, which isn't anything like x86 or anything... so you can't really write a higher up language then make the computer assemble it into LC2... cause... there's no LC2 C++ or anything =)<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 776897-1020836326 --><!--ktalk start_item 292021-1020807214 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>7</b> - Sean</font> <font face=arial size=1>Tuesday, May 7, 2002</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">128.194.6.158</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Sean end_name end_fields--><!--ktalk start_comment-->did you know that on most unix machines if you use the -s tag to compile a C program the compiler will write the assembly language for the source file in a file with the .s suffix. Seems to me this would make assembly class alot easier ..........<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 292021-1020807214 --><!--ktalk start_item 229050-1020554348 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>6</b> - <font color="#003399">Oliver</font></font> <font face=arial size=1>Saturday, May 4, 2002</font><br>
+      <font face=arial size=1><a href=mailto:oliver@oliverweb.com>oliver@oliverweb.com</a> (<font size="1" face="Arial">IP Hidden</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email oliver@oliverweb.com end_email start_name Oliver end_name end_fields--><!--ktalk start_comment-->Hehe, good job Sean... but &quot;regular&quot; code is soooo much easier to write than assembly...<br><br>ugh... I'm going to hate compiler class...<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 229050-1020554348 --><!--ktalk start_item 43219-1020445345 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>5</b> - Sean</font> <font face=arial size=1>Friday, May 3, 2002</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">128.194.6.158</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Sean end_name end_fields--><!--ktalk start_comment-->3682 lines of java code later and I have a working baroque chess program with wussy but still working ai. <a href="http://bishopcmb.resnet.tamu.edu/baroque1.jpg">http://bishopcmb.resnet.tamu.edu/baroque1.jpg</a><br>(Baroque chess is like chess but all the pieces make differnt moves than normal and capture in different ways. It was assigned instead of normal chess, well because there are 50 million normal chess games out there that could all easily be ripped off.) Our gui was about middle of the pack Id say. It made us look quite bad after my friend Jacob demoed his project done in opengl that had 3d animations and all sorts of cool things like being able to play over the network. Of course his requires having a decent graphics card to run it and mine doesnt so I still claim ours was better. Got a 105 on it though, and thats all that matters.<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 43219-1020445345 --><!--ktalk start_item 222543-1020389421 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>4</b> - <font color="#003399">Oliver</font></font> <font face=arial size=1>Thursday, May 2, 2002</font><br>
+      <font face=arial size=1><a href=mailto:oliver@oliverweb.com>oliver@oliverweb.com</a> (<font size="1" face="Arial">IP Hidden</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email oliver@oliverweb.com end_email start_name Oliver end_name end_fields--><!--ktalk start_comment-->Ummm... no, I tried the cron job thing long before Ochs suggested it to me, but the permissions are being troublesome since the user changes between the cronjob and the webserver, so it became too big of a hassle.<br><br>I disabled the update thing because it was making the page hang occassionally, locking up the news-file... so now it only updates when I manually build it again or when I submit a new post.<br><br>It says I'm going C R A Z Y !!! =)<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 222543-1020389421 --><!--ktalk start_item 626050-1020371259 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>3</b> - Ochs</font> <font face=arial size=1>Thursday, May 2, 2002</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">129.116.18.98</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Ochs end_name end_fields--><!--ktalk start_comment-->Not sure what it says. The comments don't show up because Oliver disabled the update thingie b/c it was taking up too much processing power. I tried to get him to make a cron job to update once every hour... but we all know Oliver: lazy bum! =) hehe!<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 626050-1020371259 --><!--ktalk start_item 275298-1020364336 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>2</b> - Wes</font> <font face=arial size=1>Thursday, May 2, 2002</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">152.163.207.214</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Wes end_name end_fields--><!--ktalk start_comment-->But...what does it say?  And why does the comments thingy not show that there are any when quite clearly there are?<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 275298-1020364336 --><!--ktalk start_item 743853-1020262371 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - Ochs</font> <font face=arial size=1>Wednesday, May 1, 2002</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">129.116.18.98</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Ochs end_name end_fields--><!--ktalk start_comment-->Congratulations 1337 master!...lol I have that to look forward to next semester! =)<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 743853-1020262371 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="1020240376,84771,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->

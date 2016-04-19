@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>
+OliverWEB - Pictures
+</title></head>
+<!--#include virtual="../../ssi/top.shtml"-->
+<center><h2><font color=blue>Pics!</font></h2><p>
+<!--#include virtual="../contents.txt"-->
+
+<img src=bubblymatt.gif width=250 height=290><br>
+Bubbly Matt: "I can hop. See me hop. See. See. I hop like a cricket. Znip, znip..."<p>
+
+<img src=friends.gif width=350 height=185><br>
+Dad: "He's tall..."<br>
+Minix: "Is he looking at me?"<br>
+Grace: "I think I have something stuck between my teeth. Hmmm... more spices...<br>
+Ochs: *Whistle* "Dumdedum... I can cook. Watch my manly cooking skills. ROAR!"<p>
+
+<img src=ochs.gif width=350 height=314><br>
+Ochs: "*$&*!@(@ I peed in my pants."<br>
+Van: "I think I smell something..."<p>
+
+<img src=chad.gif width=350 height=432><br>
+"Uh oh... I think I forgot to zip my fly."<p>
+
+<!--#include virtual="../contents.txt"-->
+<!--#include virtual="../../ssi/bottom.shtml"-->

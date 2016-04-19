@@ -1,0 +1,92 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:4-->
+<title>OliverWEB - Discussing: To Nancy</title>
+</head>
+<!--#if expr="${HTTP_COOKIE} = owebenter\=uvebeentold" -->
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">To Nancy</font> </b><font face="arial" size="1">Wednesday, September 5, 2001 <!--(10:38:41)--></font><br><font size="2" face="arial"><center><h2><a href=http://www.oliverweb.com/stuff/jiggly>WE HAVE<br>JIGGLY PUFF!!</a></h2></center>Pay the ransom! Or else!<br><br>(To Nancy, but other people might also "enjoy" =)<br><br><font size=1>*Co-Production of Van and Oliver</font><br><b>-<a href="mailto:oliver@oliverweb.com">Oliver</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 137955-999805679 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>4</b> - Minix</font> <font face=arial size=1>Thursday, September 6, 2001 <!--(2:47:59)--></font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">24.27.54.25</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Minix end_name end_fields--><!--ktalk start_comment-->Ha!  College isnt productive... it's like... a big lie... parents think we go there to learn... but instead, its an institution run by people like us... that just let us sleep for a couple hours, then go back to our homes to sleep some more.  <!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 137955-999805679 --><!--ktalk start_item 528490-999802156 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>3</b> - Brook</font> <font face=arial size=1>Thursday, September 6, 2001 <!--(1:49:16)--></font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">207.193.126.124</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Brook end_name end_fields--><!--ktalk start_comment-->What the heck?!?<br><br>Shouldn't you guys be doing something more productive...like going to college?<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 528490-999802156 --><!--ktalk start_item 842455-999800903 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>2</b> - Minix</font> <font face=arial size=1>Thursday, September 6, 2001 <!--(1:28:23)--></font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">24.27.54.25</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Minix end_name end_fields--><!--ktalk start_comment-->this reminds me of some stories ive heard... but i shouldn't mention them.<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 842455-999800903 --><!--ktalk start_item 319248-999800162 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - Van</font> <font face=arial size=1>Thursday, September 6, 2001 <!--(1:16:02)--></font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">128.83.206.86</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Van end_name end_fields--><!--ktalk start_comment-->Did you...eh...send the ransom email yet? Heh heh heh<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 319248-999800162 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="999747521,98170,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->
+<!--#else -->
+<!--#include virtual="/ssi/error.shtml" -->
+<!--#endif -->

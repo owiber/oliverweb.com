@@ -1,0 +1,92 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:4-->
+<title>OliverWEB - Discussing: Orientation!</title>
+</head>
+<!--#if expr="${HTTP_COOKIE} = owebenter\=uvebeentold" -->
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">Orientation!</font> </b><font face="arial" size="1">Wednesday, July 18, 2001 <!--(4:15:53)--></font><br><font size="2" face="arial"><Big><Big><Big><Big>AGHHH!!  WHEN WILL IT EVER END?!?!<br><br><br>=)</big></big></big></big><br><b>-<a href="mailto:minix1f@aol.com">Minix</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 129900-995642808 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>4</b> - <font color="#003399">Oliver</font></font> <font face=arial size=1>Friday, July 20, 2001 <!--(10:26:48)--></font><br>
+      <font face=arial size=1><a href=mailto:oliver@oliverweb.com>oliver@oliverweb.com</a> (<font size="1" face="Arial">IP Hidden</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email oliver@oliverweb.com end_email start_name Oliver end_name end_fields--><!--ktalk start_comment-->Lol... TEX sounds like a rapist? I never thought of that... but I don't like TEX either... online stuff is much better. =)<br><br>Well, off to Ft.Worth in a few minutes... tata! =)<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 129900-995642808 --><!--ktalk start_item 940476-995598629 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>3</b> - Nancy</font> <font face=arial size=1>Thursday, July 19, 2001 <!--(10:10:29)--></font><br>
+      <font face=arial size=1><a href=mailto:Smiles1203@juno.com>Smiles1203@juno.com</a> (<font size="1">152.163.197.74</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email Smiles1203@juno.com end_email start_name Nancy end_name end_fields--><!--ktalk start_comment-->Wasn't that just the biggest waste of time though? I've lived around this campus for 14 years!! I couldn't even spend 4days there and I was COMMUTING!! Did i spell that wrong? Anyway, I don't like Tex..he's a scary guy. Sounds like a rapist huh?<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 940476-995598629 --><!--ktalk start_item 129344-995578660 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>2</b> - Minix</font> <font face=arial size=1>Thursday, July 19, 2001 <!--(4:37:40)--></font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">24.28.87.168</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Minix end_name end_fields--><!--ktalk start_comment-->It's over!  Hoorah!!!!!! =)  and i got the classes I want, hoorah!  <!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 129344-995578660 --><!--ktalk start_item 449975-995499455 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - Olivia</font> <font face=arial size=1>Wednesday, July 18, 2001 <!--(6:37:35)--></font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">66.25.138.232</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Olivia end_name end_fields--><!--ktalk start_comment-->Hahahaha, I'm not being tortured, hahahahaha... my time comes in 2 years.. oh well<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 449975-995499455 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="995490953,67436,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->
+<!--#else -->
+<!--#include virtual="../ssi/error.shtml" -->
+<!--#endif -->

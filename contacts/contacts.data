@@ -1,0 +1,7 @@
+<tr>
+<td width=50% bgcolor="#CCCCCC" align=left valign=top><script language="JavaScript">Out("1","Oliver Wong","oliver@oliverweb.com","2001 McNeil High School","UT Austin","http://www.oliverweb.com","Hope this works well... =)");</script></td>
+<td width=50% bgcolor="#DDDDDD" align=left valign=top><script language="JavaScript">Out("2","Another Test!","test@oliverweb.com","Year/School","UT","","Html? lalala");</script></td></tr>
+<tr>
+<td width=50% bgcolor="#DDDDDD" align=left valign=top><script language="JavaScript">Out("3","Van Nguyen","nguyen_van@yahoo.com","2001? McNeil","University of Texas at Austin","http://","&quot;Shall we depart?..&quot; ^_-<br>");</script></td>
+<td width=50% bgcolor="#CCCCCC" align=left valign=top><script language="JavaScript">Out("4","Victoria Liu","vicky_2001@hotmail.com","McNeil 2001","MIT","","Oliver this sucks! Just kidding. It looks really nice, sorry for not looking at it earlier. I'm at work now, so cya later...");</script></td></tr>
+<!--BEGIN-->

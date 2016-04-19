@@ -1,0 +1,32 @@
+<html>
+<head>
+<title>
+OliverWEB - News Archives
+</title>
+</head>
+<!--#include virtual="../ssi/top.shtml"-->
+
+<h1>August 2003</h1>
+<a name="newsitemEpykEFZFluyqjyrCkA"></a><font face="Verdana, Arial, Helvetica, sans-serif" color="#6B9FCF"><p><strong>Class and Stuff</strong></font><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#ffffff"> <small>Friday, August 29 2003</small><br>
+Well, I've got a decent amount of web-stuff to do... which is taking a decent amount of my time, but oh well. =)<br><br>My classes seem pretty cool... Computer Networks - we're doing some neat stuff with actual real examples (ie. something called the Internet). Computer Graphics - OpenGL time!  Computer Architecture - the prof. worked at IBM and now at Intel... he helped with the G5 core and the maybe-soon-to-be Pentium 5.  Pretty neat.  Comp Arch looks like it'll be pretty fun too, it's the class I'm looking forward to the most.</p>
+-<a href="mailto:oliver@oliverweb.com">Oliver</a><br>
+<a href="http://www.oliverweb.com/cgi-bin/coranto/zcomment.cgi?article=EpykEFZFluyqjyrCkA">Comments (1)</a></font>
+<a name="newsitemEpypAyFAyuvPwTiZLL"></a><font face="Verdana, Arial, Helvetica, sans-serif" color="#6B9FCF"><p><strong>Some stuff for home</strong></font><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#ffffff"> <small>Friday, August 15 2003</small><br>
+Note to self. <a href=http://synergy2.sourceforge.net>Synergy</a> and <a href=http://meld.sourceforge.net/>Meld</a>. That is all.</p>
+-<a href="mailto:oliver@oliverweb.com">Oliver</a><br>
+<a href="http://www.oliverweb.com/cgi-bin/coranto/zcomment.cgi?article=EpypAyFAyuvPwTiZLL">Comments (0)</a></font>
+<a name="newsitemEpypVFVlFujnaiDJPC"></a><font face="Verdana, Arial, Helvetica, sans-serif" color="#6B9FCF"><p><strong>Gentooops</strong></font><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#ffffff"> <small>Sunday, August 10 2003</small><br>
+uhhh... so I was compiling KDE and OpenOffice.org-Ximian at the same time and I managed to use over 2GB up in the compilation of the two of those, which resulted in me using up 100% of that partition. Oops.  Time for # parted /dev/hda.<br><br>In contrast, my 7GB partition for /home is using less than 4% of that allocated space.  I think I know where to put some of that extra space....</p>
+-<a href="mailto:oliver@oliverweb.com">Oliver</a><br>
+<a href="http://www.oliverweb.com/cgi-bin/coranto/zcomment.cgi?article=EpypVFVlFujnaiDJPC">Comments (2)</a></font>
+<a name="newsitemEpypuZluElwoPOjUSx"></a><font face="Verdana, Arial, Helvetica, sans-serif" color="#6B9FCF"><p><strong>Gentoo!</strong></font><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#ffffff"> <small>Saturday, August 9 2003</small><br>
+Gentoo is up and running! I've got a lot to configure though, like various power saving stuff, suspend, etc. etc.  I think I just got my audio working and started compiling stuff... at the moment, apache, php, samba, and grip are compiling, so I decided I should probably let those finish before I compile anymore. =)<br><br>Ooohh! Samba finished! bbl</p>
+-<a href="mailto:oliver@oliverweb.com">Oliver</a><br>
+<a href="http://www.oliverweb.com/cgi-bin/coranto/zcomment.cgi?article=EpypuZluElwoPOjUSx">Comments (0)</a></font>
+<a name="newsitemEpyppykkkFOQnzggNP"></a><font face="Verdana, Arial, Helvetica, sans-serif" color="#6B9FCF"><p><strong>GIMP</strong></font><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#ffffff"> <small>Tuesday, August 5 2003</small><br>
+After a long while of abstaining from using GIMP because of it's horrible (well, IMHO) UI compared to Photoshop (okay, maybe that's just because I'm used to PS now)... I took a stab at 1.3.17 (the latest devel version), and I must say, I am VERY VERY impressed by how much they've improved it.<br><br>Now, they have a menu bar above the image, as well as the crazy right click menu, which is very helpful because I hated that right click thing (again, probably just used to Photoshop).  It didn't import my PSD's very nicely, but that's alright, just would have been a nice perk.  There are a few nice things missing (ie. preview on a lot of the filters/script-fu's) but it definately is getting there.<br><br>I'd say give it another few months and I may begin trying to use it instead of Photoshop for my designs.  GOOOOO (legally =) FREE SOFTWARE!</p>
+-<a href="mailto:oliver@oliverweb.com">Oliver</a><br>
+<a href="http://www.oliverweb.com/cgi-bin/coranto/zcomment.cgi?article=EpyppykkkFOQnzggNP">Comments (2)</a></font>
+
+
+<!--#include virtual="../ssi/bottom.shtml"-->

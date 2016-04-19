@@ -1,0 +1,20 @@
+linkbox=<b><a href="http://www.oliverweb.com/pointlessjunk/index.shtml">Pointless Junk!</a><br>
+<a href="http://www.oliverweb.com/about/index.shtml">About OliverWEB</a><br>
+<a href="http://www.oliverweb.com/about/thanks.shtml">Special Thanks</a></font><br>
+<a href="http://www.oliverweb.com/stuff/olivetti.shtml">Olivetti!</a><br>
+<a href="http://www.oliverweb.com/stuff/oliverwarez.shtml">OliverWAREZ!</a><br>
+<a href="http://www.oliverweb.com/stuff/house.shtml">My House!</a><br>
+<a href="http://www.oliverweb.com/main/home-oweb.shtml">Old Layout ('99-'00)</a><br>
+<a href="http://www.oliverweb.com/main/home2000.shtml">Old Layout ('00-'01)</a><br>
+<a href="http://www.oliverweb.com/main/index01.shtml">Old Layout ('01-'02)</a><br>
+<br>
+
+
+
+
+
+
+
+
+
+=P

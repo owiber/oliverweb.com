@@ -1,0 +1,13 @@
+<meta http-equiv="expires" content="0">
+
+<table width=100% height=100% border=0 align=center valign=center>
+<tr><td align=center valign=center width=100% height=100%>
+
+<font face=arial size=2><b>Sorry, you must first log onto OliverWEB.</b></font>
+<br><br>
+<form method=POST action="http://www.oliverweb.com/cgi-bin/login.cgi">
+<input type=hidden name='url' value="<!--#echo var="DOCUMENT_URI"-->">
+<input type=password name='password' size=20 maxlength=20 style='font-family: Verdana; font-size: 15; background-color: #FFFFFF; color: #000000; border: 1px solid #000000'>
+ <font face=arial>
+<input type="Submit" value="Log On"></font><input type=hidden name='login' value='1'></form>
+</td></tr></table></body></html>

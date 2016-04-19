@@ -1,0 +1,13 @@
+<!--Oliver is da bomb! hehe-->
+<ul><li><input type="radio" name="quotenum" value="2">
+<b>"Ah, okay, I put a more accurate pic up... =) LOL, j/k..."</b> [<u><font color=#0000FF>Oliver</font></u>]
+<!--o 2--><ul>
+</ul></li></ul><p>
+<ul><li><input type="radio" name="quotenum" value="1">
+<b>"Hahaha... hope you like "your" picture, Amanda. =)"</b> [<u><font color=#0000FF>Oliver</font></u>]
+<!--o 1--><ul>
+<li>AAHHHAA! Oliver you DORK!! Change my        !! NOW!! -<u><b><font color=#FF00FF>Amanda</font></u></b>
+<li>Oh gosh...I'M SORRY AMANDA!! I didn't do it, but still...I'm sorry..lol.. ;o) -<u><b><font color=#800080>Jennifer</font></u></b>
+<li>Man.... Oliver is CRUEL!! -<u><b><font color=#8000FF>Sarah</font></u></b>
+<li>LoL.. oh my gosh -<u><b><font color=#0080C0>Olivia</font></u></b>
+</ul></li></ul><p>

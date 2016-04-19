@@ -1,0 +1,26 @@
+<html>
+<head>
+<title>
+OliverWEB - Pictures
+</title></head>
+<!--#include virtual="../../ssi/top.shtml"-->
+<center><h2><font color=blue>Pics!</font></h2><p>
+<!--#include virtual="../contents.txt"-->
+
+<img src=kawamura.gif width=350 height=229><br>
+"Trick or Treat, Ms.Kawamura!"<br>
+Ms.Kawamura: *Dang, I get enough of these morons at school. Here, take the candy. Leave. Leave! LEAVE!*<p>
+
+<img src=sarah.gif width=300 height=313><br>
+[BWHAHAHAHAHAHAHA!! No pic, huh Sarah!? HAHAH!]<br>
+Sarah: "Hey guys!! Oh, hold on... my butt itches."<p>
+
+<img src=oriana.gif width=200 height=209><br>
+Oriana: "The itzy bitsy spider went up the water spout..."<p>
+
+<img src=chad.gif width=380 height=240><br>
+Ms.Kawamura: "Chad, why do you have to torment me so? GO AWAY!"<br>
+Chad: *Hey, Ms.K loves me. I feel sooo speeeeecial.*<p>
+
+<!--#include virtual="../contents.txt"-->
+<!--#include virtual="../../ssi/bottom.shtml"-->

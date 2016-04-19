@@ -1,0 +1,25 @@
+<html>
+<head>
+<title>
+OliverWEB - Pictures
+</title></head>
+<!--#include virtual="../../ssi/top.shtml"-->
+<center><h2><font color=blue>Pics!</font></h2><p>
+<!--#include virtual="../contents.txt"-->
+
+ <img border="1" src="ca.jpg" width="300" height="226"><br>
+Chad: &quot;I'll just pretend this is Britney Spears...&quot;<br>
+A: &quot;Yeah... yeah yeah yeah yeah yeah...&quot;<br>
+<p><img border="1" src="rainbow.jpg" width="300" height="223"><br>
+Chad: &quot;I think I'll pretend this is Britney Spears too...&quot;<br>
+(It's Rainbow Bright =)<br>
+<p><img border="1" src="minix.jpg" width="300" height="216"><br>
+<strike>Another one of</strike> Minix's talent<strike>s</strike><br>
+<p>
+
+<img border="1" src="overlapped.jpg" width="350" height="255"><br>
+Glad they told us that's what it was... I would've thought Olivia was growing a
+purple chair out of her head...<p>
+
+<!--#include virtual="../contents.txt"-->
+<!--#include virtual="../../ssi/bottom.shtml"-->

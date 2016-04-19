@@ -1,0 +1,47 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:1-->
+<title>OliverWEB - Discussing: Chad Stuff</title>
+</head>
+
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#0000FF">Chad Stuff</font> </b><font face="arial" size="1">Tuesday, November 28, 2000</font><br><font size="2" face="arial">Well, as you may have noticed, there's a new section on the sidebar now... "Chad Stuff"... nothing in it right now, but there will be. I just gotta give Chad his login/password and he'll be adding his stories/poetry soon. Enjoy (soon). =)<br>-<a href="mailto:oliver@oliverweb.com">Oliver</a></p></font>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 358533-975469070 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - <font color="#00FF00">Oliver</font></font> <font face=arial size=1>Tuesday, November 28, 2000</font><br>
+      <font face=arial size=1><a href=mailto:oliver@oliverweb.com>oliver@oliverweb.com</a> (<font size="1" face="Arial">IP Hidden</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email oliver@oliverweb.com end_email start_name Oliver end_name end_fields--><!--ktalk start_comment-->Just testing out comment for categories... as you may notice, things that have to do with Chad Stuff will be posted on the frontpage as well as on it's own page...<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 358533-975469070 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="975469004,90078,ChadStuff"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->

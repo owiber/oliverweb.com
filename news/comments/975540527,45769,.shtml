@@ -1,0 +1,33 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:0-->
+<title>OliverWEB - Discussing: Random Thoughts</title>
+</head>
+
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#0000FF">Random Thoughts</font> </b><font face="arial" size="1">Wednesday, November 29, 2000</font><br><font size="2" face="arial">My Ode to Love<br><script language="JavaScript">var bla=new String(window.location); if (bla.search("chad") == -1){ document.write("<a href=http://www.oliverweb.com/chad>Click here</a> for the rest!<"); document.write("!--"); }</script>Ever meet that special girl<br>That makes your knees weak<br>And creates butterflies in your stomach?<br>Me too......<br>But I say screw it.<br>Let's go eat some Oreos.<script language="JavaScript">if (bla.search("chad") == -1)//--></script><br>-<a href="mailto:oliver@oliverweb.com">Oliver</a></p></font>
+
+
+
+<!--ktalk newpost-->
+
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="975540527,45769,ChadStuff"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->

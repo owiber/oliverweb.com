@@ -1,0 +1,319 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="http://www.movabletype.org/" />
+
+<title>OliverWEB 2005: BUSH WINS!</title>
+
+<link rel="stylesheet" href="http://www.oliverweb.com/stylesheet.css" type="text/css" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.oliverweb.com/index.rdf" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="http://www.oliverweb.com/atom.xml" />
+
+<link rel="start" href="http://www.oliverweb.com/" title="Home" />
+<link rel="prev" href="http://www.oliverweb.com/archives/2004/11/project_samitic.shtml" title="Project: Samiticus Buttmonger" />
+
+<link rel="next" href="http://www.oliverweb.com/archives/2004/11/rss_headline_re.shtml" title="RSS Headline Reader" />
+
+
+<script type="text/javascript" language="javascript">
+<!--
+
+var HOST = 'www.oliverweb.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + (expires ? "; expires=" + expires : "") + (path ? "; path=" + path : "") + (domain ? "; domain=" + domain : "") + (secure ? "secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    now = now.toGMTString();
+    if (f.author != undefined)
+       setCookie('mtcmtauth', f.author.value, now, '/', '', '');
+    if (f.email != undefined)
+       setCookie('mtcmtmail', f.email.value, now, '/', '', '');
+    if (f.url != undefined)
+       setCookie('mtcmthome', f.url.value, now, '/', '', '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '/', '');
+    deleteCookie('mtcmthome', '/', '');
+    deleteCookie('mtcmtauth', '/', '');
+    f.email.value = '';
+    f.author.value = '';
+    f.url.value = '';
+}
+
+//-->
+</script>
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.oliverweb.com/archives/2004/11/bush_wins.shtml"
+    trackback:ping="http://www.oliverweb.com/mt/mt-tb.cgi/41"
+    dc:title="BUSH WINS!"
+    dc:identifier="http://www.oliverweb.com/archives/2004/11/bush_wins.shtml"
+    dc:subject="events"
+    dc:description="I&apos;m going to go ahead and say this before the major news networks do. Bush wins. Unless if I&apos;m being outright lied to or there is some crazy fact I am not aware of, I don&apos;t see how Ohio is..."
+    dc:creator="Oliver"
+    dc:date="2004-11-03T03:59:37-06:00" />
+</rdf:RDF>
+-->
+
+
+
+
+</head>
+
+<body>
+<div id="all">
+<div id="headerimage">
+	<div id="links"><a href="http://www.oliverweb.com">blog</a> | <a href="http://www.oliverweb.com/gallery">gallery</a> | <a href="http://www.oliverweb.com/main/">legacy</a></div>	
+</div>
+<div id="container">
+<div class="spacer"></div>
+<div id="sidebar">
+
+<!-- START ME -->
+<h2>me</h2>
+<p>
+name: oliver wong<br>
+major: computer science<br>
+location: ut austin<br>
+dob: 10.16.83<br>
+status: alive ;)
+</p>
+<!-- END ME -->
+
+<!-- START EQUIPMENT-->
+<h2>toys</h2>
+<p>
+apple powerbook 12"<br>
+athlon 64 3200+<br>
+geforce 6800gt oc<br>
+4g ipod 20gb<br>
+canon eos digital rebel<br>
+sony ericsson t610
+</p>
+<!-- END EQUIPMENT-->
+
+<!-- START CATEGORIES -->
+<h2>categories</h2>
+<ul>
+  <li><a href="http://www.oliverweb.com/archives/events/index.shtml">events</a></li>
+  <li><a href="http://www.oliverweb.com/archives/friends/index.shtml">friends</a></li>
+  <li><a href="http://www.oliverweb.com/archives/misc/index.shtml">misc</a></li>
+  <li><a href="http://www.oliverweb.com/archives/news/index.shtml">news</a></li>
+  <li><a href="http://www.oliverweb.com/archives/photographs/index.shtml">photographs</a></li>
+
+</ul>
+<!-- END CATEGORIES -->
+<br />
+<!-- START ARCHIVES -->
+<h2>archives</h2>
+<ul>
+<li><a href="http://www.oliverweb.com/archives/2004/11/index.shtml">November 2004</a></li>
+<li><a href="http://www.oliverweb.com/archives/2004/10/index.shtml">October 2004</a></li>
+
+</ul>
+<!-- END ARCHIVES -->
+<br />
+
+<!-- START LINKS -->
+<h2>links</h2>
+<ul>
+<li><a href="http://www.gizmodo.com">Gizmodo</a></li>
+<li><a href="http://www.hardocp.com">[H]ard|OCP</a></li>
+<li><a href="http://www.liquid-acc.com">Liquid</a></li>
+<li><a href="http://www.osnews.com">OSNews</a></li>
+<li><a href="http://www.slashdot.org">Slashdot</a></li>
+</ul>
+<!-- END LINKS -->
+<br />
+
+<!-- START SEARCH-->
+<h2>search</h2>
+<form method="get" action="http://www.oliverweb.com/mt/mt-search.cgi">
+<input type="hidden" name="IncludeBlogs" value="1" />
+<input id="search" name="search" size="20" /><br />
+<input type="submit" value="Search" />
+</form>
+<!-- END SEARCH-->
+
+<br />
+
+</div> <!-- END SIDEBAR -->
+
+<div id="content">
+<div id="contentblurb">
+<p>Welcome to OliverWEB 2005, where all your dreams come true!  Even Sam's!  Just follow the yellow brick road!  Becoz, becoz, becoz, becoz, becoz!!  No one gets in to see the wizard, not no way, not no how! <br /><br /> ...*ahem*... so, if you're curious where all the old OliverWEB stuff on the sidebar went... it's gone. Yes yes, I've decided to drop all the old stuff and create an entirely new site including backend, layout, etc.  The <a href="http://www.oliverweb.com/main">old OliverWEB</a> can still be found by clicking on the "legacy" link at the top right of this page. Enjoy!</p>
+</div>
+<br />
+<!-- START BLOGS -->
+
+<div id="blogs">
+
+<a href="http://www.oliverweb.com/archives/2004/11/project_samitic.shtml">&laquo; Project: Samiticus Buttmonger</a> |
+
+<a href="http://www.oliverweb.com/">Main</a>
+| <a href="http://www.oliverweb.com/archives/2004/11/rss_headline_re.shtml">RSS Headline Reader &raquo;</a>
+
+
+<br /><br />
+<h2>&gt;&gt; November 03, 2004</h2>
+
+<h3><a href="http://www.oliverweb.com/archives/2004/11/bush_wins.shtml">BUSH WINS!</a></h3>
+
+<p>I'm going to go ahead and say this before the major news networks do.  Bush wins.  Unless if I'm being outright lied to or there is some crazy fact I am not aware of, I don't see how Ohio is considered a "too close to call."  Same for New Mexico (although I'm a bit less sure about that as I don't know how many provisional/absentee ballots are out there for NM, but I doubt enough to swing 11k in favor of Bush).</p>
+
+<p>Let's look at the numbers.  Right now, with 99% precints reporting in Ohio, Bush has 2,777,645 votes and Kerry 2,632,547.  So that's about a 145k lead.  Let's say there's a generous 250k absentee and provisional ballots still out there and ALL of them are valid.  So, in order for Kerry to tie (x is percentage of votes Kerry needs):</p>
+
+<blockquote><pre>250x = 250(1-x) + 145
+250x = 250 - 250x + 145
+x = 395/500 = .79 = 79%</pre></blockquote>
+
+<p>So essentially, Kerry needs to get 80% or more of the absentee/provisional ballots to win.  Does that seem likely? I think not. It seriously seems like the media is trying to make this another Florida '00.</p>
+
+<div id="a000042more"><div id="more">
+
+</div></div>
+
+<p class="posted"><img src="/mt/images/mininav-entries.gif" border="0" alt="posted" /> posted by Oliver at November  3, 2004 03:59 AM</p>
+
+<h2 id="trackbacks">Trackback Pings</h2>
+<p class="techstuff">TrackBack URL for this entry:<br />
+http://www.oliverweb.com/mt/mt-tb.cgi/41</p>
+
+
+
+
+
+<h2 class="comments">Comments</h2>
+
+<div class="comment">
+<div id="c45">
+<p class="posted">posted by: ochs  at November  3, 2004 11:05 AM</p><p>Kerry just conceded on the fone. Speeches are to be made in the next few hours. Crazy night! i had so many freaking browser windows and tabs open constantly refreshing! haha</p>
+</div>
+</div>
+
+
+
+
+<br />
+
+<h2 class="comments">Post a comment</h2>
+
+ 
+
+
+
+<form method="post" action="http://www.oliverweb.com/mt/mt-comments.cgi" name="comments_form" onsubmit="if (this.bakecookie[0].checked) rememberMe(this)">
+<input type="hidden" name="static" value="1" />
+<input type="hidden" name="entry_id" value="42" />
+
+<div id="name_email">
+<p><label for="author">Name:</label><br />
+<input tabindex="1" id="author" name="author" /></p>
+
+<p><label for="email">Email Address:</label><br />
+<input tabindex="2" id="email" name="email" /></p>
+</div>
+
+
+
+<p><label for="url">URL:</label><br />
+<input tabindex="3" type="text" name="url" id="url" />
+Remember Me?
+<input type="radio" id="remember" onclick="rememberMe(this.form)" name="bakecookie" /><label for="remember">Yes</label><input type="radio" id="forget" name="bakecookie" onclick="forgetMe(this.form)" value="Forget Info" style="margin-left: 15px;" /><label for="forget">No</label><br style="clear: both;" />
+</p>
+
+<p><label for="text">Comments:</label> <br/>
+<textarea tabindex="4" name="text" rows="10" cols="50"></textarea></p>
+
+<div align="center">
+<input type="submit" name="preview" tabindex="5" 
+    value="&nbsp;Preview&nbsp;" />
+<input style="font-weight: bold;" type="submit" name="post" 
+    tabindex="6" value="&nbsp;Post&nbsp;" />
+</div>
+</form>
+
+
+
+
+<script type="text/javascript" language="javascript">
+<!--
+if (document.comments_form.email != undefined)
+    document.comments_form.email.value = getCookie("mtcmtmail");
+if (document.comments_form.author != undefined)
+    document.comments_form.author.value = getCookie("mtcmtauth");
+if (document.comments_form.url != undefined)
+    document.comments_form.url.value = getCookie("mtcmthome");
+if (getCookie("mtcmtauth") || getCookie("mtcmthome")) {
+    document.comments_form.bakecookie[0].checked = true;
+} else {
+    document.comments_form.bakecookie[1].checked = true;
+}
+//-->
+</script>
+
+
+
+
+
+</div>
+<!-- END BLOGS -->
+
+</div>
+<div class="spacer"></div>
+</div>
+<div id="bottombar">
+<div id="text">
+
+<a href="http://www.oliverweb.com/atom.xml"><img src="/images05/rssbadge.gif" width="36" height="14" border="0" alt="" /></a>
+
+Powered by <a href="http://www.movabletype.org">Movable Type 3.121</a>
+</div>
+</div>
+</div>
+</body>
+
+</html>

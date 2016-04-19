@@ -1,0 +1,142 @@
+<html>
+
+<head>
+<title>OliverWEB</title>
+</head>
+
+<style><!--
+A:link {font-family: "Arial", sans-serif; text-decoration: none}
+A:visited {font-family: "Arial", sans-serif; text-decoration: none}
+A:active {font-family: "Arial", sans-serif; text-decoration: none}
+a:hover {font-family: "Arial", sans-serif; text-decoration: underline }
+body {font-family: "Arial", sans-serif}
+td {font-family: "Arial", sans-serif}
+
+--></style>
+
+<body text="#000000" link="#003399" vlink="#3366CC" alink="#0000FF" topmargin="0" leftmargin="0" bottommargin="0">
+
+
+<div align="center">
+  <center>
+  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="750" id="AutoNumber1">
+    <tr>
+      <td width="100%">
+      <div align="left">
+        <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="750" id="AutoNumber2">
+          <tr>
+            <td width="270"><map name="FPMap0">
+            <area href="http://www.oliverweb.com/stuff/donotenter.shtml" shape="rect" coords="12, 126, 51, 142">
+            <area href="http://www.oliverweb.com" shape="rect" coords="4, 6, 245, 121">
+            </map>
+            <img border="0" src="http://www.oliverweb.com/images01/oliverweb.jpg" usemap="#FPMap0" width="270" height="143"></td>
+            <td width="269" align="left" valign="top">
+            <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber3">
+              <tr>
+                <td width="100%">
+                <img border="0" src="http://www.oliverweb.com/images01/quotetop.jpg" width="269" height="35"></td>
+              </tr>
+              <tr>
+                <td width="100%" background="http://www.oliverweb.com/images01/quoteback.jpg">
+                <img border="0" src="http://www.oliverweb.com/images01/transparent.gif" width="1" height="75" align="left"><b><font face="Arial" size="2">Random 
+                Quote:</font><font size="1" face="Arial"> <!--#exec cgi="../cgi-bin/rand_text.cgi"--></font></b></td>
+              </tr>
+              <tr>
+                <td width="100%">
+                <img border="0" src="http://www.oliverweb.com/images01/quotebottom.jpg" width="269" height="33"></td>
+              </tr>
+            </table>
+            </td>
+            <td width="211" align="left" valign="top"><map name="FPMap1">
+            <area href="http://www.oliverweb.com" shape="rect" coords="41, 12, 191, 142">
+            </map>
+            <img border="0" src="http://www.oliverweb.com/images01/oliverweb2fp.jpg" usemap="#FPMap1" width="211" height="143"></td>
+          </tr>
+        </table>
+      </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="100%">
+      <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="750" id="AutoNumber4">
+        <tr>
+          <td width="195" background="http://www.oliverweb.com/images01/sidebg.jpg" valign=top align=left><OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+ codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0"
+ WIDTH=195 HEIGHT=457>
+ <PARAM NAME=movie VALUE="http://www.oliverweb.com/images01/oweb.swf"> <PARAM NAME=quality VALUE=best> <PARAM NAME=bgcolor VALUE=#FFFFFF> 
+            <EMBED src="http://www.oliverweb.com/images01/oweb.swf" quality=best bgcolor=#FFFFFF  WIDTH=195 HEIGHT=457 TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></EMBED></OBJECT>
+       </td>
+          <td width="555" align=left valign=top>
+    <!--#include virtual="../news/news.txt" -->
+    <center><p><h2><a href=http://www.oliverweb.com/news/archive.shtml>News Archives</a></h2></p></center>
+    </font></td>
+          <td width="201" align="left" valign="top">
+          <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="201" id="AutoNumber5">
+            <tr>
+              <td width="201" colspan="3">
+              <img border="0" src="http://www.oliverweb.com/images01/side2top.jpg" width="201" height="22" align="right" hspace="0"></td>
+            </tr>
+            <tr>
+              <td width="29" align="left" valign="top">
+              <p align="center">
+              <img border="0" src="http://www.oliverweb.com/images01/side2left.jpg" width="29" height="435" align="left" hspace="0"></td>
+              <td width="152" align="left" valign="top" background="http://www.oliverweb.com/images01/side2bg.jpg">
+              <font face="Arial" size=2>   <!--exec cgi="../cgi-bin/pollssi.cgi" -->
+<b><font size=4>Stuff</font></b><br><font size=1>
+<a href="http://www.oliverweb.com/boredom2/quotes" id=w><b>Quotes! Page</b></a><br>
+<a href="http://www.oliverweb.com/stuff" id=w><b>StUfF Dir.</b></a><br>
+<a href="http://babelfish.altavista.digital.com" target="new" id="w">Babelfish</a><br>
+<a href="http://www.phys.unsw.edu.au/3rdyearlab/graphing/graph.html" target="new" id="w">Graph Thingy</a><br><br>
+<center>
+<a href="http://www.mrtechhappy.com" target="_blank">
+<img src="http://www.mrtechhappy.com/button.gif"
+width="88" height="31" border="0"></a><br><br>
+<a href="http://www.hardocp.com" target="_blank">
+<img src="http://www.oliverweb.com/images/hocp.gif"
+width="88" height="31" border="0"></a><br><br>
+<a href="http://www.hometown.aol.com/holyyam" target="_blank">
+<img src="http://www.oliverweb.com/images/wessomatika.jpg"
+width="88" height="31" border="0"></a><br><br>
+<img src="http://www.oliverweb.com/images/christ.gif" alt="He died for you." width="88" height="31" border="1"><br><br>
+
+<p>
+<font face=arial size=1>
+<!--#exec cgi="../cgi-bin/counter.cgi"--> (Since Oct. 1999)
+<br><br>
+<font size=1>Another counter!</font><br>
+<a target="_top" href="http://v.extreme-dm.com/?login=wabbaman">
+<img name=im src="http://v1.extreme-dm.com/i.gif" height=38
+border=0 width=41 alt=""></a><script language="javascript"><!--
+an=navigator.appName;d=document;function
+pr(){d.write("<img src=\"http://v0.extreme-dm.com",
+"/0.gif?tag=wabbaman&j=y&srw="+srw+"&srb="+srb+"&",
+"rs="+r+"&l="+escape(d.referrer)+"\" height=1 ",
+"width=1>");}srb="na";srw="na";//-->
+</script><script language="javascript1.2"><!--
+s=screen;srw=s.width;an!="Netscape"?
+srb=s.colorDepth:srb=s.pixelDepth;//-->
+</script><script language="javascript"><!--
+r=41;d.images?r=d.im.width:z=0;pr();//-->
+</script><noscript><img height=1 width=1 alt="" 
+src="http://v0.extreme-dm.com/0.gif?tag=wabbaman&j=n"></noscript>
+<br>(Since Oct. 2001)
+
+
+</center>          
+          
+          </b></font></td>
+              <td width="20" align="right" valign="top">
+              <img border="0" src="http://www.oliverweb.com/images01/side2right.jpg" width="20" height="435"></td>
+            </tr>
+          </table>&nbsp;</td>
+        </tr>
+      </table>
+      </td>
+    </tr>
+  </table>
+  </center>
+</div>
+
+</body>
+
+</html>

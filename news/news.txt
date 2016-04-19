@@ -1,0 +1,66 @@
+
+	<!-- NP v3.8 -->
+	<a name="newsitem1034317318,59227,"></a>
+<p><b><font face="arial" color="#003399">New Layout</font> </b><font face="arial" size="1">Friday, October 11, 2002</font><br><font size="2" face="arial">Well, here it is... and it's late... and there are still a few things I want to add and no doubt a few bugs... so I'll fix them later. =)<br><b>-<a href="mailto:oliver@oliverweb.com">Oliver</a></b></font><br>
+
+	<a href="http://www.oliverweb.com/news/comments/1034317318,59227,.shtml"><font size=2 face=arial>Comments (0)</font></a></p>
+	
+<a name="newsitem1033706172,18457,"></a>
+<p><b><font face="arial" color="#003399">For you</font> </b><font face="arial" size="1">Thursday, October 3, 2002</font><br><font size="2" face="arial">RISC TAK3R: going with the flow.. dancing in the street<br>RISC TAK3R: addidas on my feet<br>RISC TAK3R: yo as i flow .. with my homie at my side.... rolling in my ride..<br>RISC TAK3R: a 93 camry red is the color , toyota is the make<br>RISC TAK3R: i can run all day.. a porsche i cant take..<br>RISC TAK3R: lol..<br>RISC TAK3R: and i could keep going..<br>RISC TAK3R: man.. i have been getting good at flowing! =)<br><b>-<a href="mailto:minix@mail.utexas.edu">Minix</a></b></font><br>
+
+	<a href="http://www.oliverweb.com/news/comments/1033706172,18457,.shtml"><font size=2 face=arial>Comments (4)</font></a></p>
+	
+<a name="newsitem1033067788,78250,"></a>
+<p><b><font face="arial" color="#003399">Haha</font> </b><font face="arial" size="1">Thursday, September 26, 2002</font><br><font size="2" face="arial">Hehe, well I'm in my room right now and I noticed that my WLAN is picking up a network.... hmmmm...<br><br>Haha, turns out, I can still connect to the WAP I setup in Andrew's room from up here =)<br><br>Let's watch Andrew's bandwidth GOOoOOooOOoOOoOoOoOOO... =D<br><b>-<a href="mailto:oliver@oliverweb.com">Oliver</a></b></font><br>
+
+	<a href="http://www.oliverweb.com/news/comments/1033067788,78250,.shtml"><font size=2 face=arial>Comments (5)</font></a></p>
+	
+<a name="newsitem1032535751,44339,"></a>
+<p><b><font face="arial" color="#003399">PDA</font> </b><font face="arial" size="1">Friday, September 20, 2002</font><br><font size="2" face="arial">Does anyone know what I did with my Palm PDA I got for free from Dell last year?<br><br>I forget if I loaned it out to someone or if I've just plain lost it... *shrug*... but I'd like to play around with it again, so if you have any clues as to where it lies, please contact me. =)<br><b>-<a href="mailto:oliver@oliverweb.com">Oliver</a></b></font><br>
+
+	<a href="http://www.oliverweb.com/news/comments/1032535751,44339,.shtml"><font size=2 face=arial>Comments (5)</font></a></p>
+	
+<a name="newsitem1032499945,29724,"></a>
+<p><b><font face="arial" color="#003399">NEWS!</font> </b><font face="arial" size="1">Thursday, September 19, 2002</font><br><font size="2" face="arial">I can submit news... yay!<br><br>Just thought I would say that!<br><br>Woooot!<br><br><b>-<a href="mailto:bshelley@austin.rr.com">Brook</a></b></font><br>
+
+	<a href="http://www.oliverweb.com/news/comments/1032499945,29724,.shtml"><font size=2 face=arial>Comments (2)</font></a></p>
+	
+<a name="newsitem1032414520,66152,"></a>
+<p><b><font face="arial" color="#003399">Yeah...</font> </b><font face="arial" size="1">Wednesday, September 18, 2002</font><br><font size="2" face="arial">So I just noticed that the counter reset a while back... I'll probably just remove it... *shrug*...<br><br>Homework... too... much... M427k... ughh... pressure... must.... ahh... ughhh... oooOoOooooOoOohhh...<br><b>-<a href="mailto:oliver@oliverweb.com">Oliver</a></b></font><br>
+
+	<a href="http://www.oliverweb.com/news/comments/1032414520,66152,.shtml"><font size=2 face=arial>Comments (4)</font></a></p>
+	
+<a name="newsitem1032240801,16541,"></a>
+<p><b><font face="arial" color="#003399">=)</font> </b><font face="arial" size="1">Monday, September 16, 2002</font><br><font size="2" face="arial">MONKEY MONKEY KEY KEY KEY!!!!<br><b>-<a href="mailto:oliver@oliverweb.com">Oliver</a></b></font><br>
+
+	<a href="http://www.oliverweb.com/news/comments/1032240801,16541,.shtml"><font size=2 face=arial>Comments (3)</font></a></p>
+	
+<a name="newsitem1032239848,92454,"></a>
+<p><b><font face="arial" color="#003399">Tuesday</font> </b><font face="arial" size="1">Monday, September 16, 2002</font><br><font size="2" face="arial">My only hope is that more than two people show up to my discussion. =)<br><b>-<a href="mailto:oliver@oliverweb.com">Oliver</a></b></font><br>
+
+	<a href="http://www.oliverweb.com/news/comments/1032239848,92454,.shtml"><font size=2 face=arial>Comments (3)</font></a></p>
+	
+<a name="newsitem1031979898,19355,"></a>
+<p><b><font face="arial" color="#003399">Not to be a...</font> </b><font face="arial" size="1">Friday, September 13, 2002</font><br><font size="2" face="arial">...party pooper, but I just looked at Assignment 2 in CS307, and it's quite a bit more difficult than I thought...<br><br>In fact, it seems a bit harsh of Mike to give this to you guys as the second assignment. Now, if you were allowed to use other Java classes like ArrayList or some Collection types... I could see this being alright... but as it stands... definately a good few hours at least I'd say.<br><br>I started it about 30 minutes ago and reached a point where I got too lazy and stopped, there are quite a few concepts being used and definately a lot of thought required...<br><br>So... basically, my point is to get started... <i>ASAP</i>. =)<br><b>-<a href="mailto:oliver@oliverweb.com">Oliver</a></b></font><br>
+
+	<a href="http://www.oliverweb.com/news/comments/1031979898,19355,.shtml"><font size=2 face=arial>Comments (2)</font></a></p>
+	
+<a name="newsitem1031935106,61353,"></a>
+<p><b><font face="arial" color="#003399">IT'S.... FRIDAY!!!!</font> </b><font face="arial" size="1">Friday, September 13, 2002</font><br><font size="2" face="arial">The week is <i>done!</i> w00t =)<br><br>Now... gotta take a shower and turn in CS336 homework, then weekend time! =)<br><br>So, I think I'm gonna get a new wireless AP cause the one I have right now is not the bomb... probably will get a "cheap" $80ish d-link one... unless if anyone else has any suggestions or negative comments regarding the d-link...<br><br>I think Van got that one though and it's been working well?<br><br>I've been surprised by my abilities to wake up on time these past few weeks... I even get up before my alarm clock goes off sometimes! Perhaps it's the re-aquirement of a regular sleep pattern... =)<br><b>-<a href="mailto:oliver@oliverweb.com">Oliver</a></b></font><br>
+
+	<a href="http://www.oliverweb.com/news/comments/1031935106,61353,.shtml"><font size=2 face=arial>Comments (3)</font></a></p>
+	
+<a name="newsitem1031895761,2593,"></a>
+<p><b><font face="arial" color="#003399">Another Week</font> </b><font face="arial" size="1">Thursday, September 12, 2002</font><br><font size="2" face="arial">...is almost over. AAaaaahhh... I'm looking forward to going to <a href=http://www.liquid-acc.com>Liquid</a> again, anyone wanna join me (besides the people who were planning on going anyways =)?<br><br>I actually answered people's questions in lab hours today too... alright, just... one more day til the weekend...<br><b>-<a href="mailto:oliver@oliverweb.com">Oliver</a></b></font><br>
+
+	<a href="http://www.oliverweb.com/news/comments/1031895761,2593,.shtml"><font size=2 face=arial>Comments (4)</font></a></p>
+	
+<a name="newsitem1031596043,48839,"></a>
+<p><b><font face="arial" color="#003399"></font> </b><font face="arial" size="1">Monday, September 9, 2002</font><br><font size="2" face="arial">And your little dog, too.<br><b>-<a href="mailto:phunkiereyelids@aol.com">Wes</a></b></font><br>
+
+	<a href="http://www.oliverweb.com/news/comments/1031596043,48839,.shtml"><font size=2 face=arial>Comments (2)</font></a></p>
+	
+
+	<font size="-2"><form action="http://www.oliverweb.com/cgi-bin/viewnews.cgi?search" method="post">Search our news archives: <input type="text" name="searchstring"><input type="submit" name="submit" value="Submit"></form>
+	<a href="http://www.oliverweb.com/cgi-bin/viewnews.cgi?newsall">View all news items</a></font><br>
+	

@@ -1,0 +1,53 @@
+<html>
+
+<head>
+<meta name="GENERATOR" content="Microsoft FrontPage 6.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>OliverWEB - Friends 2004</title>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+//-->
+</script>
+<style type="text/css" media="screen">
+
+body {margin:0px; padding:0px;} /* Need to set body margin and padding to get consistency between browsers. */
+
+#bottomhat {
+	position:absolute;
+	left:50%;
+	margin-top:131px;
+	margin-left:9px;
+	text-align:left;
+	padding:0px;
+}
+
+#side {
+	color: #FFCC33;
+	text-decoration: none;
+}
+
+</style>
+</head>
+<div id="bottomhat"><img src="bottomhat.png" width="376" height="130" border="0"></div>
+<body>
+<div align="center">
+  <center>
+    <table border="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="770" id="AutoNumber1" cellpadding="0">
+      <tr>
+      <td colspan="3">
+      <img border="0" src="top.png" width="770" height="131"></td>
+    </tr>
+    <tr>
+        <td width="107" align="left" valign="top" background="leftside.png"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="107" height="376">
+            <param name="movie" value="face.swf">
+            <param name="quality" value="high">
+            <embed src="face.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="107" height="376"></embed></object></td>
+	<td width="438" align="left" valign="top"> 
+		<font face="Georgia, Times New Roman, Times, serif">

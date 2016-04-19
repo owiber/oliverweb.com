@@ -1,0 +1,161 @@
+<!--#include virtual="topssi.shtml" -->
+
+	<h3 id=name>Amanda Kluth</h3>
+
+			<img src="./temp/bird.jpg" border="1" width="130" height="112" alt="Temporary Pic =)"><br>
+			15 - 4/30/85<br>
+        	Jackson, MN<br>
+        	<a id=w href=mailto:sweets1447@hotmail.com>sweets1447@hotmail.com</a><br></font>
+        	<br><br><img src="./amandak/glasses.jpg" border="1" width="130" height="133" alt="Amanda">
+        	<br id=small>Amanda didn't want this picture up...oh well. =)
+        	<br><br><img src="./amandak/ah.jpg" border="1" width="130" height="133" alt="Amanda">
+        	<br id=small>"Like... OMG, Oliver &amp; Minix are so hot and sexy!" <br id=small>[Thx to Minix for caption =)]
+        </td>
+        <td valign="top" width="389" background="bigpaw.gif">
+        		<h3>Amanda Kluth</h3>
+            	<h1>Just Stuff</h1>
+
+          		<h2>AIM SN:</h2>
+          		<div>Sweets1447</div>
+
+          		<h2>Smiley Version:</h2>
+          		<div>:O)</div>
+
+          		<h2>Hobbies:</h2>
+          		<div>Tennis, talking on the computer, hanging out with friends, watching movies all the time.</div>
+
+            	<h1>Favorites</h1>
+
+          		<h2>Quote:</h2>
+          		<div>"Everything happens for a reason."</div>
+
+          		<h2>School Subject:</h2>
+          		<div>I don't have one at all...</div>
+
+          		<h2>Cartoon Character:</h2>
+          		<div>Superman all the way...b/c he is a hottie</div>
+
+          		<h2>Comic Character:</h2>
+          		<div>Superman</div>
+
+           		<h2>Color:</h2>
+          		<div>blue, green, orange, and pink</div>
+
+           		<h2>Food:</h2>
+          		<div>HOTDOGS AND GUMMY SNACKS!!!!!</div>
+
+          		<h2>Book:</h2>
+          		<div>To Kill a Mockingbird</div>
+
+          		<h2>Movie:</h2>
+          		<div>Shakespear in Love</div>
+
+          		<h2>Board/Non-electronic Game:</h2>
+          		<div>I don't play those kind of games</div>
+
+          		<h2>Electronic Game:</h2>
+          		<div>Mario Racing...I can kick anyones butt!</div>
+
+          		<h2>Type of Music:</h2>
+          		<div>All kinds of music</div>
+
+          		<h2>Song:</h2>
+          		<div> "Last Resort" by Papa Roach</div>
+
+           		<h2>Feeling:</h2>
+          		<div>Love and being known by ppl</div>
+
+           		<h2>Sense:</h2>
+          		<div>hearing</div>
+
+           		<h2>Animal:</h2>
+          		<div>Panda</div>
+
+           		<h2>TV Show:</h2>
+          		<div>Buffy the Vampier Slayer, and Friends</div>
+
+           		<h2>Memory:</h2>
+          		<div>I have so many I can't choose</div>
+
+				<h1>Other Stuff</h1>
+          		<h2>Overly-used word, phrase, or whatever:</h2>
+          		<div>I just talk too much.</div>
+
+          		<h2>Funniest Moment:</h2>
+          		<div> there are too many, and they weren't funny to me...just other ppl</div>
+
+          		<h2>Pet peeve(s):</h2>
+          		<div>When ppl think they are better than everyone else when they are just normal like everyone. I HATE THAT SO MUCH</div>
+
+          		<h2>Self-description</h2>
+          		<div>Short, brown hair, blue eyes and very hot! J/k I look like I should be in MS. doesn't that just get on your nerves!</div>
+
+          		<h2>Nicknames:</h2>
+          		<div>Panda, shortstuff and sty</div>
+
+          		<h2>Things I call Oliver:</h2>
+          		<div>I THINK MY BROTHERS COMPUTER IS GOING TO BLOW UP! [Doh, wait a sec... I wasn't supposed to put that in, was I?
+          		Sorry... here it is... -Oliver] I don't hang out with you enough to call you anything else.</div>
+
+          		<h1>Yet more stuff about... me.</h1>
+           		<h2>Usually, how messy/clean is your room? (1-10, 10 being most messy):</h2>
+          		<div>5-8</div>
+
+          		<h2>Where do you think you'll be in one year?</h2>
+				<div>in my room either sleeping or on the computer</div>
+
+          		<h2>Five years?</h2>
+				<div>in my dorm either sleeping or on the computer [Sorry, had to add that =) -Oliver] - NYU staying up late and styudying or out on the town</div>
+
+          		<h2>Ten years?</h2>
+				<div>in my house either sleeping or on the computer [Me again =) -Oliver] - Graduated and opening up my own club </div>
+
+          		<h2>What do you want your future to be like?</h2>
+          		<div>somewhere either sleeping or on the computer [And again =) -Oliver] - wonderful and be happy</div>
+
+				<h2>3 Wishes:</h2>
+				<div>1- To stay friends with all the ppl that I know now.<br>
+2- I be semi-tall and really really pretty<br>
+3- to open my own club</div>
+
+           		<h2>Misc.:</h2>
+          		<div>Oliver is the coolest person and he is very hott too!</div>
+
+          		<h1>Rant(s)</h1>
+          		<div>I hate when ppl don't act like themselves and when they act like they are better than everyone else</div>
+
+          		<h1>Comments</h1>
+          		<form action="http://www.oliverweb.com/cgi-bin/f2000.cgi" method="POST">
+				<!--#include virtual="amandak.txt" -->
+				<hr width=75% align=center>
+          		<b>Add a comment to a comment</b><br><br>
+          		Text:<br>
+            	<textarea name="quote" rows="5" cols="40"></textarea><br><br>
+	           	<input type="radio" name="followup" value="1" checked>Comment<br>
+				<input type="radio" name="followup" value="2">Delete (Oliver use only =)<br><br>
+				<!--#include virtual="friends.txt" --><br><br>
+            	Password:<br>
+            	<input type="password" size="20" name="password"><br>
+            	<input type="hidden" name="page" value="amandak">
+				<input type="submit" value="Add comment to comment!">
+
+				</form>
+
+				<hr width=75% align=center>
+				<form action="http://www.oliverweb.com/cgi-bin/f2000.cgi" method="POST">
+				<b>Add a comment</b><br><br>
+				Text:<br>
+				<textarea name="quote" rows="5" cols="40"></textarea><br><br>
+
+				<!--#include virtual="friends.txt" --><br><br>
+				<p>Password:<br>
+				<input type="password" size="20" name="password"><br>
+			    <input type="hidden" name="page" value="amandak">
+			    <input type="submit" value="Add comment!">
+				</form>
+
+
+
+          		<p align=right><a id=big href=amandaw.shtml>Next (Amanda W.) --></a></p>
+
+<!--#include virtual="bottomssi.shtml" -->

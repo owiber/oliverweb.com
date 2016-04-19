@@ -1,0 +1,61 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:2-->
+<title>OliverWEB - Discussing: Smart stuff</title>
+</head>
+
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#0000FF">Smart stuff</font> </b><font face="arial" size="1">Friday, December 29, 2000</font><br><font size="2" face="arial">Was shared this piece of "information" today:<blockquote><br>aIl4Him16: what if france were in the cntinental united states?<br>Magestry03: lol<br>Magestry03: like<br>Magestry03: the whole city, as it is now?</blockquote>Yeah...<i>riiiight</i>.... =)<br>-<a href="mailto:oliver@oliverweb.com">Oliver</a></p></font>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 375393-978275430 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>2</b> - Christine</font> <font face=arial size=1>Sunday, December 31, 2000</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">152.158.208.65</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Christine end_name end_fields--><!--ktalk start_comment-->LOL... that's not the blondest thing I've heard. I've done worse. Don't worry about it. I don't even understand Chad's question really. i dont know what centennial means. that's got to be pretty stupid. =)<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 375393-978275430 --><!--ktalk start_item 823135-978153696 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - Olivia</font> <font face=arial size=1>Friday, December 29, 2000</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">24.28.93.78</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Olivia end_name end_fields--><!--ktalk start_comment-->ARGHHHH!!! I was thinking PARIS... PARIS!! When I hear/see France, I think of PARIS... DANGITTTT!!!!!!!!!<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 823135-978153696 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="978153220,78802,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->

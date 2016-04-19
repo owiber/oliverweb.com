@@ -1,0 +1,61 @@
+
+
+<html>
+<head>
+<!--ktalk postnum:2-->
+<title>OliverWEB - Discussing: bruised and battered</title>
+</head>
+
+<!--#include virtual="/ssi/top.shtml"-->
+
+
+<p><b><font face="arial" color="#003399">bruised and battered</font> </b><font face="arial" size="1">Friday, November 9, 2001</font><br><font size="2" face="arial">I am bruised and battered, thus I can not participate in the following scene, but instead, am able to capture it in words (well..Chad's words anyway). So here you go. <br>"Guess how much money I've spent since weezer? A WHOLE LOT. I would say i've spent over 500 bucks. Well i payed 150 for the concert. I bought maybe 80 bucks worth of merchandise while i was there. And i bought a whole lotta cds and who knows how many singles. and i just bought tickets to their concert. and 5 iron frenzy. where di di...oh yeah aaron howard. ANd he was playing the tape. music sucks but dang is it funny. No no no don't say that. what if my parents go to this website. And then I'm in trouble. No nancy No nancy. Why? Oh crap. I'm sorry. *growl* *giggle* my knee's in pain. *makes sword fighting noises*. Protect me nancy, protect me Nancy. ow ow. *laugh* *breath heavily* back away. sorry. sorry it's involuntary. No stop it. You don't want to hurt nancy again do you? Yes you did. If i involuntary respond to an action that you voluntary do...Proof that the youth is molting. phhhhhffffftttttt whoooooooohhhooooooooo heheheheh datala!. Everynight in my dreams I fear..i fear you! I fear you! Please don't matt. NO no no no. *giggle* STOP STOP STOP!!!!! Stop it. Stop it. *laughing hysterically* hahahha. NOOOo stop!!! Nancy sorry about your blanket. Once again. NOt my fault. Maybe you can argue that. Maybe. THere's something about tickling." <br><b>-<a href="mailto:smiles1203@juno.com">Nancy</a></b></font><br>
+
+
+
+<!--ktalk newpost-->
+<!--ktalk start_item 176462-1005445492 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>2</b> - Van</font> <font face=arial size=1>Saturday, November 10, 2001</font><br>
+      <font face=arial size=1><a href=mailto:N/A>N/A</a> (<font size="1">65.56.111.53</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email  end_email start_name Van end_name end_fields--><!--ktalk start_comment-->I'm scared.<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 176462-1005445492 --><!--ktalk start_item 43777-1005436727 -->
+
+<div align="center">
+  <table border="0" width="400">
+    <tr>
+      <td><font face=arial size=2><b>1</b> - <font color="#003399">Oliver</font></font> <font face=arial size=1>Saturday, November 10, 2001</font><br>
+      <font face=arial size=1><a href=mailto:oliver@oliverweb.com>oliver@oliverweb.com</a> (<font size="1" face="Arial">IP Hidden</font>
+)</font><br>
+      <font face=arial size=2><!--ktalk start_fields: start_email oliver@oliverweb.com end_email start_name Oliver end_name end_fields--><!--ktalk start_comment-->Ah... must be great to listen to our conversations... we should bring tape recorders... =)<!--ktalk end_comment--></font></td>
+    </tr>
+  </table>
+<br>
+  <hr width="80%">
+</div>
+<!--ktalk end_item 43777-1005436727 -->
+<form name="commentForm" action="http://www.oliverweb.com/cgi-bin/ktalkpost.cgi" method="POST">
+
+    <input type="hidden" name="newsID" value="1005369986,58289,"><!--ktalk format 1-->
+<font face=arial size=2>
+<table width=400 border=0 cellpadding=0 cellspacing=0><tr>
+<td align=left valign=top><font face=arial size=2>
+Name:<br> <input type="text" name="name"><br>
+Email:<br> <input type="text" name="email"></td><td align=left valign=top><font face=arial size=2>
+Password (not required): <br><input type="password" name="password"></td></tr></table>
+Comment: <br><textarea name="comment" cols="50" rows="10"></textarea><br>
+</font>
+
+<input type="submit" value="Comment!">
+<input type="reset" value="Reset" name="reset">
+
+<!--#include virtual="/ssi/bottom.shtml"-->

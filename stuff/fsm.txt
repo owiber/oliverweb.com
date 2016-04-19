@@ -1,0 +1,146 @@
+#!/usr/bin/perl
+
+##################################################################
+#	DOCUMENTATION:
+#
+#		Algorithm - Pretty much exactly like page 35 in course
+#			supplement. Start with E(start) then "follow" the
+#			states with the given input string. The final list of
+#			states will contain at least one of the final states
+#			iff the FSM accepts the input string.
+#
+#		Date Structures - Basically just uses simple var. types
+#			given in Perl. The most "advanced" thing is a 2D
+#			hash array of arrays. =) It is used to "simulate"
+#			the purpose of delta(q, i) (from page 35 in the CS).
+#			@{$TRANSHASH{*STATE*}{*SYMBOL*}} is an array of states
+#			*STATE* will transition to when *SYMBOL* is the input 
+#			character.
+#
+#		Input Format - 
+#			Alphabet elements and states should be delimited with
+#			spaces. 
+#
+#			Transitions should be in the form:
+#			*STATE1* *SYMBOL* *STATE2*, *STATE3 *SYMBOL* *STATE4*
+#
+#			Input strings should be inputed as one continuous
+#			string (no spaces). Input "q!" exits the simulator.
+#
+#		Other Notes -
+#			If an invalid state or alphabet is entered, the simu-
+#			lator will output an error and restart at the machine
+#			definition input.
+#
+##################################################################
+
+do{
+	&Simulate;
+	print "\n\nDo you want to simulate another machine (y/n)?";
+	chomp($input = <STDIN>);
+}while($input eq "y" || $input eq "Y");
+
+sub Simulate{
+	#Get Input Data
+	$restart = " Restarting... ";
+	$errorStr = "not part of the given set of states. $restart\n";
+	$alphaError = "not part of the alphabet given. $restart\n";
+
+	print "\nSeperate multiple elements with spaces.\n";
+	print "Elements in alphabet: ";
+	chomp($input = <STDIN>);
+	@ALPHABET = split(/ /, $input);
+
+	print "States: ";
+	chomp($input = <STDIN>);
+	@STATES = split(/ /, $input);
+
+	print "Initial State: ";
+	chomp($START = <STDIN>);
+	if(!inArray($START, @STATES)){ 
+		print "\n\"$START\" is $errorStr";
+		goto END;
+	}
+	
+	print "Final States: ";	
+	chomp($input = <STDIN>);
+	@FINALS = split(/ /, $input);
+	@TEMP = ();
+	foreach $final (@FINALS){
+		if(!inArray($final, @STATES)){ 
+			print "\n$final is $errorStr";
+			goto END;
+		}else{
+			push(@TEMP, $final);
+		}
+	}
+	@FINALS = @TEMP;
+
+	print "Transitions (q0 a q1, q1 b q2, etc. * = eplison): ";	
+	chomp($input = <STDIN>);
+	@TRANSREL = split(/ ?, ?/, $input);
+
+	#Check input for validity
+	delete @TRANSHASH{keys %TRANSHASH};
+	foreach $trans (@TRANSREL){
+		my ($start, $elem, $end) = split(/ /, $trans);
+		if(!inArray($start, @STATES))
+			{ print "\n$start is $errorStr"; goto END;}
+		elsif(!inArray($end, @STATES))
+			{ print "\n$end is $errorStr"; goto END;}
+		elsif(!inArray($elem, @ALPHABET) && $elem ne "*")
+			{ print "\n$elem is $alphaError"; goto END;}
+		else { push(@{$TRANSHASH{$start}{$elem}}, $end);}
+	}
+
+	#Start simulation
+	INPUTSTRING:
+		print "\nInput string (q! to exit): ";
+		chomp($inputString = <STDIN>);
+		if($inputString ne "q!"){
+			@inputs = split(//, $inputString);
+			@ST = &E($START);
+			foreach $input (@inputs){
+				@ST1 = ();
+				foreach $Sstate (@ST){
+					foreach $Fstate (@{$TRANSHASH{$Sstate}{$input}})
+						{ push(@ST1, &E($Fstate)); }
+				}
+				@ST = @ST1;
+			}
+			foreach $final (@FINALS){
+				if(inArray($final, @ST1)){
+					print "Yes!\n";
+					goto INPUTSTRING;
+				}
+			}
+			print "No!\n";
+			goto INPUTSTRING;
+		}
+		END: ;
+}
+
+#Find "equivalent" states
+sub E{
+	($state, @oldArray) = @_;
+	my @return = ();
+	if(!inArray($state, @oldArray)){
+		push(@return, $state);
+		foreach $tempState (@{$TRANSHASH{$state}{"*"}}){
+			if(!inArray($tempState, @return)){ 
+				push (@oldArray, @return);
+				push(@return, &E($tempState, @oldArray)); 
+			}
+		}
+	}
+	return @return;
+}
+
+sub inArray{
+	($string, @array) = @_;
+	foreach $arr (@array){
+		if($string eq $arr)
+			{ return 1; }
+	}
+	return 0;
+}

@@ -1,0 +1,12 @@
+<!--Oliver is da bomb! hehe-->
+<ul><li><input type="radio" name="quotenum" value="2">
+<b>"Hey is she ever gonna come to her page? Lol... that picture is gonna be there forever."</b> [<u><font color=#8000FF>Sarah</font></u>]
+<!--o 2--><ul>
+<li>She saw it already. =) I just haven't gotten any other pictures... -<u><b><font color=#0000FF>Oliver</font></u></b>
+</ul></li></ul><p>
+<ul><li><input type="radio" name="quotenum" value="1">
+<b>"Hey Cool!! Lol, I promise she really told me to put that under Misc. =) Course, after I said this:<br>PiFactor5: misc. is like other...<br>
+
+PiFactor5: so just whatever you want, put in there<br>PiFactor5: say how cool I am and stuff like that"</b> [<u><font color=#0000FF>Oliver</font></u>]
+<!--o 1--><ul>
+</ul></li></ul><p>

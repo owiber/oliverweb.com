@@ -1,0 +1,232 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="http://www.movabletype.org/" />
+
+<title>OliverWEB 2005: news Archives</title>
+
+<link rel="stylesheet" href="http://www.oliverweb.com/stylesheet.css" type="text/css" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.oliverweb.com/index.rdf" />
+<link rel="alternate" type="application/atom+xml" title="Atom" href="http://www.oliverweb.com/atom.xml" />
+</head>
+<body>
+<div id="all">
+<div id="headerimage">
+	<div id="links"><a href="http://www.oliverweb.com">blog</a> | <a href="http://www.oliverweb.com/gallery">gallery</a> | <a href="http://www.oliverweb.com/main/">legacy</a></div>	
+</div>
+<div id="container">
+<div class="spacer"></div>
+<div id="sidebar">
+
+<!-- START RECENT ENTRIES -->
+<!-- 
+<h2>recent entries</h2>
+
+<ul>
+<li><a href="http://www.oliverweb.com/archives/2004/10/gov310l.shtml">GOV310L</a></li>
+<li><a href="http://www.oliverweb.com/archives/2004/10/digital_rebelli.shtml">Digital Rebellian</a></li>
+<li><a href="http://www.oliverweb.com/archives/2004/10/the_hotness.shtml">The Hotness</a></li>
+
+</ul>
+<br />
+-->
+<!-- END RECENT ENTRIES -->
+
+<!-- START CATEGORIES -->
+<h2>categories</h2>
+<ul>
+  <li><a href="http://www.oliverweb.com/archives/events/index.shtml">events</a></li>
+  <li><a href="http://www.oliverweb.com/archives/friends/index.shtml">friends</a></li>
+  <li><a href="http://www.oliverweb.com/archives/misc/index.shtml">misc</a></li>
+  <li><a href="http://www.oliverweb.com/archives/news/index.shtml">news</a></li>
+  <li><a href="http://www.oliverweb.com/archives/photographs/index.shtml">photographs</a></li>
+
+</ul>
+<!-- END CATEGORIES -->
+<br />
+<!-- START ARCHIVES -->
+<h2>archives</h2>
+<ul>
+<li><a href="http://www.oliverweb.com/archives/2004/10/index.shtml">October 2004</a></li>
+
+</ul>
+<!-- END ARCHIVES -->
+<br />
+
+<!-- START LINKS -->
+<h2>links</h2>
+<ul>
+<li><a href="http://www.gizmodo.com">Gizmodo</a></li>
+<li><a href="http://www.hardocp.com">[H]ard|OCP</a></li>
+<li><a href="http://www.liquid-acc.com">Liquid</a></li>
+<li><a href="http://www.osnews.com">OSNews</a></li>
+<li><a href="http://www.slashdot.org">Slashdot</a></li>
+</ul>
+<!-- END LINKS -->
+<br />
+
+<!-- START BLOGS-->
+<h2>blogs</h2>
+<ul>
+<li><a href="http://blogs.sun.com/andrew">Andrew</a></li>
+<li><a href="http://www.mrbrook.com">Brook</a></li>
+<li><a href="http://www.xanga.com/nosliwc156">Chad</a></li>
+<li><a href="http://www.xanga.com/chix0rgirl">Kathy</a></li>
+<li><a href="http://www.xanga.com/pancy">Nancy</a></li>
+<li><a href="http://www.xanga.com/ochs">Ochs</a></li>
+<li><a href="http://www.xanga.com/cup_a_ooo">Olivia</a></li>
+<li><a href="http://www.xanga.com/OreoReoEoO">Oriana</a></li>
+<li><a href="http://www.xanga.com/your_shadow">Sam</a></li>
+<li><a href="http://www.bamboovanpoo.com">Van</a></li>
+</ul>
+<!-- END BLOGS-->
+<br />
+
+<!-- START SEARCH-->
+<h2>search</h2>
+<form method="get" action="http://www.oliverweb.com/mt/mt-search.cgi">
+<input type="hidden" name="IncludeBlogs" value="1" />
+<input id="search" name="search" size="20" /><br />
+<input type="submit" value="Search" />
+</form>
+<!-- END SEARCH-->
+
+<br />
+
+</div> <!-- END SIDEBAR -->
+
+<div id="content">
+<div id="contentblurb">
+<p>Welcome to OliverWEB 2005, where all your dreams come true!  Even Sam's!  Just follow the yellow brick road!  Becoz, becoz, becoz, becoz, becoz!!  No one gets in to see the wizard, not no way, not no how! <br /><br /> ...*ahem*... so, if you're curious where all the old OliverWEB stuff on the sidebar went... it's gone. Yes yes, I've decided to drop all the old stuff and create an entirely new site including backend, layout, etc.  The <a href="http://www.oliverweb.com/main">old OliverWEB</a> can still be found by clicking on the "legacy" link at the top right of this page. Enjoy!</p>
+</div>
+<br />
+<!-- START BLOGS -->
+<div id="blogs">
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.oliverweb.com/archives/news/index.shtml#000030"
+    trackback:ping="http://www.oliverweb.com/mt/mt-tb.cgi/29"
+    dc:title="GOV310L"
+    dc:identifier="http://www.oliverweb.com/archives/news/index.shtml#000030"
+    dc:subject="news"
+    dc:description="Who wants to CLEP out? I&apos;ve signed up for: Tue 11/30/04 10:30 AM - 1:00 P BWY 104Bat the testing center. BTW, anyone taken the CLEP already? I want to know how much I should study beforehand... I think someone..."
+    dc:creator="Oliver"
+    dc:date="2004-10-26T12:49:42-06:00" />
+</rdf:RDF>
+-->
+
+
+<h2>October 26, 2004</h2>
+
+
+<h3 id="a000030">GOV310L</h3>
+
+<p>Who wants to CLEP out?  I've signed up for:<br />
+<pre>Tue 11/30/04 	10:30 AM - 1:00 P 	BWY 104B</pre>at the <a href="https://wnt.cc.utexas.edu/~mec/index.cfm">testing center</a>.  BTW, anyone taken the CLEP already?  I want to know how much I should study beforehand... I think someone told me there's a packet somewhere that we can read and it pretty much tells us everything we need to know?</p>
+
+
+
+<p class="posted">
+Posted by Oliver at <a href="http://www.oliverweb.com/archives/2004/10/gov310l.shtml">12:49 PM</a>
+| <a href="http://www.oliverweb.com/archives/2004/10/gov310l.shtml#comments">Comments (0)</a>
+
+| <a href="http://www.oliverweb.com/archives/2004/10/gov310l.shtml#trackbacks">TrackBack</a>
+
+</p>
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.oliverweb.com/archives/news/index.shtml#000008"
+    trackback:ping="http://www.oliverweb.com/mt/mt-tb.cgi/7"
+    dc:title="Digital Rebellian"
+    dc:identifier="http://www.oliverweb.com/archives/news/index.shtml#000008"
+    dc:subject="news"
+    dc:description="Well, Van and I went over to pick up my &quot;new&quot; Canon Digital Rebel last night and I&apos;m playing around with it at the moment. Expect some photos to be posted within a day or two. I&apos;m borrowing Van&apos;s 50mm..."
+    dc:creator="Oliver"
+    dc:date="2004-10-14T12:16:53-06:00" />
+</rdf:RDF>
+-->
+
+
+<h2>October 14, 2004</h2>
+
+
+<h3 id="a000008">Digital Rebellian</h3>
+
+<p>Well, Van and I went over to pick up my "new" <a href="http://consumer.usa.canon.com/ir/controller?act=ModelDetailAct&fcategoryid=139&modelid=9430">Canon Digital Rebel</a> last night and I'm playing around with it at the moment.  Expect some photos to be posted within a day or two.</p>
+
+<p>I'm borrowing Van's <a href="http://consumer.usa.canon.com/ir/controller?act=ModelDetailAct&fcategoryid=152&modelid=7306">50mm f/1.8</a> right now, but I just ordered a <a href="http://consumer.usa.canon.com/ir/controller?act=ModelDetailAct&fcategoryid=149&modelid=7337">28-135mm f/3.5-5.6 IS USM</a> lens which I should receive early next week.  HOTNESS. It's picture time!</p>
+
+
+
+<p class="posted">
+Posted by Oliver at <a href="http://www.oliverweb.com/archives/2004/10/digital_rebelli.shtml">12:16 PM</a>
+| <a href="http://www.oliverweb.com/archives/2004/10/digital_rebelli.shtml#comments">Comments (0)</a>
+
+| <a href="http://www.oliverweb.com/archives/2004/10/digital_rebelli.shtml#trackbacks">TrackBack</a>
+
+</p>
+
+<!--
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about="http://www.oliverweb.com/archives/news/index.shtml#000005"
+    trackback:ping="http://www.oliverweb.com/mt/mt-tb.cgi/4"
+    dc:title="The Hotness"
+    dc:identifier="http://www.oliverweb.com/archives/news/index.shtml#000005"
+    dc:subject="news"
+    dc:description="Weeeeellll, it&apos;s October and that means I&apos;m supposed to make a new OliverWEB design. As you can tell, I actually did it &quot;on time&quot; this year. I decided to get rid of all the old stuff and so if you..."
+    dc:creator="Oliver"
+    dc:date="2004-10-12T16:35:14-06:00" />
+</rdf:RDF>
+-->
+
+
+<h2>October 12, 2004</h2>
+
+
+<h3 id="a000005">The Hotness</h3>
+
+<p>Weeeeellll, it's October and that means I'm supposed to make a new OliverWEB design.  As you can tell, I actually did it "on time" this year.  I decided to get rid of all the old stuff and so if you want to look at any of the pages/posts from the past, you'll have to use the legacy link at the top of this page to view the <a href="http://www.oliverweb.com/main">old OliverWEB</a>.</p>
+
+<p>I decided to give <a href="http://www.movabletype.org">Movable Type</a> a try, so that's the backend at the moment.  I also pretty much completely used <a href="http://www.w3.org/Style/CSS/">CSS</a> for the layout stuff, which is actually pretty cool.  I'm waiting for my camera to come in within a few days, but after that, I plan on posting pics and treating this somewhat like a photo-blog.  I'm also going to try to keep the page(s) "<a href="http://validator.w3.org/">XHTML 1.0 Transitional</a>" validated (whatever that means), but we'll see how that goes. =)</p>
+
+
+
+<p class="posted">
+Posted by Oliver at <a href="http://www.oliverweb.com/archives/2004/10/the_hotness.shtml">04:35 PM</a>
+| <a href="http://www.oliverweb.com/archives/2004/10/the_hotness.shtml#comments">Comments (2)</a>
+
+| <a href="http://www.oliverweb.com/archives/2004/10/the_hotness.shtml#trackbacks">TrackBack</a>
+
+</p>
+
+
+</div>
+<!-- END BLOGS -->
+
+</div>
+<div class="spacer"></div>
+</div>
+<div id="bottombar">
+<div id="text">
+
+<a href="http://www.oliverweb.com/atom.xml"><img src="/images05/rssbadge.gif" width="36" height="14" border="0" alt="" /></a>
+
+Powered by <a href="http://www.movabletype.org">Movable Type 3.121</a>
+</div>
+</div>
+</div>
+</body>
+
+</html>

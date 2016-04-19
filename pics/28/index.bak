@@ -1,0 +1,28 @@
+<html>
+<head>
+<title>
+OliverWEB - Pictures
+</title></head>
+<!--#include virtual="../../ssi/top.shtml"-->
+<center><h2><font color=blue>Pics!</font></h2><p>
+<!--#include virtual="../contents.txt"-->
+
+<img src=vanpills.jpg width=300 height=236><br>
+Van: "Decaf... or regular?" (Think... <i>The Matrix</i> =)<p>
+
+<img src=van3.jpg width=280 height=269><br>
+Van has gone trying to bring people out of <i>the matrix</i>...<p>
+
+<img src=van.jpg width=275 height=186><br>
+Van: "Decaf or regular?"<br>
+Other guy: "What the *#@%?!?!"<p>
+
+<img src=van2.jpg width=300 height=276><br>
+Ms. Kuehne hasn't seen the Matrix...<br>
+Van: "Oh."<p>
+
+<img src=vaneat.jpg width=200 height=205><br>
+Van: "I can't... open... the... green... one!!!"<p>
+
+<!--#include virtual="../contents.txt"-->
+<!--#include virtual="../../ssi/bottom.shtml"-->
